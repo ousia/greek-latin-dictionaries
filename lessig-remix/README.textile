@@ -1,0 +1,11 @@
+h1. A @textile@ version from Lawrence Lessig, _Remix_
+
+I want to ouput _Remix: Making Art and Commerce Thrive in the Hybrid Economy_ by Lawrence Lessig in ePub format.
+
+It will take long before I could offer a readable version (part is the original file, part is the @textile@ format and part is the @pandoc@ tool).
+
+h2. License
+
+This work is released to the public under a "Creative Commons Atributtion-NoCommercial 3.0":https://creativecommons.org/licenses/by-nc/3.0/ license.
+
+I release my version under a "Creative Commons Attributtion-NonCommercial-ShareAlike 3.0":https://creativecommons.org/licenses/by-nc-sa/3.0/ license.
