@@ -38,13 +38,13 @@ But in America, associations with war are not necessarily negative. I don’t me
 
 That romance in turn allows the metaphor to spread into other social or political conflicts. We wage war on drugs, on poverty, on terrorism, on racism. There is a war on government waste, a war on crime, a war on spam, a war on guns, and a war on cancer. As Professors George Lakoff and Mark Johnson describe, each of these “wars” produces a “network of entailments.” Those entailments then frame and drive social policy. As they put it, in discussing President Carter’s “moral equivalent of war” speech:
 
-bq. There was an “enemy,” a “threat to national security,” which required “setting targets,” “reorganizing priorities,” “establishing a new chain of command,” “plotting new strategy,” “gathering intelligence,” “marshaling forces,” “imposing sanctions,” “calling for sacrifices,” and on and on. The WAR metaphor highlighted certain realities and hid others. The metaphor was not merely a way of viewing reality; it constituted a license for policy change and political and economic action. The very acceptance of the metaphor provided grounds for certain interferences: there was an external, foreign, hostile enemy (pictured by cartoonist in Arab headdress); energy needed to be given top priorities; the populace would have to make sacrifices; if we didn’t meet the threat we would not survive.[1]
+bq. There was an “enemy,” a “threat to national security,” which required “setting targets,” “reorganizing priorities,” “establishing a new chain of command,” “plotting new strategy,” “gathering intelligence,” “marshaling forces,” “imposing sanctions,” “calling for sacrifices,” and on and on. The WAR metaphor highlighted certain realities and hid others. The metaphor was not merely a way of viewing reality; it constituted a license for policy change and political and economic action. The very acceptance of the metaphor provided grounds for certain interferences: there was an external, foreign, hostile enemy (pictured by cartoonist in Arab headdress); energy needed to be given top priorities; the populace would have to make sacrifices; if we didn’t meet the threat we would not survive.[101]
 
 A fight for survival has obvious implications. Such fights get waged without limit. It is cowardly to question the cause. Dissent is an aid to the enemy—treason, or close enough. Victory is the only result one may contemplate, at least out loud. Compromise is always defeat.
 
 These entailments make obvious sense during conflicts such as World War II, when there really was a fight for survival; my spark of Lakoffian recognition, however, was to see just how dangerous these entailments are when the war metaphor gets applied in contexts in which, in fact, survival is not at stake.
 
-Think, for example, about the “war on drugs.” Fighting debilitating chemical addiction is no doubt an important social objective. I have seen firsthand the absolute destruction it causes. But the “war on drugs” metaphor prevents us from recognizing that there may be other, more important objectives that the war is threatening. Think about the astonishingly long prison terms facing even small–time dealers—the Supreme Court, for example, has upheld a life sentence without the possibility of parole for the possession of 672 grams of cocaine.2 Think about ghettos burdened by the drug trade. Think about governments in Latin America that have no effectively independent judiciary or even army because the wealth produced by prohibition enables the drug lords to capture their control. And then think about the fact that this war has had essentially no effect on terminating the supply of drugs. One doesn’t notice these inconvenient truths in the middle of a war. To see them, you need a truce. You need to step back from the war to ask, How much is it really costing? Is the results really worth the price?
+Think, for example, about the “war on drugs.” Fighting debilitating chemical addiction is no doubt an important social objective. I have seen firsthand the absolute destruction it causes. But the “war on drugs” metaphor prevents us from recognizing that there may be other, more important objectives that the war is threatening. Think about the astonishingly long prison terms facing even small–time dealers—the Supreme Court, for example, has upheld a life sentence without the possibility of parole for the possession of 672 grams of cocaine.[102] Think about ghettos burdened by the drug trade. Think about governments in Latin America that have no effectively independent judiciary or even army because the wealth produced by prohibition enables the drug lords to capture their control. And then think about the fact that this war has had essentially no effect on terminating the supply of drugs. One doesn’t notice these inconvenient truths in the middle of a war. To see them, you need a truce. You need to step back from the war to ask, How much is it really costing? Is the results really worth the price?
 
 The inspiration for this book is the copyright wars, by which right–thinking sorts mean not the “war” on copyright “waged” by “pirates” but the “war” on “piracy,” which “threatens” the “survival” of certain important American industries.
 
@@ -54,11 +54,11 @@ But, like all metaphoric wars, the copyright wars are not actual conflicts of su
 
 I believe we should not be waging this war. I believe so not because I think copyright is unimportant. Instead, I believe in peace because the costs of this war wildly exceed any benefit, at least when you consider changes to the current regime of copyright that could end this war while promising artists and authors the protection that any copyright system is intended to provide.
 
-In the past, I’ve tried to advance this view for peace by focusing on the costs of this war to innovation, to creativity, and, ultimately, to freedom. My aim in The Future of Ideas was to defend industries that never get born for fear of the insane liability that the current regime of copyright imposes. My subject in Free Culture was the forms of creative expression and freedom that get trampled by the extremism of defending a regime of copyright built for a radically different technological age.
+In the past, I’ve tried to advance this view for peace by focusing on the costs of this war to innovation, to creativity, and, ultimately, to freedom. My aim in _The Future of Ideas_ was to defend industries that never get born for fear of the insane liability that the current regime of copyright imposes. My subject in _Free Culture_ was the forms of creative expression and freedom that get trampled by the extremism of defending a regime of copyright built for a radically different technological age.
 
-But I finished Free Culture just as my first child was born. And in the four years since, my focus, or fears, about this war have changed. I don’t doubt the concerns I had about innovation, creativity, and freedom. But they don’t keep me awake anymore. Now I worry about the effect this war is having upon our kids. What is this war doing to them? Whom is it making them? How is it changing how they think about normal, right–thinking behavior? What does it mean to a society when a whole generation is raised as criminals?
+But I finished _Free Culture_ just as my first child was born. And in the four years since, my focus, or fears, about this war have changed. I don’t doubt the concerns I had about innovation, creativity, and freedom. But they don’t keep me awake anymore. Now I worry about the effect this war is having upon our kids. What is this war doing to them? Whom is it making them? How is it changing how they think about normal, right–thinking behavior? What does it mean to a society when a whole generation is raised as criminals?
 
-This is not a new question. Indeed, it was the question that the former, now late, head of the Motion Picture Association of America, Jack Valenti, asked again and again as he fought what he called a “terrorist war” against “piracy.”3 It was the question he asked a Harvard audience the first time he and I debated the issue. In his brilliant and engaging opening, Valenti described another talk he had just given at Stanford, at which 90 percent of the students confessed to illegally downloading music from Napster. He asked a student to defend this “stealing.” The student’s response was simple: Yes, this might be stealing, but everyone does it. How could it be wrong? Valenti then asked his Stanford hosts: What are you teaching these kids? “What kind of moral platform will sustain this young man in his later life?”
+This is not a new question. Indeed, it was the question that the former, now late, head of the Motion Picture Association of America, Jack Valenti, asked again and again as he fought what he called a “terrorist war” against “piracy.”[103] It was the question he asked a Harvard audience the first time he and I debated the issue. In his brilliant and engaging opening, Valenti described another talk he had just given at Stanford, at which 90 percent of the students confessed to illegally downloading music from Napster. He asked a student to defend this “stealing.” The student’s response was simple: Yes, this might be stealing, but everyone does it. How could it be wrong? Valenti then asked his Stanford hosts: What are you teaching these kids? “What kind of moral platform will sustain this young man in his later life?”
 
 This wasn’t the question that interested me in that debate. I blathered on about the framers of our Constitution, about incentives, and about limiting monopolies. But Valenti’s question is precisely the question that interests me now: “What kind of moral platform will sustain this young man in his later life?” For me, “this young man” represents my two young sons. For you, it may be your daughter, or your nephew. But for all of us, whether we have kids or not, Valenti’s question is exactly the question that should concern us most. In a world in which technology begs all of us to create and spread creative work differently from how it was created and spread before, what kind of moral platform will sustain our kids, when their ordinary behavior is deemed criminal? Who will they become? What other crimes will to them seem natural?
 
@@ -82,7 +82,7 @@ We need, in other words, more humility about regulation. The twentieth century c
 
 We’ve forgotten these limits of humility. Wherever there is a wrong, the first instinct of our government is to send in the legal equivalent of the marines. We pass a law to ban a behavior, but we rarely work through just how that law will change behavior. Nor do we assess how corrosive it is if, the law notwithstanding, the behavior remains the same, though now with the label “criminal.” If something is wrong, it gets a law, without us even working through alternatives to exploding regulation.
 
-If you’re skeptical, think about a simple example. Around the time the Supreme Court heard arguments in the well–known peer–to–peer file–sharing case MGM v. Grokster,4 my local public–radio station aired a story about the case. The story happened to run on a day when the radio station was also running its own fund–raising drive. Just after the story about Grokster ended, the show shifted to its call for public support. “More than 90 percent of people who listen to public radio don’t contribute to its support,” the announcer said. “That’s why we need you to contribute now.”
+If you’re skeptical, think about a simple example. Around the time the Supreme Court heard arguments in the well–known peer–to–peer file–sharing case MGM v. Grokster,[104] my local public–radio station aired a story about the case. The story happened to run on a day when the radio station was also running its own fund–raising drive. Just after the story about Grokster ended, the show shifted to its call for public support. “More than 90 percent of people who listen to public radio don’t contribute to its support,” the announcer said. “That’s why we need you to contribute now.”
 
 I had worked on a brief in the Grokster case, in which we addressed the content industry’s claim that 91 percent of the content shared on peer–to–peer file–sharing networks was in violation of copyright law. We had responded by reminding the Court that in the earlier Sony Betamax case, in which the VCR was the target, the content industry had also estimated that 91 percent of VCR usage was in violation of copyright laws. The industry was nothing if not consistent.
 
@@ -129,7 +129,7 @@ I’m not one to be moved by John Lennon’s solo work. Yet as I sat in that pit
 
 Throughout her career Breitz has focused upon the relationship between mainstream culture—from blockbuster movies to pop music—and the audience who experiences it. As she explained to me,
 
-bq. the idea is to shift the focus away from those people who are usually perceived as creators so as to give some space, some room, to those people who absorb cultural products—whether it’s music or movies or whatever the case may be. And to think a little bit about what happens once music or a movie has been distributed: how it may get absorbed into the lives into the very being of the people who listen to it or watch it.1
+bq. the idea is to shift the focus away from those people who are usually perceived as creators so as to give some space, some room, to those people who absorb cultural products—whether it’s music or movies or whatever the case may be. And to think a little bit about what happens once music or a movie has been distributed: how it may get absorbed into the lives into the very being of the people who listen to it or watch it.[201]
 
 Each of us connects differently. The connection runs deep in some; it skips across the surface in others. Sometimes it catches us and pulls us along. Sometimes it changes us completely. Again, Breitz:
 
@@ -159,7 +159,7 @@ But with the portrait of Lennon, the reception wasn’t quite so warm. At White 
 
 The curator described the proposal again. Ono asked to see it in writing. After reviewing it, her lawyers informed Breitz that she could use John Lennon/Plastic Ono Band in her project, but:
 
-bq. Please note, clearance for the use of the actual musical compositions must be secured from the relevant publishers.2
+bq. Please note, clearance for the use of the actual musical compositions must be secured from the relevant publishers.[202]
 
 Relieved (however naively), Breitz then asked White Cube’s lawyers to start the process of securing “clearance” from the copyright holders for the compositions. Three months later, the lawyers representing Sony (holder of the rights to ten of the eleven songs on the album) quoted a standard fee of approximately $45,000 for one month’s exhibition. Sony knew this was too much but wanted to set a baseline for the negotiations that would follow. They requested that the artist let them know the largest sum that she could afford. They wanted to see the project’s budget.
 
@@ -174,7 +174,7 @@ Gregg Gillis is a twenty–five–year–old biomedical engineer from Pittsburgh
 
 Doyle’s comments helped fuel a flurry of media attention to Girl Talk. That, in turn, helped fuel some real anxiety among Girl Talk’s distributors. For the defining feature of this mash–up genre is that the samples are remixed without any permission from the original artists. And if you ask any lawyer representing any label in America, he or she would quickly Ono–ize: “Permission is vital, legally.” Thus, as Gillis practices it, Girl Talk is a crime. Apple pulled Night Ripper from the iTunes Music Store. eMusic had done the same a few weeks before. Indeed, one CD factory had refused even to press the CD.
 
-Gillis had begun with music at the age of fifteen. Listening to electronic experimental music on a local radio station, he “discovered this world of people that could press buttons and make noise on pedals and perform it live.” “It kind of blew my mind,” he told me. At the age of sixteen he “formed a noise band—noise meaning very avant–garde music” for the time.3
+Gillis had begun with music at the age of fifteen. Listening to electronic experimental music on a local radio station, he “discovered this world of people that could press buttons and make noise on pedals and perform it live.” “It kind of blew my mind,” he told me. At the age of sixteen he “formed a noise band—noise meaning very avant–garde music” for the time.[203]
 
 Over the years, “avant–garde” moved from analog to digital—aka computers. Girl Talk the band was born in late 2000 on a Toshiba originally purchased for college. Gillis loaded the machine with audio tracks and loops. Then, using a program called AudioMulch, he would order and remix the tracks to prepare for a performance. I’ve seen Girl Talk perform live; his shows are as brilliant as his recorded remixes.
 
@@ -210,7 +210,7 @@ SilviaO’s track was a beautiful rendition of a song sung in Spanish, described
 
 As she stood before those who had come to celebrate Creative Commons Colombia and described this “mutilation,” I, the chairman of Creative Commons, began to sweat. I was certain she was about to attack remix creativity. A remixer had totally destroyed the meaning of her contribution. I was certain this was to become a condemnation of the freedom that I had thought we were all there to celebrate.
 
-To my extraordinary surprise and obvious relief, however, SilviaO had no condemnation to share. She instead described how the experience had totally changed how she thought about creating music. Sure, the words were no longer meaningful. But the sound had taken on new meaning. As she told me later, “the song became more jazzy, and it opened the gate to understanding that maybe it was going to be more to treat my voice as an instrument and something completely independent from lyrics than I was used to before.”4
+To my extraordinary surprise and obvious relief, however, SilviaO had no condemnation to share. She instead described how the experience had totally changed how she thought about creating music. Sure, the words were no longer meaningful. But the sound had taken on new meaning. As she told me later, “the song became more jazzy, and it opened the gate to understanding that maybe it was going to be more to treat my voice as an instrument and something completely independent from lyrics than I was used to before.”[204]
 
 Inspired by that remix, she wrote another track to be layered onto the first. Since then, she has added song after song to the ccMixter collection. Unlike Breitz’s work or Girl Talk, all these remixes were legal. If “permission is vital, legally,” then with this work, permission had already been given. The Creative Commons licenses had shifted the copyright baseline through the voluntary acts of copyright holders.
 
@@ -253,7 +253,7 @@ John Philip Sousa was obviously not offering a prediction about the evolution of
 
 So why would one of America’s most prominent professional musicians criticize the loss of amateur music?
 
-Sousa’s fear was not that the quality of music would decline as less was produced by amateurs and more by professionals. Instead, his fear was that culture would become less democratic: not in the sense that people would vote about what is, or is not, good culture, but in a sense that MIT professor Eric von Hippel means when he argues that innovation today is becoming more “democratized.”3 In the world Sousa feared, fewer and fewer would have the access to instruments, or the capacity, to create or add to the culture around them; more and more would simply consume what had been created elsewhere. Culture would become the product of an elite, even if this elite, this cultural monarchy, was still beloved by the people.
+Sousa’s fear was not that the quality of music would decline as less was produced by amateurs and more by professionals. Instead, his fear was that culture would become less democratic: not in the sense that people would vote about what is, or is not, good culture, but in a sense that MIT professor Eric von Hippel means when he argues that innovation today is becoming more “democratized.”[203] In the world Sousa feared, fewer and fewer would have the access to instruments, or the capacity, to create or add to the culture around them; more and more would simply consume what had been created elsewhere. Culture would become the product of an elite, even if this elite, this cultural monarchy, was still beloved by the people.
 
 Indeed, he believed this change was already happening. As he recounted:
 
@@ -676,7 +676,7 @@ h4. Education
 
 A second value in remix extends beyond the value of a community. Remix is also and often, as Mimi Ito describes, a strategy to excite “interest–based learning.” As the name suggests, interest–based learning is the learning driven by found interests. When kids get to do work that they feel passionate about, kids (and, for that matter, adults) learn more and learn more effectively.
 
-I wrote about this in an earlier book, Free Culture. There I described the work of Elizabeth Daley and Stephanie Barish, both of whom were working with kids in inner–city schools. By giving these kids basic media literacy, they saw classes of students who before could not retain their focus for a single period now spending every free moment of every hour the school was open editing and perfecting video about their lives, or about stories they wanted to tell.
+I wrote about this in an earlier book, _Free Culture_. There I described the work of Elizabeth Daley and Stephanie Barish, both of whom were working with kids in inner–city schools. By giving these kids basic media literacy, they saw classes of students who before could not retain their focus for a single period now spending every free moment of every hour the school was open editing and perfecting video about their lives, or about stories they wanted to tell.
 
 Others have seen the same success grow from using remix media to teach. At the University of Houston—a school where a high percentage of the students don’t speak English as their first language—the Digital Storytelling project has produced an extraordinary range of historical videos, created by students who research the story carefully, and select from archives of images and sounds the mix that best conveys the argument they want their video to make.
 
@@ -754,7 +754,7 @@ But the economic value in this consumption is tiny compared with the economic po
 
 This is a point that has been made for some time, perhaps never better than in Andrew Odlyzko’s essay “Content Is Not King”: 2 despite the rhetoric of the content industry, the most valuable contribution to our economy comes from connectivity, not content. Content is the ginger in gingerbread—important, no doubt, but nothing like the most valuable component in the mix.
 
-People on the Right need to recognize this. As I’ve watched the debate about copyright develop, I’ve been astonished by how quickly those on the Right have been captured by the content industry. Maybe I’m astonished because, as Stewart Baker chided me in a review of Free Culture, liberals like me spend too much time talking to liberals like me rather than to conservatives. As Baker wrote in his review,
+People on the Right need to recognize this. As I’ve watched the debate about copyright develop, I’ve been astonished by how quickly those on the Right have been captured by the content industry. Maybe I’m astonished because, as Stewart Baker chided me in a review of _Free Culture_, liberals like me spend too much time talking to liberals like me rather than to conservatives. As Baker wrote in his review,
 
 bq. Viewed up close, copyright bears little resemblance to the kinds of property that conservatives value. Instead, it looks like a constantly expanding government program run for the benefit of a noisy, well–organized interest group—like Superfund, say, or dairy subsidies, except that the benefits go not to endangered homeowners or hard–working farmers but to the likes of Barbra Streisand and Eminem. . . . Copyright is a trial lawyer’s dream—a regulatory program enforced by private lawsuits where the plaintiffs have all the advantages, from injury–free damages awards to liability doctrines that extract damages from anyone who was in the neighborhood when an infringement occurred.3
 
@@ -948,7 +948,7 @@ No doubt someone would have lost something in this alternative scenario. Lawyers
 
 [Another image not rendered in text.]
 
-I raise this parallel not to endorse peer–to–peer file sharing. I stand by my position in Free Culture that “piracy” is wrong—a position I repeated nine times in that book.32 Instead, I raise the parallel to ask whether we want to make this mistake again. Should the next ten years be another decade–long war against our kids? Should we spend more of our resources hiring lawyers and technologists to build better weapons to wage war against those practicing RW culture? Have we learned nothing from the total failure of policy that has defined copyright policy over the last decade?
+I raise this parallel not to endorse peer–to–peer file sharing. I stand by my position in _Free Culture_ that “piracy” is wrong—a position I repeated nine times in that book.32 Instead, I raise the parallel to ask whether we want to make this mistake again. Should the next ten years be another decade–long war against our kids? Should we spend more of our resources hiring lawyers and technologists to build better weapons to wage war against those practicing RW culture? Have we learned nothing from the total failure of policy that has defined copyright policy over the last decade?
 
 I believe this for the same reason the content industry is so keen to enforce copyright. As the RIAA’s Mitch Bainwol and Cary Sherman explained:
 
@@ -2369,7 +2369,7 @@ This book is not about that corruption generally. All I have aimed for here is t
 h2. Acknowledgments
 
 
-This book is the culmination of a long effort to make an obvious point clear. Much of that effort came in the form of lectures I’ve given about this subject since publishing Free Culture (2004). There have been more than two hundred such lectures. Each time, the argument advanced and changed, sometimes slightly, sometimes significantly. This book represents an end to that evolution, if only because I have shifted the focus of my work elsewhere.
+This book is the culmination of a long effort to make an obvious point clear. Much of that effort came in the form of lectures I’ve given about this subject since publishing _Free Culture_ (2004). There have been more than two hundred such lectures. Each time, the argument advanced and changed, sometimes slightly, sometimes significantly. This book represents an end to that evolution, if only because I have shifted the focus of my work elsewhere.
 
 Throughout this period, I have felt as if I was mediating between two powerful views—one expressed in the work of the late Lyman Ray Patterson; the other, expressed in the passion of the late Jack Valenti.
 
@@ -2379,7 +2379,7 @@ I met Patterson just once. I debated Jack Valenti publicly four times. And thoug
 
 I am grateful to the many whose ideas and arguments I’ve used in this book and who have fundamentally shaped my thinking. I had a very different conception of the story this book tells, for example, until Tim O’Reilly shifted my view fundamentally. Likewise, though in differing degrees, with the other interviewees who appear throughout the book: Brian Behlendorf, Marc Brandon, Candice Breitz, Stewart Butterfield, Steve Chen, Gregg Gillis, Mark Hosier, Joi Ito, Mimi Ito, Don Joyce, Brewster Kahle, Heather Lawver, Declan McCullagh, Dave Marglin, Craig Newmark, Silvia Ochoa, Tim O’Reilly, Philip Rosedale, Mark Shuttleworth, Johan Söderberg, Victor Stone, Jimmy Wales, Jerry Yang, and Robert Young. I have learned a great deal from all of them, and I hope I have fairly evinced some of that understanding here.
 
-Three other interviewees spent a great deal of time teaching me material I didn’t get to use here. Dana Boyd generously shared her rich and extraordinarily interesting learning about youth and creativity. In the end, I came to believe that that research should first be presented by her. Count me among those to acknowledge it as profoundly important to an understanding of this next generation. Benjamin Mako Hill and Erik Möller spent a great deal of time outlining a rich and sophisticated understanding of “free culture.” But that work complemented and corrected much of what I said in Free Culture, and it would have diverted the story too much here. Suffice it to say there is much more to be said, and I am hopeful I get a chance to say some of it.
+Three other interviewees spent a great deal of time teaching me material I didn’t get to use here. Dana Boyd generously shared her rich and extraordinarily interesting learning about youth and creativity. In the end, I came to believe that that research should first be presented by her. Count me among those to acknowledge it as profoundly important to an understanding of this next generation. Benjamin Mako Hill and Erik Möller spent a great deal of time outlining a rich and sophisticated understanding of “free culture.” But that work complemented and corrected much of what I said in _Free Culture_, and it would have diverted the story too much here. Suffice it to say there is much more to be said, and I am hopeful I get a chance to say some of it.
 
 I am also extraordinarily grateful to an amazing group of students who helped correct my errors and show me parts in the argument that I had missed or needed to read. They include Shireen Barday, Kevin Donovan, Paul Gowder, Jonathan Lubin, Erika Myers, and Michael Weinberg. Much of the work of coordinating these students was done by another insanely efficient and insightful “chief” research assistant, Tracy Rubin. And Christina Gagnier did a superhuman job in not only providing essential research, but pulling together that material to check everything I’ve said in this book. This is the second book that Christina helped make possible, and I am very thankful to her for that.
 
@@ -2391,7 +2391,7 @@ I started writing this book at The American Academy in Berlin. I am very thankfu
 
 And, as anyone who has worked with me these past few years knows, I couldn’t have begun to do this and many other things without the extraordinary gift of an absolutely perfect assistant. Elaine Adolfo is not only wildly more efficient than anyone in the world; she also practices a decency and patience that is practically unknown to this world. There’s no way I could thank her adequately for her help.
 
-Finally, to my family: Free Culture was published just as our first child was born. I began this book just after our second was born. As anyone who has had this particular blessing knows, nothing could compare to that joy, even if too much competes with it. Endless thanks and forever love to Bettina, who has built that particular joy with me, despite the burdens this work placed right in the middle.
+Finally, to my family: _Free Culture_ was published just as our first child was born. I began this book just after our second was born. As anyone who has had this particular blessing knows, nothing could compare to that joy, even if too much competes with it. Endless thanks and forever love to Bettina, who has built that particular joy with me, despite the burdens this work placed right in the middle.
 
 
 h3.Notes
@@ -2404,101 +2404,100 @@ Throughout this text there are references to links on the World Wide Web. As any
 
 Preface
 
-fn1. George Lakoff and Mark Johnson, Metaphors We Live By (Chicago: University of Chicago Press, 1980), 156–57.
+fn101. George Lakoff and Mark Johnson, _Metaphors We Live By_ (Chicago: University of Chicago Press, 1980), 156–57.
 
-fn2. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
-fn3. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools
-    to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
- 4. Metro– Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
+fn102. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
+fn103. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
+fn0104. Metro– Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
 
 
                                        Introduction
 
- 1. All quotes from Candice Breitz taken from an in–person interview conducted August 6,
+fn201. All quotes from Candice Breitz taken from an in–person interview conducted August 6,
     2007.
- 2. E–mail to Candice Breitz, May 31, 2006.
- 3. All quotes from Gregg Gillis taken from an interview conducted June 21, 2007, by
+fn202. E–mail to Candice Breitz, May 31, 2006.
+fn203. All quotes from Gregg Gillis taken from an interview conducted June 21, 2007, by
     telephone.
- 4. All quotes from SilviaO taken from an interview conducted February 8, 2007, by
+fn204. All quotes from SilviaO taken from an interview conducted February 8, 2007, by
     telephone.
 
 
                           Chapter 1. Cultures of Our Past
 
-1. “They Ask Protection,” Washington Post, June 6, 1906, 4.
-2. E. Fulton Brylawski and Abe Goldman, Legislative History of the 1909 Copyright Act
+fn0101. “They Ask Protection,” Washington Post, June 6, 1906, 4.
+fn0102. E. Fulton Brylawski and Abe Goldman, Legislative History of the 1909 Copyright Act
    (South Hackensack, N. J.: Fred B. Rothman, 1976), 24.
-3. Eric von Hippel, Democratizing Innovation (Cambridge, Mass.: MIT Press, 2005).
-4. Brylawski and Goldman, Legislative History, 24.
-5. Sousa, “The Menace of Mechanical Music,” 280.
-6. Ibid., 280–81 (emphasis added).
-7. See Tarla Rai Peterson, “Jefferson’s Yeoman Farmer as Frontier Hero: A Self Defeating
+fn0103. Eric von Hippel, Democratizing Innovation (Cambridge, Mass.: MIT Press, 2005).
+fn0104. Brylawski and Goldman, Legislative History, 24.
+fn0105. Sousa, “The Menace of Mechanical Music,” 280.
+fn0106. Ibid., 280–81 (emphasis added).
+fn0107. See Tarla Rai Peterson, “Jefferson’s Yeoman Farmer as Frontier Hero: A Self Defeating
    Mythic Structure,” Agriculture and Human Values 7 (1990): 9–19; Jefferson to James Madison, October 28, 1785, Merrill D. Peterson, ed., Thomas Jefferson: Writings (New York:
    Library of America, 1984), 842; Willard Sterne Randall, Thomas Jefferson: A Life (New
    York: HarperCollins, 1994), 432; Lawrence S. Kaplan, Thomas Jefferson: Westward the
    Course of Empire (Wilmington, Del.: Scholarly Resources, 1999), 27.
-8. As Harvard professor Yochai Benkler describes it:
+fn0108. As Harvard professor Yochai Benkler describes it:
 
 bq. Music in the nineteenth century was largely a relational good. It was something people did in the physical presence of each other: in the folk way through hearing, repeating, and improvising; in the middle–class way of buying sheet music and playing for guests or attending public performances; or in the upper–class way of hiring musicians. Capital was widely distributed among musicians in the form of instruments, or geographically dispersed in the hands of performance hall (and drawing room) owners. Market–based production depended on performance through presence. It provided opportunities for artists to live and perform locally, or to reach stardom in cultural centers, but without displacing the local performers.
 
-    Yochai Benkler, The Wealth of Networks (New Haven, Conn.: Yale University Press,
-    2006), 50–51.
-9. Henry Jenkins, Convergence Culture: Where Old and New Media Collide (New York: New
+Yochai Benkler, The Wealth of Networks (New Haven, Conn.: Yale University Press, 2006), 50–51.
+
+fn0109. Henry Jenkins, Convergence Culture: Where Old and New Media Collide (New York: New
    York University Press, 2006).
 
 bq. Cultural production occurred mostly on the grassroots level; creative skills and artistic traditions were passed down mother to daughter, father to son. Stories and songs circulated broadly, well beyond their points of origin, with little or no expectation of economic compensation; many of the best ballads or folktales come to us today with no clear marks of individual authorship. While new commercialized forms of entertainment—the minstrel shows, the circuses, the showboats—emerged in the mid–to–late nineteenth century, these professional entertainments competed with thriving local traditions of barn dances, church sings, quilting bees, and campfire stories. There was no pure boundary between the emergent commercial culture and the residual folk culture: the commercial culture raided folk culture and folk culture raided commercial culture. (Jenkins, Convergence Culture, 135.)
 
-     But the twentieth century, Jenkins argues, changed this:
+But the twentieth century, Jenkins argues, changed this:
 
 bq. The story of American arts in the twentieth century might be told in terms of the displacement of folk culture by mass media. Initially, the emerging entertainment industry made its peace with folk practices, seeing the availability of grassroots singers and musicians as a potential talent pool, incorporating community sing–a–longs into film exhibition practices, and broadcasting amateur–hour talent competitions. The new industrialized arts required huge investments and thus demanded a mass audience. The commercial entertainment industry set standards of technical perfection and professional accomplishment few grassroots performers could match. The commercial industries developed powerful infrastructures that ensured that their messages reached everyone in America who wasn’t living under a rock. Increasingly, the commercial culture generated the stories, images, and sounds that mattered most to the public. (Ibid.)
 
-10. Wikipedia contributors, “Player Piano,” Wikipedia: The Free Encyclopedia, available at
+fn0110. Wikipedia contributors, “Player Piano,” Wikipedia: The Free Encyclopedia, available at
     link #1 (last visited July 30, 2007).
-11. Ibid., available at link #2 (last visited July 30, 2007).
-12. Pekka Gronow, “The Record Industry: The Growth of a Mass Medium,” Popular Music
+fn0111. Ibid., available at link #2 (last visited July 30, 2007).
+fn0112. Pekka Gronow, “The Record Industry: The Growth of a Mass Medium,” Popular Music
     3 (1983): 54–55, available at link #3.
-13. Leonard DeGraff, “Confronting the Mass Market: Thomas Edison and the Entertainment Phonograph,” Business and Economic History 24 (1995): 88, available at link #4.
-14. Gronow, “The Record Industry,” 62, available at link #5.
-15. Ibid., 62, available at link #6.
-16. Ibid., 63, available at link #7.
-17. Philip E. Meza, Coming Attractions? Hollywood, High Tech, and the Future of Entertainment (Stanford, Calif.: Stanford University Press, 2007), 51.
-18. Ibid., 50–51.
-19. Lawrence Lessig, Free Culture (New York: Penguin Press, 2004), 3–7.
-20. U.S. Census Bureau, “NAICS 5111—Newspaper, Periodical, Book and Directory Publishers,” Industry Statistics Sampler, available at link #8 (last visited August 20, 2007).
-21. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics
+fn0113. Leonard DeGraff, “Confronting the Mass Market: Thomas Edison and the Entertainment Phonograph,” Business and Economic History 24 (1995): 88, available at link #4.
+fn0114. Gronow, “The Record Industry,” 62, available at link #5.
+fn0115. Ibid., 62, available at link #6.
+fn0116. Ibid., 63, available at link #7.
+fn0117. Philip E. Meza, Coming Attractions? Hollywood, High Tech, and the Future of Entertainment (Stanford, Calif.: Stanford University Press, 2007), 51.
+fn0118. Ibid., 50–51.
+fn0119. Lawrence Lessig, _Free Culture_ (New York: Penguin Press, 2004), 3–7.
+fn0120. U.S. Census Bureau, “NAICS 5111—Newspaper, Periodical, Book and Directory Publishers,” Industry Statistics Sampler, available at link #8 (last visited August 20, 2007).
+fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics
     Sampler, available at link #9 (last visited August 20, 2007).
-22. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,”
+fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,”
     Industry Statistics Sampler, available at link #10 (last visited August 20, 2007).
-23. “Economies,” Motion Picture Association of America, available at link #11 (last visited
+fn0123. “Economies,” Motion Picture Association of America, available at link #11 (last visited
     January 24, 2008).
-24. Brylawski and Goldman, Legislative History, 25.
-25. Currier was skeptical of unlimited patent rights. See Zoltek Corp. v. United States, 464
+fn0124. Brylawski and Goldman, Legislative History, 25.
+fn0125. Currier was skeptical of unlimited patent rights. See Zoltek Corp. v. United States, 464
     F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30,
     2007). He was reluctant to expand copyrights.
 
 
                                Chapter 3. RO, Extended
 
- 1. Until 1972, federal law didn’t regulate the copying of recordings. See Capitol Records Inc.
+fn0301. Until 1972, federal law didn’t regulate the copying of recordings. See Capitol Records Inc.
     v. Naxos of America, 4 N.Y.3d 540, 544 (2005).
- 2. See Lawrence Lessig, Code 2.0 (New York: Basic Books, 2006), 5–6.
- 3. Bruce Lehman, Intellectual Property and the National Information Infrastructure: The
+fn0302. See Lawrence Lessig, Code 2.0 (New York: Basic Books, 2006), 5–6.
+fn0303. Bruce Lehman, Intellectual Property and the National Information Infrastructure: The
     Report of the Working Group on Intellectual Property Rights (Darby: Diane Publishing,
     1995).
-4. See Sonny Bono Copyright Term Extension Act, Pub. L. No. 105–298, 112 Stat. 2827
+fn0304. See Sonny Bono Copyright Term Extension Act, Pub. L. No. 105–298, 112 Stat. 2827
    (1998) (extending the term of existing copyrights).
-5. See, e.g., No Electronic Theft Act of 1997, Pub. L. No. 105–147, 111 Stat. 2678 (“NET
+fn0305. See, e.g., No Electronic Theft Act of 1997, Pub. L. No. 105–147, 111 Stat. 2678 (“NET
    Act”), amending 17 U.S.C. §506(a).
-6. See Digital Millennium Copyright Act, Pub. L. No. 10–5–304, 112 Stat. 2860 (1998).
-7. See UMG Recordings Inc. v. MP3.com Inc., 92 F. Supp. 2d 349 (S.D.N.Y. 2000); A&M
+fn0306. See Digital Millennium Copyright Act, Pub. L. No. 10–5–304, 112 Stat. 2860 (1998).
+fn0307. See UMG Recordings Inc. v. MP3.com Inc., 92 F. Supp. 2d 349 (S.D.N.Y. 2000); A&M
    Records Inc. v. Napster Inc., 239 F.3d 1004 (9th Cir. 2001).
-8. See, for example, Lessig, Free Culture, chap. 3.
-9. RIAA Watcher, “RIAA Watch,” RIAA Watch, available at link #13; Nate Mook, “RIAA
+fn0308. See, for example, Lessig, _Free Culture_, chap. 3.
+fn0309. RIAA Watcher, “RIAA Watch,” RIAA Watch, available at link #13; Nate Mook, “RIAA
    Sues 261, Including 12–Year–Old Girl,” BetaNews, September 9, 2003, available at link
    #14; Nate Mook, “RIAA Sues Deceased Grandmother,” BetaNews, February 4, 2005,
    available at link #15.
-10. See Susan Butler, “Sixth Wave of RIAA Pre–Litigation Letters Sent to Colleges,” Hollywood Reporter, July 19, 2007, available at link #16.
-11. Number of Lawsuits in the United States Courts Concerning Copyright, 2000–2006.
+fn0310. See Susan Butler, “Sixth Wave of RIAA Pre–Litigation Letters Sent to Colleges,” Hollywood Reporter, July 19, 2007, available at link #16.
+fn0311. Number of Lawsuits in the United States Courts Concerning Copyright, 2000–2006.
 
 | Year | Court of Appeals | District Courts |
 | 2006 | 415 | 5,488 |
@@ -2511,13 +2510,13 @@ bq. The story of American arts in the twentieth century might be told in terms o
 
 p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Courts, available at link #17 (last visited July 30, 2007). Table C–2. “U.S. District Courts—Civil Cases Commenced, by Basis of Jurisdiction and Nature of Suit,” 2000–2006. Table B–7. “U.S. Courts of Appeals—Nature of Suit or Offense in Cases Arising from the U.S. District Courts, by Circuit,” 2000–2006.
 
-12. International Federation of the Phonographic Industry, IFPI:07 Digital Music Report
+fn0312. International Federation of the Phonographic Industry, IFPI:07 Digital Music Report
    (London: IFPI, 2007), 18.
-13. The last great panic surrounded the emergence of cassette–tape technology. See the discussion in Office of Technology Assessment, Copyright and Home Copying: Technology
+fn0313. The last great panic surrounded the emergence of cassette–tape technology. See the discussion in Office of Technology Assessment, Copyright and Home Copying: Technology
    Challenges the Law (Washington, D.C.: U.S. Government Printing Office, 1989), 145–47,
    available at link #18.
-14. Meza, Coming Attractions?, 87–88.
-15. Ibid. But obviously the claims are contested. See Martin Peitz and Patrick Waelbroeck,
+fn0314. Meza, Coming Attractions?, 87–88.
+fn0315. Ibid. But obviously the claims are contested. See Martin Peitz and Patrick Waelbroeck,
    “The Effect of Internet Piracy on CD Sales: Cross–Section Evidence,” CESifo Working
    Paper Series 1122 (January 2004), concluding that Internet piracy accounts for just 22.5
    percent of the drop in CD sales. See also Felix Oberholzer and Koleman Strumpf, “The
@@ -2528,15 +2527,15 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
     Examine File–Sharing and Music Sales,” Industrial Organization and the Digital Economy
     (Cambridge, Mass.: MIT Press, 2005); Stan J. Liebowitz, “Testing File–Sharing’s Impact
     on Music Album Sales in Cities,” Management Science, forthcoming.
-16. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at link #19 (last visited
+fn0316. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at link #19 (last visited
     January 18, 2008). For a fantastic study of the relationship between artists’ income and
     digital technologies see Martin Kretschmer, “Artists’ Earning and Copyright: A Review
     of British and German Music Industry Data in the Context of Digital Technologies,”
     First Monday 10 (2005), available at link #20.
-17. Amy Matthew, “The Creative Revolution: Consumers, Artists Lead the Way into New
+fn0317. Amy Matthew, “The Creative Revolution: Consumers, Artists Lead the Way into New
     Entertainment World,” Pueblo Chieftain, April 29, 2007; “Apple to Give iTunes Users
     Credit for Full Albums,” InvesTrend, March 29, 2007.
-18. Less elegant was the idea of a coin box in the home. I remember as a kid staying in a
+fn0318. Less elegant was the idea of a coin box in the home. I remember as a kid staying in a
     boarding house in England in the 1970s that had a coin box to operate hot water. A hot
     bath is one thing, but television is a necessity. The inconvenience of this system must have
     been staggering. Still, the idea was tested in Palm Springs, California, in the early 1950s,
@@ -2546,63 +2545,63 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
     Notre Dame football game (presaging the popular college sports packages now available
     on satellite TV services) for $1.00 and a first–run Paramount movie, Forever Female, for
     an additional $1.35. (Meza, Coming Attractions?, 83.)
-19. In Napster Inc. Copyright Litigation, 191 F. Supp. 2d 1087 (N.D. Cal. 2002).
-20. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its
+fn0319. In Napster Inc. Copyright Litigation, 191 F. Supp. 2d 1087 (N.D. Cal. 2002).
+fn0320. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its
     music be sold with DRM. Peter Sayer, “Sony BMG to Sell DRM–Free Music Downloads
     Through Stores,” InfoWorld, January 7, 2008, available at link #21.
-21. Lessig, Code 2.0.
+fn0321. Lessig, Code 2.0.
 
 
                                 Chapter 4. RW, Revived
 
- 1. Grand Upright Music Ltd. v. Warner Bros. Records Inc., 780 F. Supp. 182 (S.D.N.Y. 1991).
- 2. All quotes from Don Joyce taken from an interview conducted March 20, 2007, by
+fn0401. Grand Upright Music Ltd. v. Warner Bros. Records Inc., 780 F. Supp. 182 (S.D.N.Y. 1991).
+fn0402. All quotes from Don Joyce taken from an interview conducted March 20, 2007, by
     telephone.
- 3. David Bollier, Brand Name Bullies (Hoboken, N.J.: Wiley, 2005), 69.
- 4. J. D. Lasica, Darknet: Hollywood’s War Against the Digital Generation (Hoboken, N.J.:
+fn0403. David Bollier, Brand Name Bullies (Hoboken, N.J.: Wiley, 2005), 69.
+fn0404. J. D. Lasica, Darknet: Hollywood’s War Against the Digital Generation (Hoboken, N.J.:
     Wiley, 2005), 72–73.
- 5. Heidi Anderson, “Plugged In,” Smart Computing (November 2000): 90–92.
- 6. Benkler, Wealth of Networks, 217.
- 7. Mark Lawson, “Berners–Lee on the Read/Write Web,” BBC News, August 9, 2005, available at link #22 (last visited July 31, 2007).
- 8. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November
+fn0405. Heidi Anderson, “Plugged In,” Smart Computing (November 2000): 90–92.
+fn0406. Benkler, Wealth of Networks, 217.
+fn0407. Mark Lawson, “Berners–Lee on the Read/Write Web,” BBC News, August 9, 2005, available at link #22 (last visited July 31, 2007).
+fn0408. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November
     26, 2004, available at link #23; David Sifry, “Technorati,” Sifry’s Alerts, November 27,
     2002, available at link #24; David Sifry, “Over 100,000 Blogs Served,” Sifry’s Alerts,
     March 5, 2003, available at link #25; David Sifry, “One Million Weblogs Tracked,” Sifry’s
    Alerts, September 27, 2003, available at link #26; David Sifry, “State of the Blogosphere,”
    Sifry’s Alerts, October 10, 2004, available at link #27; “About Us,” Technorati, available at
    link #28 (last visited July 30, 2007).
-9. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at link
+fn0409. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at link
    #29 (last visited July 23, 2007); David Sifry, “State of the Blogosphere, October 2006,”
    Technorati, available at link #30 (last visited July 23, 2007).
-10. Benkler, Wealth of Networks, 217.
-11. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3,
+fn0410. Benkler, Wealth of Networks, 217.
+fn0411. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3,
    2004, available at link #31.
-12. Don Tapscott and Anthony D. Williams, Wikinomics: How Mass Collaboration Changes
+fn0412. Don Tapscott and Anthony D. Williams, Wikinomics: How Mass Collaboration Changes
    Everything (New York: Portfolio, 2006), 41.
-13. Ibid., 52.
-14. Ibid., 144–45.
-15. Ibid., 42.
-16. “Blogging Basics,” Technorati, available at link #32 (last visited July 23, 2007).
-17. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at link #33
+fn0413. Ibid., 52.
+fn0414. Ibid., 144–45.
+fn0415. Ibid., 42.
+fn0416. “Blogging Basics,” Technorati, available at link #32 (last visited July 23, 2007).
+fn0417. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at link #33
    (last visited August 16, 2007).
-18. Charlene Li, Social Technographics (Cambridge, Mass.: Forrester, 2007), 2.
-19. Benkler, Wealth of Networks, 225–33.
-20. The blog Corporate Influence in the Media tries to document examples of advertisers
+fn0418. Charlene Li, Social Technographics (Cambridge, Mass.: Forrester, 2007), 2.
+fn0419. Benkler, Wealth of Networks, 225–33.
+fn0420. The blog Corporate Influence in the Media tries to document examples of advertisers
    pressuring publishers and broadcasters. See Anup Shah, Corporate Influence in the
    Media, available at link #34 (last visited August 16, 2007). In 2006 the Center for Media
    and Democracy released a report detailing a large number of instances in which news
    organizations broadcast “video news releases” as news without revealing to their audiences that the video was provided by a public relations firm. See Diane Farsetta and
    Daniel Price, “Fake TV News: Widespread and Undisclosed,” Center for Media and
    Democracy, April 6, 2006, available at link #35.
-21. Lawrence Lessig, “The People Own Ideas,” Technology Review (June 2005): 46–48.
-22. “To the Point; Trends & Innovations,” Investor’s Business Daily, September 26, 2006.
-23. Ibid.
-24. Gail Koch, “ ‘800–Pound Gorilla’ Still Rules for Most,” Star Press (Muncie, Ind.), September 28, 2005.
-25. Xinhua News Agency, “Census Bureau: Americans to Spend More Time on Media Next
+fn0421. Lawrence Lessig, “The People Own Ideas,” Technology Review (June 2005): 46–48.
+fn0422. “To the Point; Trends & Innovations,” Investor’s Business Daily, September 26, 2006.
+fn0423. Ibid.
+fn0424. Gail Koch, “ ‘800–Pound Gorilla’ Still Rules for Most,” Star Press (Muncie, Ind.), September 28, 2005.
+fn0425. Xinhua News Agency, “Census Bureau: Americans to Spend More Time on Media Next
    Year,” December 15, 2006.
-26. U.S. Fed News, “American Time Use Survey—2006 Results,” U.S. Fed News, June 28,
+fn0426. U.S. Fed News, “American Time Use Survey—2006 Results,” U.S. Fed News, June 28,
    2007.
-27. This is not to say that before the Internet, there was nothing like this RW–media culture.
+fn0427. This is not to say that before the Internet, there was nothing like this RW–media culture.
    Indeed, for almost a half century, beginning with the Star Trek series, there has been
    a rich “fan fiction” culture, in which fans take popular culture and remix it. Rebecca
    Tushnet, “Legal Fictions: Copyright, Fan Fiction, and a New Common Law,” Loyola
@@ -2626,27 +2625,27 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
     digital film distributed on independent creators’ Web sites). There is a comprehensive
     study of fan fiction in chapters 5–8 of Henry Jenkins, Textual Poachers: Television Fans
     and Participatory Culture (New York: Routledge, 1992).
-28. All quotes from Mark Hosler taken from an interview conducted May 1, 2007, by
+fn0428. All quotes from Mark Hosler taken from an interview conducted May 1, 2007, by
     telephone.
-29. All quotes from Johan Söderberg taken from an interview conducted February 15, 2007,
+fn0429. All quotes from Johan Söderberg taken from an interview conducted February 15, 2007,
     by telephone.
-30. Telephone interview with Don Joyce, March 20, 2007.
-31. “Misperceptions, the Media, and the Iraq War,” Program on International Policy Attitudes and Knowledge Networks, available at link #37 (last visited January 18, 2008).
-32. Charles Krauthammer, “A Vacation Bush Deserves,” Washington Post, August 10, 2001.
-33. All quotes from Victor Stone taken from an interview conducted February 15, 2007, by
+fn0430. Telephone interview with Don Joyce, March 20, 2007.
+fn0431. “Misperceptions, the Media, and the Iraq War,” Program on International Policy Attitudes and Knowledge Networks, available at link #37 (last visited January 18, 2008).
+fn0432. Charles Krauthammer, “A Vacation Bush Deserves,” Washington Post, August 10, 2001.
+fn0433. All quotes from Victor Stone taken from an interview conducted February 15, 2007, by
     telephone.
-34. All quotes from Mimi Ito taken from an interview conducted January 24, 2007, by telephone. For more, see Mimi Ito, “Japanese Media Mixes and Amateur Cultural Exchange,”
+fn0434. All quotes from Mimi Ito taken from an interview conducted January 24, 2007, by telephone. For more, see Mimi Ito, “Japanese Media Mixes and Amateur Cultural Exchange,”
     in Digital Generations, ed. David Buckingham and Rebekah Willett (Mahwah, N.J.:
     Lawrence Erlbaum, 2006), 49–66.
-35. Jenkins, Convergence Culture, 128.
-36. Ibid., 182.
-37. Ibid., 177.
-38. Ibid., 182.
+fn0435. Jenkins, Convergence Culture, 128.
+fn0436. Ibid., 182.
+fn0437. Ibid., 177.
+fn0438. Ibid., 182.
 
 
                            Chapter 5. Cultures Compared
 
- 1. An argument “in favor” is certainly not an argument anyone should consider conclusive.
+fn0501. An argument “in favor” is certainly not an argument anyone should consider conclusive.
     Free speech values should still weigh in the balance, driving regulation away from restrictive measures when alternative, nonrestrictive alternatives exist.
  2. Andrew Odlyzko, “Content Is Not King,” First Monday 6 (2001), available at link #38.
  3. Stewart Baker, “Exclusionary Rules,” Wall Street Journal, March 26, 2004.
@@ -2793,7 +2792,7 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
     2006), 1.
 30. Ronald H. Coase, “The Nature of the Firm,” Economica 4 (1937): 386–405.
 31. Benkler, The Wealth of Networks, 59–60.
-32. Lawrence Lessig, The Future of Ideas (New York: Random House, 2001) 35–36.
+32. Lawrence Lessig, _The Future of Ideas_ (New York: Random House, 2001) 35–36.
 33. Clayton M. Christensen, The Innovator’s Dilemma (Boston, Mass.: Harvard Business
     School Press, 1997), 228.
 34. Benkler, “Sharing Nicely,” 282.
@@ -3059,7 +3058,7 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
 24. See Richard Stallman, “The GNU Manifesto,” GNU Project, available at link #116 (last
     visited August 20, 2007). (“I consider that the golden rule requires that if I like a program
     I must share it with other people who like it.”)
-25. See Lessig, The Future of Ideas, 70.
+25. See Lessig, _The Future of Ideas_, 70.
 26. “Official Rules for ACIDplanet.com, David Bowie Remix,” ACIDplanet.com, available
     at link #117 (last visited July 31, 2007).
 27. Elizabeth Durack, “fans.starwars.con,” Echo Station, available at link #118 (last visited
@@ -3101,7 +3100,7 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
 
 1. David Hackett Fischer, Albion’s Seed: Four British Folkways in America (New York:
    Oxford University Press, 1989), 765.
-2. Lessig, The Future of Ideas, 4.
+2. Lessig, _The Future of Ideas_, 4.
 3. Jenkins, Convergence Culture, 134.
 4. Ibid., 18.
 5. James C. Carter, The Provinces of the Written and the Unwritten Law (New York: Banks &
@@ -3178,7 +3177,7 @@ p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Court
 
 
 
-                                     INDEX
+h2. Index
 
 
 ABC, 213                                   astronomy, 170–71
@@ -3329,7 +3328,7 @@ fourstones, 95                                            177–224, 225, 252, 2
 Fox, 71, 227                                           collaboration spaces and, 196–213
 Franks, Charles, 167                                   communities and, 213–20
 “free” content, 47–48                                  community spaces and, 186–96
-Free Culture (Lessig), xvi–xvii, 80, 89, 113           decriminalizing youth and, 248–49
+_Free Culture_ (Lessig), xvi–xvii, 80, 89, 113           decriminalizing youth and, 248–49
 Future of Ideas, The (Lessig), xvi                     fairness in, 231–43
                                                       free software, 163–66, 172, 173–75,
 Gansky, Lisa, 192                                         179–85, 219, 220, 240–43, 291
