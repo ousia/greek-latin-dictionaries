@@ -3915,30 +3915,11 @@ in a sharing economy, free of the simplicity of price and markets.
 If the point isn’t completely obvious, consider some more
 examples:
 
-* You have friends. That friendship lives within a certain economy. If you only ever ask and never give, the friendship goes
-   away. If you meter each interaction and demand a settlement
-   after each exchange, the friendship also goes away. Certain
-   moves appropriate in some places are inappropriate here. For
-   example: “I need to talk to someone. Can I give you $200 for
-   an hour–long session?”
+* You have friends. That friendship lives within a certain economy. If you only ever ask and never give, the friendship goes away. If you meter each interaction and demand a settlement after each exchange, the friendship also goes away. Certain moves appropriate in some places are inappropriate here. For example: “I need to talk to someone. Can I give you $200 for an hour–long session?”
 
-# You have, or have had, or will have, lovers. That relationship
-   exists within a complex, sharing economy. The statement
-   “Wow, that was great. Here’s $500!” isn’t gratitude in such
-   relationships. It might be perversion, though if not matched
-   by perversion on the other side, it will likely be terminal to
-   the relationship. Lovers make demands on each other. Those
-   demands are designed to be complex. Simplify them according to price, and you destroy the relationship. (The other
-   side to this story follows directly as well: Prostitution is sex
-   within a commercial economy. Both sides seek the simplicity of cash. Crossing that boundary is the stuff of novels or
-   career–launching movies [Julia Roberts, Pretty Woman].)
+* You have, or have had, or will have, lovers. That relationship exists within a complex, sharing economy. The statement “Wow, that was great. Here’s $500!” isn’t gratitude in such relationships. It might be perversion, though if not matched by perversion on the other side, it will likely be terminal to the relationship. Lovers make demands on each other. Those demands are designed to be complex. Simplify them according to price, and you destroy the relationship. (The other side to this story follows directly as well: Prostitution is sex within a commercial economy. Both sides seek the simplicity of cash. Crossing that boundary is the stuff of novels or career–launching movies [Julia Roberts, Pretty Woman].)
 
-# You have neighbors. They (or you) will sometimes need help.
-   Once one asked me: “My car battery is dead. Can you give me
-   a jump?” After we got his car started, he tried to hand me
-   $5. “What the hell, Ted,” I said. “This is what neighbors do.”
-   Then I thought, but didn’t say: Anyway, if you were going to
-   pay me for this hassle, it’s going to be a lot more than $5.
+* You have neighbors. They (or you) will sometimes need help. Once one asked me: “My car battery is dead. Can you give me a jump?” After we got his car started, he tried to hand me $5. “What the hell, Ted,” I said. “This is what neighbors do.” Then I thought, but didn’t say: Anyway, if you were going to pay me for this hassle, it’s going to be a lot more than $5.
 
 As with any economy, the sharing economy is built upon exchange.
 And as with any exchange that survives over time, it must, on balance, benefit those who remain within that economy. When it
@@ -4153,7 +4134,7 @@ most. Thus, distinguishing cases where a thee motivation is necessary from cases
 certain sharing economy will survive.
 
 
-                     Internet Sharing Economies
+h3. Internet Sharing Economies
 
 The Internet has exploded the range and thickness of sharing economies too. As with commercial economies, the plasticity of the
 Internet’s design, and the scale of its reach, offer a vast range of new
@@ -4183,7 +4164,7 @@ one of the Net’s early legal theorists, Mike Godwin, put it, of Wikipedia, and
 was born.
 
 
-                 The Paradigm Case: Wikipedia
+h3. The Paradigm Case: Wikipedia
 
 In 2000, Jimmy “Jimbo” Wales was fishing around for something better to do. He had been a futures and options trader in
 Chicago during most of the 1990s and had made, he told Wired
@@ -4215,15 +4196,7 @@ the volunteers felt they were part of a community, the rules had to
 be rules anyone could live by. Thus was born the “ignore all rules”
 rule, which Jimmy Wales explained to me as follows:
 
-    “Ignore all rules” . . . is not an invitation to chaos. It is really more
-    an idea of saying, “Look, whatever rules we have in Wikipedia,
-    they ought to be, more or less, discernible by any normal, socially
-    adept adult who thinks about what would be the ethical thing to
-    do in this situation. That should be what the rule is.” It should be
-    pretty intuitive. And if there’s something that’s counterintuitive,
-    it shouldn’t really be a rule. It might be a guideline or it might be
-    something that we go around and try to encourage people to do.
-    But you can’t get in trouble for not doing it.48
+bq. “Ignore all rules” . . . is not an invitation to chaos. It is really more an idea of saying, “Look, whatever rules we have in Wikipedia, they ought to be, more or less, discernible by any normal, socially adept adult who thinks about what would be the ethical thing to do in this situation. That should be what the rule is.” It should be pretty intuitive. And if there’s something that’s counterintuitive, it shouldn’t really be a rule. It might be a guideline or it might be something that we go around and try to encourage people to do. But you can’t get in trouble for not doing it.48
 
 Finally, there was a norm about ownership: nobody owned
 Wikipedia exclusively. The content of Wikipedia got created
@@ -4238,16 +4211,7 @@ used Wikipedia, you might well wonder whether this experiment
 in collaboration can work. The answer is that it does, and surprisingly well—surprising even for Wikipedia’s founder, Jimmy Wales.
 As he explained to me:
 
-    As people get experienced using Wikipedia and they’re reading
-    it a lot, they begin to have this intuition that Wikipedia is pretty
-    darn good about being neutral on very controversial subjects. And
-    that’s a little bit surprising; I know certainly if you had asked me
-    before Wikipedia what a big problem would be, I would have
-    said, “Wow, I’m hoping that it’s not going to be incredibly biased
-    on controversial subjects. I’m hoping that that won’t happen.” It
-    turns out that doesn’t happen, that community is quite good . . . in
-    part because of the social norm that we’ve had from the beginning
-    about neutrality and about communication.
+bq. As people get experienced using Wikipedia and they’re reading it a lot, they begin to have this intuition that Wikipedia is pretty darn good about being neutral on very controversial subjects. And that’s a little bit surprising; I know certainly if you had asked me before Wikipedia what a big problem would be, I would have said, “Wow, I’m hoping that it’s not going to be incredibly biased on controversial subjects. I’m hoping that that won’t happen.” It turns out that doesn’t happen, that community is quite good . . . in part because of the social norm that we’ve had from the beginning about neutrality and about communication.
 
 Not all of the work within Wikipedia is writing original articles.
 Indeed, the vast majority of work is editing content—correcting
@@ -4266,12 +4230,7 @@ Wikipedia.”50
 This division of work is not directed. There’s no “chore” norm
 at Wikipedia. As Wales describes,
 
-    If somebody says, “Well, I know about birds and I’m going to come
-    in and monitor a few hundred bird articles and I’m going to occasionally update them when I feel like it but I’m in and out and I’m
-    not really a core community member. And I, frankly, don’t really
-    have time or feel like dealing with the conflict and I’m not going
-    to run a spell–checking bot and I’m just going to do the parts that
-    I find fun,” that’s considered perfectly acceptable.
+bq. If somebody says, “Well, I know about birds and I’m going to come in and monitor a few hundred bird articles and I’m going to occasionally update them when I feel like it but I’m in and out and I’m not really a core community member. And I, frankly, don’t really have time or feel like dealing with the conflict and I’m not going to run a spell–checking bot and I’m just going to do the parts that I find fun,” that’s considered perfectly acceptable.
 
 These are volunteers doing as they like. It just turns out that when
 you invite the world to participate, there are enough volunteers in a
@@ -4291,16 +4250,7 @@ that people can get behind.”53
 That goal makes Wikipedians (as they call themselves) a community—not in some abstract sense of a bunch of people with a common interest, but instead in the very significant sense of people who
 have worked together on a common problem. As Wales describes,
 
-    Community sometimes is almost meaningless; it just means there’s
-    people out there doing stuff. But in Wikipedia, what community
-    means is that they’re people who have met each other; they know
-    each other; they’ve had arguments; they’ve made up; they’ve had
-    different kinds of controversies; they’ve banded together to take
-    care of some problems; they like each other; they don’t like each
-    other; sometimes people are dating and then they break up and
-    then there’s some rumors and scandals, and all of the stuff that
-    makes a rich human community is what goes inside Wikipedia.
-    It’s a complete soap opera actually inside our community.
+bq. Community sometimes is almost meaningless; it just means there’s people out there doing stuff. But in Wikipedia, what community means is that they’re people who have met each other; they know each other; they’ve had arguments; they’ve made up; they’ve had different kinds of controversies; they’ve banded together to take care of some problems; they like each other; they don’t like each other; sometimes people are dating and then they break up and then there’s some rumors and scandals, and all of the stuff that makes a rich human community is what goes inside Wikipedia. It’s a complete soap opera actually inside our community.
 
 These people are likely to pick up any litter they see in their
 streets.
@@ -4309,16 +4259,7 @@ Surprisingly, Wikipedia is even good at things you wouldn’t
 associate with a traditional encyclopedia—reporting and analyzing news events such as the Virginia Tech massacre and Hurricane
 Katrina. Wales explains:
 
-    One of the things that we are doing better, I think, is when we
-    have a mass public event or story with breaking news, one of the
-    things that we’ve seen is that, in the short run, especially, Wikipedia does a very interesting thing that I have come to appreciate more and more over time, which is a census of the news that’s
-    coming out. So, the way I present this is when you have a big event
-    like this, you’ll have ten, twenty, or thirty, or fifty reporters all
-    there, on the scene gathering information. But they’re each seeing only the piece that they can see and even if they’re all absolutely excellent journalists who are doing their very best to get the
-    whole story, they’re each coming from a particular perspective and
-    they’re each interviewing particular people with particular views.
-    And then that stuff goes out onto the Web where people can read
-    all of it.
+bq. One of the things that we are doing better, I think, is when we have a mass public event or story with breaking news, one of the things that we’ve seen is that, in the short run, especially, Wikipedia does a very interesting thing that I have come to appreciate more and more over time, which is a census of the news that’s coming out. So, the way I present this is when you have a big event like this, you’ll have ten, twenty, or thirty, or fifty reporters all there, on the scene gathering information. But they’re each seeing only the piece that they can see and even if they’re all absolutely excellent journalists who are doing their very best to get the whole story, they’re each coming from a particular perspective and they’re each interviewing particular people with particular views. And then that stuff goes out onto the Web where people can read all of it.
 
 The New York Times made the same point after the Virginia Tech
 massacre. As a review article noted, “From the contributions of
@@ -4367,14 +4308,14 @@ been done, yet which an inspired leader and devoted followers built
 for free, and to remain free.
 
 
-                     Beyond Wikipedia
+h3. Beyond Wikipedia
 
 The Internet learned to share, however, long before Wikipedia.
 Indeed, as commerce was banned from the Internet until 1991, one
 might well say that the Internet was born a sharing economy; commerce was added only later. There are many examples. Consider
 just a few:
 
-• The code that built the Net came from a sharing economy. The
+* The code that built the Net came from a sharing economy. The
 software that built the original Internet was the product of free collaboration. Open–source, or free, software was distributed broadly
 to enable the servers and Internet protocols to function. The most
 famous of these projects was the GNU Project, which in 1983 was
@@ -4399,7 +4340,7 @@ build upon and share an operating system.
 Less famous than GNU/Linux, but just as important to the history of the Net, are the many instances of free software built to supply the basic plumbing of the Internet. As Robert Young and Wendy
 Goldman Rohm put it in their book, Under the Radar (1999):
 
-    In 1981, Eric Allman created Sendmail, an open source program
+bq. In 1981, Eric Allman created Sendmail, an open source program
     that is responsible for routing 80 percent of the email that travels
     over the Internet. It is currently still maintained by thousands of
     online programmers via sendmail.org. In addition, Allman started
@@ -4471,7 +4412,7 @@ This dynamic, I suggest, explains a great deal of the success of
 the software sharing economy. It likewise could explain the success
 of Internet sharing economies as well.
 
-• Project Gutenberg is a sharing economy. Founded in 1971 (yes,
+* Project Gutenberg is a sharing economy. Founded in 1971 (yes,
 1971), Project Gutenberg is the oldest digital library. Its founder,
 Michael Hart, launched the project to digitize and distribute cultural works. The first Project Gutenberg text was the Declaration
 of Independence. Today, there are more than twenty–two thousand
@@ -4484,7 +4425,7 @@ freely from the collection. Price, or money, doesn’t police access.
 Voluntary contributions are all the supporters can rely upon to keep
 the work alive.
 
-• Distributed Proofreaders is a sharing economy. Inspired by
+* Distributed Proofreaders is a sharing economy. Inspired by
 Michael Hart’s Project Gutenberg, and launched in 2000 by Charles
 Franks, the Distributed Proofreaders project was conceived to help
 proofread for free the books that Hart made available for free. To
@@ -4498,7 +4439,7 @@ on distributed computing.) Distributed Proofreaders has contributed to more than
 thousand and seven thousand pages per day—averaging four pages
 every minute.62 All of this work is voluntary.
 
-• Distributed–computing projects are sharing economies. Dis–tributed computing refers to efforts to enlist the unused cycles of
+* Distributed–computing projects are sharing economies. Dis–tributed computing refers to efforts to enlist the unused cycles of
 personal computers connected to the Net for some worthy cause
 (worthy in the eyes of the volunteer, at least). The most famous was
 the SETI@home project, launched in 1999 and designed to share
@@ -4509,19 +4450,13 @@ are many more distributed–computing projects beyond the SETI
 project. A favorite of mine is Einstein@Home. As described by
 Wikipedia,
 
-     Einstein@Home is designed to search data collected by the
-     Laser Interferometer Gravitational–Wave Observatory (LIGO)
-     and GEO 600 for gravitational waves. The project was officially
-     launched on 19 February 2005 as part of American Physical Society’s contribution to the World Year of Physics 2005. It uses the
-     power of volunteer–driven distributed computing in solving the
-     computationally intensive problem of analyzing a large volume of
-     data. . . . As of June 3, 2006, over 120,000 volunteers in 186 countries have participated in the project.64
+bq. Einstein@Home is designed to search data collected by the  Laser Interferometer Gravitational–Wave Observatory (LIGO)  and GEO 600 for gravitational waves. The project was officially  launched on 19 February 2005 as part of American Physical Society’s contribution to the World Year of Physics 2005. It uses the  power of volunteer–driven distributed computing in solving the  computationally intensive problem of analyzing a large volume of  data. . . . As of June 3, 2006, over 120,000 volunteers in 186 countries have participated in the project.64
 
 The contributions to these distributed–computing projects are
 voluntary. Price does not meter access either to the projects or to
 their results.
 
-• The Internet Archive is a sharing economy. Launched in 1996 by
+* The Internet Archive is a sharing economy. Launched in 1996 by
 serial technology entrepreneur (and one of the successful ones) Brewster Kahle, the Internet Archive seeks to offer “permanent access for
 researchers, historians, and scholars to historical collections that exist
 in digital format.”65 But to do this, Kahle depends upon more than
@@ -4532,7 +4467,7 @@ And “there have probably been over a thousand people that have
 uploaded” creative work to be preserved.66 All of the content is shared
 on the archive. Nothing is metered according to price.
 
-• The Mars Mapping Project was a sharing economy. Scientists at
+* The Mars Mapping Project was a sharing economy. Scientists at
 NASA are eager to map the surface of Mars. Mapping means identifying and marking on their maps the locations of craters, the age
 of craters, and other significant geological formations. For years,
 NASA and others had done this by hiring professionals. For eleven
@@ -4562,20 +4497,11 @@ noisy data can still yield a valid statistical result.”70 As Yochai Benkler de
 human judgment, applied with motivation to participate in a task
 unrelated to ‘making a living.’ ”71
 
-• Astronomy increasingly depends upon a sharing economy. Historically, astronomy always relied on amateurs. But as digital technologies have made it possible to gather huge amounts of data, there
+* Astronomy increasingly depends upon a sharing economy. Historically, astronomy always relied on amateurs. But as digital technologies have made it possible to gather huge amounts of data, there
 is a strong push within the field to encourage sharing of these data
 among astronomers. As the editors of Nature observed,
 
-    web technologies . . . are pushing the character of the web from
-    that of a large library towards providing a user–driven collaborative workspace . . . A decade ago, for example, astronomy was still
-    largely about groups keeping observational data proprietary and
-    publishing individual results. Now it is organized around large
-    data sets, with data being shared, coded and made accessible to
-    the whole community. Organized sharing of data within and
-    among smaller and more diverse research communities is more
-    challenging, owing to the plethora of data types and formats. A
-    key technological shift that could change this is a move away from
-    centralized databases to what are known as “web services.”72
+bq. web technologies . . . are pushing the character of the web from that of a large library towards providing a user–driven collaborative workspace . . . A decade ago, for example, astronomy was still largely about groups keeping observational data proprietary and publishing individual results. Now it is organized around large data sets, with data being shared, coded and made accessible to the whole community. Organized sharing of data within and among smaller and more diverse research communities is more challenging, owing to the plethora of data types and formats. A key technological shift that could change this is a move away from centralized databases to what are known as “web services.”72
 
 The limits on this sharing are therefore not technical. They
 are “cultural.” “Scientific competitiveness will always be with us.
@@ -4595,7 +4521,7 @@ emphasis in all these cases is to provide a sharing economy in data,
 enabling researchers to draw upon the data to analyze and draw
 conclusions that advance the field of astronomy.
 
-• The Open Directory Project is a sharing economy. As a complement to the search algorithms of major search engines, the Open
+* The Open Directory Project is a sharing economy. As a complement to the search algorithms of major search engines, the Open
 Directory Project “is the largest, most comprehensive human–edited directory of the Web. It is constructed and maintained by a
 vast, global community of volunteer editors.” Volunteers are asked
 to sign up to a particular area of knowledge. They are given tools
@@ -4603,7 +4529,7 @@ to help them edit and modify links within the directory. The directory asks peop
 the Web a better place.”76 No money polices access to the results of
 this project, or the right to participate in it.
 
-• Open Source Food is a sharing economy. As described by
+* Open Source Food is a sharing economy. As described by
 its founder, “Open Source Food came to fruition because me
 and my father wanted to create a place for people like us. We’re
 not professional cooks, we just love food. We want to share, learn
@@ -4625,7 +4551,7 @@ state production modalities.”78 We’re living in a time when technology is fa
 result.
 
 
-                What Sharing Economies Share
+h3. What Sharing Economies Share
 
 In all of these cases, the people participating in creating something
 of value share that value independent of money. That’s not to say
@@ -4671,9 +4597,7 @@ top three reasons.) 82
 Another reason points to a variant on the argument about diversity I identified in Scott Page’s work above. As Steven Weber puts it
 in The Success of Open Source:
 
-    Under conditions of antirivalness, as the size of the Internet–connected group increases, and there is a heterogeneous distribution of motivations with people who have a high level of interest
-    and some resources to invest, then the large group is more likely, all
-    things being equal, to provide the good than is a small group.83
+bq. Under conditions of antirivalness, as the size of the Internet–connected group increases, and there is a heterogeneous distribution of motivations with people who have a high level of interest and some resources to invest, then the large group is more likely, all things being equal, to provide the good than is a small group.83
 
 That means developers of open–source and free–software projects
 have a strong interest in many people sharing the projects, since the
@@ -4688,16 +4612,7 @@ in open source software projects, the kind of reciprocity that is relevant is ca
 So we see that there is an abundance, not a lack, of motivations.
 As Weber writes,
 
-    The success of open source demonstrates the importance of a fundamentally different solution, built on top of an unconventional
-    understanding of property rights configured around distribution.
-    Open source uses that concept to tap into a broad range of human
-    motivations and emotions, beyond the straightforward calculation
-    of salary for labor. And it relies on a set of organizational structures to coordinate behavior around the problem of managing
-    distributed innovation, which is different from division of labor.
-    None of these characteristics is entirely new, unique to the open
-    source, or confined to the Internet. But together, they are generic
-    ingredients of a way of making things that has potentially broad
-    consequences for economics and politics.85
+bq. The success of open source demonstrates the importance of a fundamentally different solution, built on top of an unconventional understanding of property rights configured around distribution. Open source uses that concept to tap into a broad range of human motivations and emotions, beyond the straightforward calculation of salary for labor. And it relies on a set of organizational structures to coordinate behavior around the problem of managing distributed innovation, which is different from division of labor. None of these characteristics is entirely new, unique to the open source, or confined to the Internet. But together, they are generic ingredients of a way of making things that has potentially broad consequences for economics and politics.85
 
 In my view, the easiest answer to the motivation question comes
 from framing it more broadly: Why do people do these things for
@@ -4736,8 +4651,7 @@ even ten years ago.
 
 
 
-                                          SEVEN
-                                     HYBRID ECONOMIES
+h2. 7. Hybrid Economies
 
 Commercial economies build value with money at their core.
 Sharing economies build value, ignoring money. Both are critical to life both online and offline. Both will flourish more as Internet technology develops.
@@ -4765,12 +4679,7 @@ The Internet is the age of the hybrid.1 Every interesting Internet
 business is now, or is becoming, a hybrid. The reasons are not hard
 to see. As Yochai Benkler describes,
 
-    A billion people in advanced economies may have between two
-    billion and six billion spare hours among them, every day. In order
-    to harness these billions of hours, it would take the whole workforce of almost 340,000 workers employed by the entire motion
-    picture and recording industries in the United States put together,
-    assuming each worker worked forty–hour weeks without taking a
-    single vacation, for between three and eight and a half years!2
+bq. A billion people in advanced economies may have between two billion and six billion spare hours among them, every day. In order to harness these billions of hours, it would take the whole workforce of almost 340,000 workers employed by the entire motion picture and recording industries in the United States put together, assuming each worker worked forty–hour weeks without taking a single vacation, for between three and eight and a half years!2
 
 If sharing economies promise value, it is the commercial economy that is tuned to exploit that. But as those in the commercial
 economy are coming to see, you can’t leverage value from a sharing
@@ -4787,7 +4696,7 @@ This is the theme upon which everything else is a variation. I start
 with this theme and then turn to the growing variations.
 
 
-                 The Paradigm Case: Free Software
+h3. The Paradigm Case: Free Software
 
 In the early 1990s, Robert Young was in the computer–leasing business. As a way to bring in customers, he wrote a newsletter called
 New York Unix. The newsletter covered whatever subjects his
@@ -4871,11 +4780,7 @@ Young was surprised to learn that they were using Linux to run
 the central switching station for Southwestern Bell. He asked why.
 Their response, as Young recounts it, is quite revealing:
 
-    Our problem is we have no choice. If we use Sun OS or NT and
-    something goes wrong, we have to wait around for months for
-    Sun or Microsoft to get around to fixing it for us. If we use Linux,
-    we get to fix it ourselves if it’s truly urgent. And so we can fix it on
-    our schedule, not the schedule of some arbitrary supplier.
+bq. Our problem is we have no choice. If we use Sun OS or NT and something goes wrong, we have to wait around for months for Sun or Microsoft to get around to fixing it for us. If we use Linux, we get to fix it ourselves if it’s truly urgent. And so we can fix it on our schedule, not the schedule of some arbitrary supplier.
 
 The key was to sell “benefits” and not “features.” And here the benefit was a kind of access that no other dominant software company
 could provide.
@@ -4984,7 +4889,7 @@ of the interesting mix that the hybrid economy will produce. Diversity is its st
 produces.
 
 
-                      Beyond Free Software
+h3. Beyond Free Software
 
 Free software is the paradigm hybrid, in which commercial entities (Red Hat is just one) leverage value from a sharing economy.
 But as with Wikipedia and the sharing economy, free software is
@@ -4998,7 +4903,7 @@ community spaces, some hybrids build collaborations, and some
 hybrids build communities. Consider each in turn.
 
 
-Type 1: Community Spaces
+h4. Type 1: Community Spaces
 
 From the very beginning of the Internet, its technologies have been
 used to build community spaces—virtual places where people
@@ -5011,7 +4916,7 @@ Few have been able to translate these spaces into successful commercial ventures
 examples of one kind of hybrid.
 
 
-Dogster
+h5. Dogster
 
 Let’s begin modestly with a hybrid that doesn’t try to change the
 world, but has changed substantially how easily people can connect
@@ -5034,7 +4939,8 @@ site.” And because it can fund itself like this, the site “will touch a
 lot more people.”9 The site thus leverages the community of passion
 and conversation that surrounds pets to produce revenue that supports the site. A hybrid.
 
-craigslist: “Like, Peace, Man”
+h5. craigslist: “Like, Peace, Man”
+
 The bread and butter of most local newspapers is advertising. The
 most lucrative of this advertising are classifieds. According to one
 estimate, “U.S. newspapers derive 37% of their total advertising
@@ -5107,22 +5013,11 @@ victims of Katrina cope with the disaster. As Newmark told me,
 well actually, pretty soon, people started offering housing to survivors. A couple days later, people started offering jobs to survivors.”
 Three days after Katrina hit New Orleans,
 
-    craigslist’s New Orleans page featured more than 2,500 offers
-    from around the country for free housing for hurricane victims,
-    ranging from “Start a new life in South Carolina” to “Comfy
-    couch in spacious NYC apartment.” . . . Never before has the Internet played such a vital role in filling the information void following a natural disaster.18
+bq. craigslist’s New Orleans page featured more than 2,500 offers from around the country for free housing for hurricane victims, ranging from “Start a new life in South Carolina” to “Comfy couch in spacious NYC apartment.” . . . Never before has the Internet played such a vital role in filling the information void following a natural disaster.18
 
 As the San Francisco Chronicle recounted:
 
-    The message is short. So short it would fit on a postcard. It lingers in cyberspace waiting for a response. “Family of 4 willing,
-    wanting to help. Can drive to get you. Stay as long as you need to
-    here in Albuquerque. God bless you. We care. Howard and Lisa
-    Neil.” It is one of more than 2,000 classified advertisements—and
-    counting—posted on craigslist, a network of online urban communities, offering free, temporary housing to people who have
-    lost their homes to Hurricane Katrina. . . . The listing can be found
-    under a new category on the Web site—Katrina Relief—that also
-    includes listings for relief resources, missing people, temporary
-    jobs, missing pets, transportation and volunteers.19
+bq. The message is short. So short it would fit on a postcard. It lingers in cyberspace waiting for a response. “Family of 4 willing, wanting to help. Can drive to get you. Stay as long as you need to here in Albuquerque. God bless you. We care. Howard and Lisa Neil.” It is one of more than 2,000 classified advertisements—and counting—posted on craigslist, a network of online urban communities, offering free, temporary housing to people who have lost their homes to Hurricane Katrina. . . . The listing can be found under a new category on the Web site—Katrina Relief—that also includes listings for relief resources, missing people, temporary jobs, missing pets, transportation and volunteers.19
 
 The point in recounting this story is not so much to praise
 craigslist (as if it needed more praise). It is instead to highlight what
@@ -5157,7 +5052,7 @@ in this commercial entity. Newmark’s is the hybrid to envy. His
 intuition of how best to maintain this community is pure gold.
 
 
-h4. Flickr
+h5. Flickr
 
 In the early 2000s, Stewart Butterfield and Caterina Fake decided
 they wanted to build a multiplayer game called Game Neverending.
@@ -5230,7 +5125,7 @@ continues to let the community live like a sharing economy, with small
 but increasingly significant efforts to leverage something on top.
 
 
-h4. YouTube
+h5. YouTube
 
 In 2005, three early PayPal employees— Chad Hurley, Steve Chen,
 and Jawed Karim—started building a video–sharing service for the
@@ -5282,7 +5177,7 @@ relies on the effective leveraging of Internet–based social networking activit
 represent value.”26
 
 
-Type 2: Collaboration Spaces
+h4. Type 2: Collaboration Spaces
 
 A collaboration space is different from a community space like
 Flickr or YouTube. Those participating in a collaboration space
@@ -5297,7 +5192,7 @@ This collaboration can come in many forms. Consider a range
 of examples.
 
 
-Declan
+h5. Declan
 
 Declan McCullagh is a journalist. He began his career covering and
 protesting Internet censorship. In 1994, while a student at Carnegie
@@ -5335,13 +5230,7 @@ never really thought much about where it would end up. But I did
 do things like that [from the start].” The reasons are not hard for a
 journalist to identify with. Said McCullagh,
 
-    This is a problem for journalists . . . because people read our articles but we don’t really have a community to talk to. We just get
-    nastygrams from people who hate us, and we get nice notes from
-    people who like us. But the process of being able to develop an
-    article idea with some community input is very valuable. So you
-    can throw out sort of half–baked ideas on a mailing list, and then
-    hone those into something that you can get paid to write a few
-    days later.
+bq. This is a problem for journalists . . . because people read our articles but we don’t really have a community to talk to. We just get nastygrams from people who hate us, and we get nice notes from people who like us. But the process of being able to develop an article idea with some community input is very valuable. So you can throw out sort of half–baked ideas on a mailing list, and then hone those into something that you can get paid to write a few days later.
 
 When he was hired recently by CNET, he and his new employer
 agreed that he would get to keep his community and to feed it in
@@ -5356,7 +5245,7 @@ McCullagh told me as we ended our interview, “Oh, I should say: I
 met my wife through the list.”
 
 
-Slashdot
+h5. Slashdot
 
 Slashdot began in September 1997 as a Web site covering technology–related news. Its angle, however, was a technology that enabled
 users to both comment upon the articles that got referenced, and
@@ -5378,7 +5267,7 @@ produces a high–quality RW site. Editing is value. This value is
 produced for free.
 
 
-Last.fm
+h5. Last.fm
 
 No doubt the industry that has squealed the most (think stuck
 pig) about the Internet is the traditional recording industry. As
@@ -5400,9 +5289,7 @@ friends and those within their musical “neighborhood.”
 As Japanese venture capitalist (and Last.fm investor) Joi Ito
 described it to me,
 
-    The Last.fm community originally was, and may still be, revolving around the cleaning up of the data. So if you have titles of
-    songs that are misspelled, or if you have an artist whose name is
-    written differently in Japanese, there’s a whole community of people who go in and fix those ambiguities and fix the data.
+bq. The Last.fm community originally was, and may still be, revolving around the cleaning up of the data. So if you have titles of songs that are misspelled, or if you have an artist whose name is written differently in Japanese, there’s a whole community of people who go in and fix those ambiguities and fix the data.
 
 The contributions, however, are now much wider than some form
 of community editing. “There’s also a community around each of
@@ -5417,7 +5304,7 @@ the song. It cues others to your interest. But this advertising is simply conver
 of so–called advertising is really part of the conversation.” Volunteers converse. The product is a value to the company.
 
 
-Microsoft
+h5. Microsoft
 
 In an increasingly remote region of cyberspace called Usenet, a
 fanatically committed group of volunteers works to help people
@@ -5463,7 +5350,7 @@ work for it, better. But the product is a network–based community
 collaborating to make it easier to use Microsoft products.
 
 
-Yahoo! Answers
+h5. Yahoo! Answers
 
 Usenet is not the only forum for sharing information. Increasingly
 companies are building “answer sites” to encourage a wide range
@@ -5477,13 +5364,7 @@ from it. Yahoo!’s aim was to become the hub of community–based
 activity on the Web. The hottest answer site would be an important
 part of that hub. As described to me by Yahoo! founder Jerry Yang,
 
-    We’ve been at it for about a year and there are 75 million people
-    a month participating either asking questions, answering questions, looking up answers. You know, some of it is silly, “Why is
-    the sky blue?” Others are very technical questions or very specialized questions around taxes or profession. A lot of people saying,
-    “I can’t get my Mac to work. What do I do?” And all of a sudden,
-    you have this very natural human interaction of “I have a question
-    and somebody out there must have an answer for this.” But you
-    bring it on the Web and then you have a global community.31
+bq. We’ve been at it for about a year and there are 75 million people a month participating either asking questions, answering questions, looking up answers. You know, some of it is silly, “Why is the sky blue?” Others are very technical questions or very specialized questions around taxes or profession. A lot of people saying, “I can’t get my Mac to work. What do I do?” And all of a sudden, you have this very natural human interaction of “I have a question and somebody out there must have an answer for this.” But you bring it on the Web and then you have a global community.31
 
 As of April 14, 2008, the site contains 35,411,866 questions and
 35,411,851 answers.32
@@ -5510,7 +5391,7 @@ know what, if you answer a lot of questions, you’ll get paid.’ I think
 there is this fine balance between paying people versus people feeling like there’s a noncommercial motive.”
 
 
-Wikia
+h5. Wikia
 
 Wikipedia, as I described in the previous chapter, is a sharing economy. It has sworn off advertising as a way to raise money. This is no
 idle resolve: as I’ve already mentioned, based on the traffic Wikipedia garners, it could earn over $100 million a year if it added advertising to its site. Such is the opportunity of top ten Internet portals.
@@ -5552,17 +5433,12 @@ enabling users to move the content of the wiki elsewhere if they
 begin to find the bowling alley no longer reflects their values. Wales
 imagines a Wiki user reasoning:
 
-    “Look, we accept that you have ads because we know we need the
-    infrastructure, but that’s not giving you carte blanche to basically
-    slap way too much stuff all over the site.” And so that tension and
-    the fact that communities are empowered to actually leave—they
-    can take all their content and leave if we’re not making them
-    happy—are really important.
+bq. “Look, we accept that you have ads because we know we need the infrastructure, but that’s not giving you carte blanche to basically slap way too much stuff all over the site.” And so that tension and the fact that communities are empowered to actually leave—they can take all their content and leave if we’re not making them happy—are really important.
 
 There’s thus a social contract between the commercial and the sharing. Upon that contract, the value in Wikia gets built.
 
 
-Hybrid Hollywood
+h5. Hybrid Hollywood
 
 Perhaps the most interesting emerging (if slowly) example of collaborative hybrids comes from the least likely of sources: Hollywood.
 Increasingly, Hollywood is including the audience in the process of
@@ -5623,11 +5499,7 @@ became savvy in its strategy of intimidation. It avoided threatening
 Lawver directly; it hoped to avoid her following generally. But, as
 she told Jenkins,
 
-    They attacked a whole bunch of kids in Poland. . . . They went
-    after the 12 and 15 year olds with the rinky–dink sites. [But]
-    they underestimated how interconnected our fandom was. They
-    underestimated the fact that we knew those kids in Poland and
-    we knew the rinky–dink sites and we cared about them.45
+bq. They attacked a whole bunch of kids in Poland. . . . They went after the 12 and 15 year olds with the rinky–dink sites. [But] they underestimated how interconnected our fandom was. They underestimated the fact that we knew those kids in Poland and we knew the rinky–dink sites and we cared about them.45
 
 “If someone got threatened by Warner,” she explained to me,
 “they could come to us. And it got to the point where Warner Bros.
@@ -5690,14 +5562,7 @@ banner advertising and affiliate programs.”
 
 This was Lawver’s understanding of a fair deal as well:
 
-    Well, obviously, the line includes whether or not you’re trying to
-    make money off of the franchise that someone else owns. That’s
-    the most important thing, because I do still respect Warner Bros.’
-    right to say, “Hey, you can’t make money off of something that
-    we created and we own the rights to.” So, that’s one of the biggest
-    things we always tell the kids is that you can’t start a Harry Potter
-    site and start confusing the fans and trying to get them to send
-    you money. Making money off of it is an absolute no–no.
+bq. Well, obviously, the line includes whether or not you’re trying to make money off of the franchise that someone else owns. That’s the most important thing, because I do still respect Warner Bros.’ right to say, “Hey, you can’t make money off of something that we created and we own the rights to.” So, that’s one of the biggest things we always tell the kids is that you can’t start a Harry Potter site and start confusing the fans and trying to get them to send you money. Making money off of it is an absolute no–no.
 
 But part of Lawver’s message to Warner was that the fans were
 where the money was. The consequence of (what the lawyers saw
@@ -5712,12 +5577,7 @@ company, but the fan base as well.” When I pushed him about the
 benefit that Warner got, however—when I characterized it as more
 profit to the company—he hesitated.
 
-     I think that, as a by–product of that, you certainly get to a benefit
-     to both the fan and the company, and I think that that’s what’s
-     important to Warner Bros. It’s not solely a commercial interest.
-     It’s not an approach of, “Well, let’s use the fan so that we can make
-     sure and make a lot of money.” That’s not the number one goal of
-     the company.
+bq. I think that, as a by–product of that, you certainly get to a benefit  to both the fan and the company, and I think that that’s what’s  important to Warner Bros. It’s not solely a commercial interest.  It’s not an approach of, “Well, let’s use the fan so that we can make  sure and make a lot of money.” That’s not the number one goal of  the company.
 
 I let it go. But the hesitation was revealing. What else is Warner
 supposed to do, except “make a lot of money”? Sure, it must do that in
@@ -5755,11 +5615,7 @@ original content. But as Jenkins puts it, “it also threaten[s] the producer’
 
 Tapscott and Williams make the point more generally:
 
-    So here’s the prosumption [meaning PROfessional + conSUMER]
-    dilemma: A company that gives its customers free reign to hack
-    risks cannibalizing its business model and losing control of its
-    platform. A company that fights its users soils its reputation and
-    shuts out a potentially valuable source of innovation.47
+bq. So here’s the prosumption [meaning PROfessional + conSUMER] dilemma: A company that gives its customers free reign to hack risks cannibalizing its business model and losing control of its platform. A company that fights its users soils its reputation and shuts out a potentially valuable source of innovation.47
 
 Yet at the same time, media companies, as well as businesses
 more generally, are recognizing that closer ties with the audience are
@@ -5795,7 +5651,7 @@ walking up to the cash register and saying, ‘Pay me, and then we’ll
 do the exploring.’ ”53
 
 
-Type 3 : Communities
+h4. Type 3: Communities
 
 I’ve described community spaces and collaboration spaces, intending the word “spaces” to reduce a bit the grandness of these other,
 big words. One might call Dogster a community. In a sense it is.
@@ -5810,7 +5666,7 @@ most interesting examples of hybrid communities are virtual spaces
 like Second Life.
 
 
-Second Life
+h5. Second Life
 
 Think of Second Life as a world that a character you create gets to
 travel to. Once in that world, the character gets to do just about anything. The character (or, forgive me, but better, “you”) can hang out
@@ -5855,25 +5711,11 @@ percentage of Second Lifers hang about, trying to help newbies as
 they learn the ropes. As the chief Second Lifer (i.e., the Boss), Philip
 Rosedale, described to me,
 
-    Second Life is a daunting environment because, obviously, it’s so
-    rich with capability. And, so, as a new user to it, you are bound to
-    be frightened, confused by, or frustrated in your attempts to do
-    pretty much anything that you’re trying to do. And, I think what
-    has come of that has been quite interesting.55
+bq. Second Life is a daunting environment because, obviously, it’s so rich with capability. And, so, as a new user to it, you are bound to be frightened, confused by, or frustrated in your attempts to do pretty much anything that you’re trying to do. And, I think what has come of that has been quite interesting.55
 
 For, he continued:
 
-    Once you have figured out how Second Life really works, what tends
-    to happen is you then have a kind of currency that you can freely give,
-    which is your advice and explanation of how things work. And, I
-    think that that behavior is so prevalent. It’s so pleasurable to tell a new
-    person what to do, and they get so much from it, as well, and are so
-    thankful and then you just have that natural, I don’t know . . . I think
-    there’s a natural pleasure that we take as humans in being able to help
-    somebody else that, I would say, that the general idea of helping each
-    other in the environment is a very strong one, and you see, nowadays,
-    you see numerous cases of that happening in a way that doesn’t . . . isn’t
-    really, I suppose, economically rational at a tactical scale.
+bq. Once you have figured out how Second Life really works, what tends to happen is you then have a kind of currency that you can freely give, which is your advice and explanation of how things work. And, I think that that behavior is so prevalent. It’s so pleasurable to tell a new person what to do, and they get so much from it, as well, and are so thankful and then you just have that natural, I don’t know . . . I think there’s a natural pleasure that we take as humans in being able to help somebody else that, I would say, that the general idea of helping each other in the environment is a very strong one, and you see, nowadays, you see numerous cases of that happening in a way that doesn’t . . . isn’t really, I suppose, economically rational at a tactical scale.
 
 So does that mean Second Life was constructed to create this kind
 of community? “No,” Rosedale said with some resignation. “I don’t
@@ -5928,15 +5770,7 @@ richness of the life they know in Second Life exceeds the richness of
 the life they can live in real life. As Sherry Turkle reported from one
 user of a different but related world more than a decade ago,
 
-    I split my mind. I’m getting better at it. I can see myself as being two
-    or three or more. And I just turn on one part of my mind and then
-    another when I go from window to window. I’m in some kind of
-    argument in one window and trying to come on to a girl in a MUD
-    in another, and another window might be running a spreadsheet
-    program or some other technical thing for school. . . . And then I’ll
-    get a real–time message [that flashes on the screen as soon as it is
-    sent from another system user], and I guess that’s RL [real life]. It’s
-    just one more window . . . and it’s not usually my best one.58
+bq. I split my mind. I’m getting better at it. I can see myself as being two or three or more. And I just turn on one part of my mind and then another when I go from window to window. I’m in some kind of argument in one window and trying to come on to a girl in a MUD in another, and another window might be running a spreadsheet program or some other technical thing for school. . . . And then I’ll get a real–time message [that flashes on the screen as soon as it is sent from another system user], and I guess that’s RL [real life]. It’s just one more window . . . and it’s not usually my best one.58
 
 Second Life is of course not the only virtual place in which people build this sort of community. Many (perhaps most) of the most
 interesting virtual games have this component built in. Japanese
@@ -5946,15 +5780,7 @@ Warcraft: “[T]he game emphasizes the necessity for a group. As
 an individual, you realize that the only way that you could create
 a group is by sharing and by being friendly.” This is a lesson especially important for kids.
 
-    So a lot of times when young kids start playing World of Warcraft, in
-    the beginning they’re very greedy. They look at it as a game and they
-    don’t look at these other people inside of this game as real people.
-    They will do something stupid in the middle of a raid, or they’ll go
-    off and leave the game without saying anything, and do something
-    that will cause him to be mean, so . . . they realize that they quickly
-    lose their community. Once you lose your community, you’re unable
-    to then go off and even set foot inside of certain dungeons and things
-    like that without the right kind of . . . without a group.
+bq. So a lot of times when young kids start playing World of Warcraft, in the beginning they’re very greedy. They look at it as a game and they don’t look at these other people inside of this game as real people. They will do something stupid in the middle of a raid, or they’ll go off and leave the game without saying anything, and do something that will cause him to be mean, so . . . they realize that they quickly lose their community. Once you lose your community, you’re unable to then go off and even set foot inside of certain dungeons and things like that without the right kind of . . . without a group.
 
 The game thus “pushes you to help each other. . . . It is very difficult
 to play by yourself, and being nice to people and gaining friendship is rewarded.” The design thickens the community as a way to
@@ -5985,28 +5811,12 @@ the belief in his company, and the belief that it should grow as fast
 as possible. Second Life makes people better; Second Life should
 therefore grow as quickly as possible.
 
-    And, it just seemed that, if your mission as a company is to grow as
-    quickly as you can, which very much is our mission, not just from
-    the “make money” perspective but actually, I think, primarily from
-    the perspective, which I’ve talked about in our blog quite a bit, we
-    broadly believe that this is a force for good. That as people use Second Life it is a statistical improver in one’s quality of life. And, if
-    that’s true, then we should allow it to grow as quickly as people
-    want it to, and we should criticize ourselves if there’s a moment at
-    which we maximize revenue at the cost of growth or maintain some
-    degree of control that, if we had given it up, would have caused this
-    thing to grow faster. So, we made the decision to open–source.
+bq. And, it just seemed that, if your mission as a company is to grow as quickly as you can, which very much is our mission, not just from the “make money” perspective but actually, I think, primarily from the perspective, which I’ve talked about in our blog quite a bit, we broadly believe that this is a force for good. That as people use Second Life it is a statistical improver in one’s quality of life. And, if that’s true, then we should allow it to grow as quickly as people want it to, and we should criticize ourselves if there’s a moment at which we maximize revenue at the cost of growth or maintain some degree of control that, if we had given it up, would have caused this thing to grow faster. So, we made the decision to open–source.
 
 Second, the decision was driven by the recognition of how much
 value Linden Lab might leverage from its community:
 
-    And, so, we went ahead and put the pieces in place, but the core belief
-    was that there were—we only have about thirty principal developers
-    at this point—and the belief was that there would be hundreds if
-    not thousands of people who would be willing to contribute development time and that it would therefore be unprincipled of us not to
-    allow those people to do so. So, that’s what we’re trying to do. And,
-    the early results, as you probably know, are quite positive. We’re getting patched submissions now every day that we’re folding into the
-    code. . . . I don’t think we’ve had enough time beyond the release yet
-    of the source code to characterize how many additional virtual developers we have, but it’s already more than a few.
+bq. And, so, we went ahead and put the pieces in place, but the core belief was that there were—we only have about thirty principal developers at this point—and the belief was that there would be hundreds if not thousands of people who would be willing to contribute development time and that it would therefore be unprincipled of us not to allow those people to do so. So, that’s what we’re trying to do. And, the early results, as you probably know, are quite positive. We’re getting patched submissions now every day that we’re folding into the code. . . . I don’t think we’ve had enough time beyond the release yet of the source code to characterize how many additional virtual developers we have, but it’s already more than a few.
 
 So in the end, Second Life will have given away the copyright
 to the creativity built in the game, and it will have opened the client and servers to the free sharing of a GPL’d software project. In
@@ -6028,11 +5838,7 @@ Williams summarize the lesson for companies building a hybrid
 consistent with the principles of “wikinomics” (openness, peering,
 sharing, and acting globally): 59
 
-    What was the difference [between successful business and not]?
-    The losers launched Web sites. The winners launched vibrant
-    communities. The losers built walled gardens. The winners built
-    public squares. The losers innovated internally. The winners innovated with their users. The losers jealously guarded their data and
-    software interface. The winners shared them with everyone.60
+bq. What was the difference [between successful business and not]? The losers launched Web sites. The winners launched vibrant communities. The losers built walled gardens. The winners built public squares. The losers innovated internally. The winners innovated with their users. The losers jealously guarded their data and software interface. The winners shared them with everyone.60
 
 Hybrids are also a model for getting others to innovate in ways that
 benefit the company. Tapscott and Williams quote Technorati’s
@@ -6070,12 +5876,7 @@ doing albums or whatever.”
 How this gets done well is not something even Yang fully sees
 yet. “There’s no science in this . . . there’s still a lot of art.”
 
-    You know, the community will give you a certain latitude for
-    facilitating a commercial business, but they ultimately have to
-    feel like they’re the ones that are part of the economy and not you.
-    So you have to find a way to balance out the value that you as a
-    platform for that community are adding versus the ability for the
-    community to benefit from that economy.
+bq. You know, the community will give you a certain latitude for facilitating a commercial business, but they ultimately have to feel like they’re the ones that are part of the economy and not you. So you have to find a way to balance out the value that you as a platform for that community are adding versus the ability for the community to benefit from that economy.
 
 “The goal is to make people feel like there are real social benefits
 and economic benefits for them to invest in this platform.” And in
@@ -6089,30 +5890,18 @@ not to say community alone is enough. Nor is it even to say that among
 all the factors of success, community is the most important thing. As
 perhaps the Net’s most famous publisher, Tim O’Reilly, put it,
 
-    You get your initial enthusiasm from people who are your passionate, inner core. And you want to build a system that lets them
-    become passionate, become connected, have this personal connection to you and what you do. But, to get beyond that, you have to
-    build a system in which people participate without knowing that
-    they participate. That’s where the power comes.62
+bq. You get your initial enthusiasm from people who are your passionate, inner core. And you want to build a system that lets them become passionate, become connected, have this personal connection to you and what you do. But, to get beyond that, you have to build a system in which people participate without knowing that they participate. That’s where the power comes.62
 
 For, O’Reilly put it, the most powerful architecture and participation don’t rely on volunteerism.
 
-    They don’t rely on people explicitly being part of a community
-    or knowing who’s in the community. . . . [T]he Web is like that.
-    It’s this brilliant architecture where everybody puts up their own
-    Web site for their own reasons, links to other people for their own
-    reasons, and yet, there is a creation of shared value.
+bq. They don’t rely on people explicitly being part of a community or knowing who’s in the community. . . . [T]he Web is like that. It’s this brilliant architecture where everybody puts up their own Web site for their own reasons, links to other people for their own reasons, and yet, there is a creation of shared value.
 
 O’Reilly points to YouTube as an example. YouTube’s success, he
 argues (agreeing again with Chen), came not from the rah–rah of
 the community activism. Its success came instead from great code:
 YouTube’s success, O’Reilly explained to me,
 
-    wasn’t because [people] thought it was cool. It was because YouTube
-    figured out better how to make it viral. Viral is about making it serve
-    the people’s own interest, so that they’re participating without thinking that they’re participating. Google said, “Upload your video here
-    and we’ll host it,” and YouTube with their Flash player said, “Either
-    put this video on your site or we’ll host it anyway.” So you get to share
-    the video without any of the costs and with no–muss–no–fuss.
+bq. wasn’t because [people] thought it was cool. It was because YouTube figured out better how to make it viral. Viral is about making it serve the people’s own interest, so that they’re participating without thinking that they’re participating. Google said, “Upload your video here and we’ll host it,” and YouTube with their Flash player said, “Either put this video on your site or we’ll host it anyway.” So you get to share the video without any of the costs and with no–muss–no–fuss.
 
 “People aren’t thinking,” he continued, “that they are donating to
 YouTube. They’re actually thinking, ‘Wow! I’m getting a free service from YouTube.’ ”
@@ -6128,15 +5917,13 @@ some thee–motivated, and the way technology can help serve them.
 
 
 
-                         EIGHT
-                    ECONOMY LESSONS
+h2. 8. Economy Lessons
 
 
 When commercial and sharing economies interact, they produce the hybrid. How they sustain a hybrid successfully is a
 harder question. We’ve not yet seen enough to say anything conclusive. We have seen enough to describe a few important lessons.
 
-
-                 Parallel Economies Are Possible
+h3. Parallel Economies Are Possible
 
 The simplest but perhaps most important conclusion is that parallel
 economies are possible. Work successfully licensed in a commercial
@@ -6159,9 +5946,7 @@ song was licensed both commercially and noncommercially. This
 helped the commercial. More artists and record companies will do
 the same in the future.
 
-
-              Tools Help Signal Which Economy
-                    a Creator Creates For
+h3. Tools Help Signal Which Economy a Creator Creates For
 
 As creators choose between these two economies, the market has
 developed—free of government intervention—tools to signal which
@@ -6185,7 +5970,7 @@ act for different motives, and the motive to give deserves as much
 respect as the motive to get.
 
 
-                 Crossovers Are Growing
+h3. Crossovers Are Growing
 
 As the second lesson suggests, nothing bans crossovers. There’s
 nothing wrong, for example, with an artist who created something
@@ -6214,8 +5999,7 @@ to be available under the CC license. But the licenses also helped
 them cross over to a commercial economy.
 
 
-     Strong Incentives Will Increasingly Drive
-          Commercial Entities to Hybrids
+h3. Strong Incentives Will Increasingly Drive Commercial Entities to Hybrids
 
 Their rhetoric notwithstanding, hybrids are in it for the money.
 Commercial entities leveraging sharing economies do so because
@@ -6259,12 +6043,7 @@ pay for it—whether positively (by cleaning up the pollution), or
 negatively (by collecting some reward for the good produced to the
 public). As von Hippel writes,
 
-    The “private investment model” of innovation assumes that innovation will be supported by private investment if and as innovators can make attractive profits from doing so. In this model, any
-    free revealing or uncompensated “spillover” or proprietary knowledge developed by private investment will reduce the innovator’s
-    profits. It is therefore assumed that innovators will strive to avoid
-    spillovers of innovation–related information. From the perspective of this model, then, free revealing is a major surprise: it seems
-    to make no sense that innovators would intentionally give away
-    information for free that they had invested money to develop.8
+bq. The “private investment model” of innovation assumes that innovation will be supported by private investment if and as innovators can make attractive profits from doing so. In this model, any free revealing or uncompensated “spillover” or proprietary knowledge developed by private investment will reduce the innovator’s profits. It is therefore assumed that innovators will strive to avoid spillovers of innovation–related information. From the perspective of this model, then, free revealing is a major surprise: it seems to make no sense that innovators would intentionally give away information for free that they had invested money to develop.8
 
 But in fact, historically, spillovers have produced great value to
 society. William Baumol estimates that “the spillovers of innovation, both direct and indirect, can be estimated to constitute well
@@ -6279,12 +6058,7 @@ often (though certainly not always) enjoyed by the person revealing
 the information. Describing authors of open–source software, for
 example, von Hippel writes,
 
-    [If] they freely reveal, others can debug and improve upon the
-    modules they have contributed, to everyone’s benefit. They are
-    also motivated to have their improvement incorporated into the
-    standard version of the open source software that is generally distributed by the volunteer open source user organization, because
-    it will then be updated and maintained without further effort on
-    the innovator’s part.10
+bq. [If] they freely reveal, others can debug and improve upon the modules they have contributed, to everyone’s benefit. They are also motivated to have their improvement incorporated into the standard version of the open source software that is generally distributed by the volunteer open source user organization, because it will then be updated and maintained without further effort on the innovator’s part.10
 
 These considerations lead many to conclude, with Baumol,
 that “despite the substantial spillovers (externalities) of innovation,
@@ -6314,9 +6088,7 @@ for reducing transaction costs proliferate. And conversely, it would be
 checked by changes that increase the transaction costs of the hybrid.
 
 
-      Perceptions of Fairness Will in Part Mediate
-        the Hybrid Relationship Between Sharing
-                  and Commercial Economies
+h3. Perceptions of Fairness Will in Part Mediate the Hybrid Relationship Between Sharing and Commercial Economies
 
 We are not far into the history of these hybrid economies. And
 early enthusiasm will no doubt soon give way to a more measured,
@@ -6352,25 +6124,14 @@ feeling that they, the volunteers, are jerks for giving something to
 economy, yet like it or not, the skepticism is growing. Said Om
 Malik, founder of GigaOmniMedia:
 
-    I wondered out loud if this culture of participation was seemingly help[ing] build business on our collective backs. So if we tag,
-    bookmark, or share, and help del.icio.us or Technorati or Yahoo
-    become better commercial entities, aren’t we seemingly commoditizing our most valuable asset—time? We become the outsourced
-    workforce, the collective, though it is still unclear what is the payoff. While we may (or may not) gain something from the collective efforts, the odds are whatever “the collective efforts” are, they
-    are going to boost the economic value of those entities. Will we
-    share in their upside? Not likely!16
+bq. I wondered out loud if this culture of participation was seemingly help[ing] build business on our collective backs. So if we tag, bookmark, or share, and help del.icio.us or Technorati or Yahoo become better commercial entities, aren’t we seemingly commoditizing our most valuable asset—time? We become the outsourced workforce, the collective, though it is still unclear what is the payoff. While we may (or may not) gain something from the collective efforts, the odds are whatever “the collective efforts” are, they are going to boost the economic value of those entities. Will we share in their upside? Not likely!16
 
 Anil Dash, a vice president with Six Apart, posed this question
 more directly: “Should Flickr compensate the creators of the most
 popular pictures on its site?”17 Tapscott and Williams describe the
 reply by Caterina Fake, cofounder of Flickr:
 
-    [T]here are systems of value other than, or in addition to,
-    money, that are very important to people: connecting with other
-    people, creating an online identity, expressing oneself—and, not
-    least, garnering other people’s attention. She continued on, saying
-    that the Web—indeed the world—would be a much poorer place
-    without the collective generosity of its contributors. The culture of
-    generosity is the very backbone of the Internet.18
+bq. [T]here are systems of value other than, or in addition to, money, that are very important to people: connecting with other people, creating an online identity, expressing oneself—and, not least, garnering other people’s attention. She continued on, saying that the Web—indeed the world—would be a much poorer place without the collective generosity of its contributors. The culture of generosity is the very backbone of the Internet.18
 
 It is hard for many to see how a “culture of generosity” can coexist with an ethic of profit. The slogan “You be generous, and I make
 money” seems like a nonstarter. And so increasingly, we must ask
@@ -6422,46 +6183,19 @@ then follow through.”) Tim O’Reilly makes a similar point, though
 not about moderate profits. He emphasizes moderate efforts at
 control:
 
-    There is a social compact. . . . [And] people in some sense will
-    regard certain people as good guys and so they’ll go further for
-    them than they would for somebody who they regarded as a hostile. A really good example of that is . . . Safari, our online book
-    service. We have a very light DRM [for those books, making] it
-    hard to spider. But not too hard. . . . And we get thousands of emails from people reporting that to us. You know, “Hey, I found
-    your books on a site in Russia.” “I found your books on a site in
-    Romania.” I bet the RIAA didn’t get those e–mails.
+bq. There is a social compact. . . . [And] people in some sense will regard certain people as good guys and so they’ll go further for them than they would for somebody who they regarded as a hostile. A really good example of that is . . . Safari, our online book service. We have a very light DRM [for those books, making] it hard to spider. But not too hard. . . . And we get thousands of emails from people reporting that to us. You know, “Hey, I found your books on a site in Russia.” “I found your books on a site in Romania.” I bet the RIAA didn’t get those e–mails.
 
 Philip Rosedale of Second Life emphasizes a different value:
 transparency. “I’m a tremendous believer in the idea that there’s a
 new mode by which businesses can interact which is based on complete transparency,” he explained to me.
 
-    There’s a trust–building exercise there that doesn’t traditionally
-    happen, because companies are inherently private because historically, competition was the first order of concern of companies.
-    Therefore privacy [or secrecy], for the purpose of giving you a leg
-    up on your competitors, has always been a kind of a central building block of corporate behavior. And, in a world where openness
-    and network effects are likely to decide the winner, you now have
-    to break down that perception. You want to build a company
-    whose first value is not privacy but, instead, disclosure.
+bq. There’s a trust–building exercise there that doesn’t traditionally happen, because companies are inherently private because historically, competition was the first order of concern of companies. Therefore privacy [or secrecy], for the purpose of giving you a leg up on your competitors, has always been a kind of a central building block of corporate behavior. And, in a world where openness and network effects are likely to decide the winner, you now have to break down that perception. You want to build a company whose first value is not privacy but, instead, disclosure.
 
 Some companies go even further. Brewster Kahle describes the
 decision of the search company Alexa.
 
-    [W]e wanted to build a new–generation search engine, which is
-    sort of what Alexa and the Internet Archive strove to do in ’96. It
-    turns out that we were wrong, that the world didn’t need a fundamentally different kind of search engine, because the search
-    engines were going along okay. But Alexa would collect the
-    World Wide Web and make a service based on it. So that it was a
-    for–profit company that leveraged the community work of others,
-    which was the contents of the Web, to produce a service.
-
-    But exploiting that material beyond being directly tied to producing that service, we at Alexa did not feel it was right. So Alexa
-    donated a copy of what it had collected to a nonprofit and deleted
-    its own. So after six months, that was how long it took for Alexa to
-    use the material to do the service that people were, in some sense,
-    cooperating [with] or allowing Alexa to have built. It donated a
-    copy, and it deleted theirs. We think of that as very . . . we thought
-    of that as a very important part of the balance of the property
-    interest in a commercial company and the public interest that can
-    be better served within a nonprofit.
+bq. [W]e wanted to build a new–generation search engine, which is sort of what Alexa and the Internet Archive strove to do in ’96. It turns out that we were wrong, that the world didn’t need a fundamentally different kind of search engine, because the search engines were going along okay. But Alexa would collect the World Wide Web and make a service based on it. So that it was a for–profit company that leveraged the community work of others, which was the contents of the Web, to produce a service.
+p. But exploiting that material beyond being directly tied to producing that service, we at Alexa did not feel it was right. So Alexa donated a copy of what it had collected to a nonprofit and deleted its own. So after six months, that was how long it took for Alexa to use the material to do the service that people were, in some sense, cooperating [with] or allowing Alexa to have built. It donated a copy, and it deleted theirs. We think of that as very . . . we thought of that as a very important part of the balance of the property interest in a commercial company and the public interest that can be better served within a nonprofit.
 
 Every company building a hybrid will face exactly the same
 challenge: how to frame its work, and the profit it expects, in a way
@@ -6469,8 +6203,7 @@ that doesn’t frighten away the community. “Mutual free riding”
 will be the mantra, at least if the value to both sides can be made
 more clear.
 
-There are of course famous examples of this mutual free riding gone bad. The volunteer–created CD Database— CDDB—
-was one.
+There are of course famous examples of this mutual free riding gone bad. The volunteer–created CD Database—CDDB—was one.
 
 As I’ve already described, CDDB was an online database that
 contained track information about CDs. That information was
@@ -6531,14 +6264,7 @@ made more. The same is true for a parallel database, also initially
 built by users for free, the Internet Movie Database, or IMDb. As
 Brewster explained to me,
 
-    Both [CDDB and IMDb] went off into commercial organizations. And there was a feeling of betrayal on the part of those who
-    contributed their efforts for free. Because somebody else seemed
-    to be taking advantage of them or not offering it back to the
-    commons.
-    Now with IMDb, Amazon is thrilled that they are paying
-    their own bills based on their advertising and subscription–based
-    premium products. . . . But did IMDb end up what it could have
-    been? I don’t think so.
+bq. Both [CDDB and IMDb] went off into commercial organizations. And there was a feeling of betrayal on the part of those who contributed their efforts for free. Because somebody else seemed to be taking advantage of them or not offering it back to the commons. Now with IMDb, Amazon is thrilled that they are paying their own bills based on their advertising and subscription–based premium products. . . . But did IMDb end up what it could have been? I don’t think so.
 
 The conflict here is deeper than the Internet. It will get resolved
 in the hybrid economy only when each economy—the commercial and the sharing—validates the other. If those within a sharing
@@ -6552,14 +6278,7 @@ Not surprisingly, copyright is an important tool in mediating
 these expectations. As a fantastic report by the analysts Pike &
 Fischer argues,
 
-    Strict copyright enforcement on user–submitted/generated content
-    may also result in a negative shift in attitude in the communities
-    that build around all these sites. The widespread appeal of user–submitted/generated content, especially within the framework
-    of social networking sites, relies strongly upon the freedom of
-    expression, which often circumvents copyright law. Any further
-    restriction to that expression may result in a reduction of user activity—the lifeblood of an advertising revenue–based business model.
-    In the end, copyright holders and social networking sites may be
-    forced to strike a balance in order to maintain user–interest.23
+bq. Strict copyright enforcement on user–submitted/generated content may also result in a negative shift in attitude in the communities that build around all these sites. The widespread appeal of user–submitted/generated content, especially within the framework of social networking sites, relies strongly upon the freedom of expression, which often circumvents copyright law. Any further restriction to that expression may result in a reduction of user activity—the lifeblood of an advertising revenue–based business model. In the end, copyright holders and social networking sites may be forced to strike a balance in order to maintain user–interest.23
 
 The norm that would encourage a hybrid economy most is
 the norm of many within the GNU/Linux community: any use,
@@ -6618,31 +6337,17 @@ articles. The norms that support free production in one are not
 necessarily the norms that support free production in the other. As
 Brian Behlendorf, a cofounder of the Apache project, puts it,
 
-    I don’t know if there is one single, social contract amongst cultural
-    works. I think it’s different for DJs and electronic music than it is
-    for folk music or even different types of dance music. [For example, the] R & B community has appropriated a lot of tracks and
-    a lot of song examples yet probably would fight fiercely with the
-    RIAA against downloading of their work and such.
+bq. I don’t know if there is one single, social contract amongst cultural works. I think it’s different for DJs and electronic music than it is for folk music or even different types of dance music. [For example, the] R & B community has appropriated a lot of tracks and a lot of song examples yet probably would fight fiercely with the RIAA against downloading of their work and such.
 
 He points to another important difference as well:
 
-    A lot of software is, by its nature, a team effort with lots of
-    iterations over time. A lot of cultural media—songs or plays or
-    movies—are, if they have teams, much smaller teams where they
-    tend to be the vision of one or two people. And they arrive at a
-    finished body of work or mostly finished work and then it’s kind
-    of put in a time capsule. . . . [M]aybe it’s this evolutionary nature
-    of software, the fact that contributors come and go over time and
-    that, sure, you have certain versions that are well known and such,
-    but it’s not like movies where there’s a finished work that makes its
-    way to the theater and people pay money to go see it.
+bq. A lot of software is, by its nature, a team effort with lots of iterations over time. A lot of cultural media—songs or plays or movies—are, if they have teams, much smaller teams where they tend to be the vision of one or two people. And they arrive at a finished body of work or mostly finished work and then it’s kind of put in a time capsule. . . . [M]aybe it’s this evolutionary nature of software, the fact that contributors come and go over time and that, sure, you have certain versions that are well known and such, but it’s not like movies where there’s a finished work that makes its way to the theater and people pay money to go see it.
 
 We need to understand these differences to envision the lines
 communities will draw.
 
 
-      “Sharecropping” Is Not Likely to Become
-                 a Term of Praise
+h3. “Sharecropping” Is Not Likely to Become a Term of Praise
 
 Although I am uncertain about how these norms will develop
 generally, there are particular conclusions we can draw with confidence. Here’s one: digital sharecropping will not be long for this
@@ -6703,13 +6408,7 @@ a fan home page.
 
 But the fine print in this offer struck many as unfair. The contract read:
 
-    The creation of derivative works based on or derived from the
-    Star Wars Properties, including, but not limited to, products, services, fonts, icons, link buttons, wallpaper, desktop themes, online postcards and greeting cards and unlicensed merchandise
-    (whether sold, bartered or given away) is expressly prohibited. If
-    despite these Terms of Service you do create any derivative works
-    based on or derived from the Star Wars Properties, such derivative
-    works shall be deemed and shall remain the property of Lucasfilm
-    Ltd. in perpetuity.
+bq. The creation of derivative works based on or derived from the Star Wars Properties, including, but not limited to, products, services, fonts, icons, link buttons, wallpaper, desktop themes, online postcards and greeting cards and unlicensed merchandise (whether sold, bartered or given away) is expressly prohibited. If despite these Terms of Service you do create any derivative works based on or derived from the Star Wars Properties, such derivative works shall be deemed and shall remain the property of Lucasfilm Ltd. in perpetuity.
 
 Translation: “Work hard here, Star Wars fans, to make our franchise flourish, but don’t expect that anything you make is actually
 yours. You, Star Wars fans, are our sharecroppers. Be happy with
@@ -6798,8 +6497,7 @@ know little of competitive markets. (And tenured law professors
 know even less.)
 
 
-                     The Hybrid Can Help Us
-                      Decriminalize Youth
+h3. The Hybrid Can Help Us Decriminalize Youth
 
 As hybrids for culture have developed, the most successful of these
 hybrids have learned that encouraging legal creativity is the key
@@ -6824,12 +6522,8 @@ wisdom of a certain freedom, politicians at least sometimes listen.
 As the market of hybrids becomes even more significant, the freedoms hybrids will depend upon will become more and more salient
 to policy makers.
 
-
-
-
-                        PART THREE
-                         ENABLING
-                        THE FUTURE
+h1. Part III
+Enabling the Future
 
 
 In the twentieth century, RO culture flourished. The twenty–first century
@@ -6859,10 +6553,7 @@ It is a motivation for real promises. And in the face of this promise, we
 need a plan for making these futures real. Real change will be necessary
 if this future is to come about— changes in law, and changes in us.
 
-
-
-                        NINE
-                   REFORMING LAW
+h2. 9. Reforming Law
 
 
 Copyright law regulates culture in America. Copyright law must
@@ -6884,7 +6575,7 @@ they would go a long way toward making the system make more
 sense of the creative potential of digital technologies.
 
 
-            1. Deregulating Amateur Creativity
+h3. 1. Deregulating Amateur Creativity
 
 The first change is the most obvious: we need to restore a copyright law that leaves “amateur creativity” free from regulation. Or
 put differently, we need to revive the kind of outrage that Sousa
@@ -6907,11 +6598,9 @@ jurisprudence could develop to help guide the distinction here as well.
 This exemption should at least be made for noncommercial, or
 amateur, remix. Consider, for example, the following table:
 
-                             “Copies”   Remix
-             Professional    ©          ©/free
-                Amateur      ©/free     free
-
-
+| | “Copies” | Remix |
+| Professional | © | ©/free |
+| Amateur | ©/free | free |
 
 The rows distinguish between professional creativity and amateur.
 
@@ -7062,7 +6751,7 @@ that Congress could make toward enabling the RW hybrids to
 flourish.
 
 
-                        2. Clear Title
+h3. 2. Clear Title
 
 When Google announced its plans to digitize—or Google–ize—18
 million books, the editors at the Wall Street Journal were outraged.
@@ -7229,7 +6918,7 @@ the Wall Street Journal should see that. From its perspective, why
 would it be surprising that a government–crafted system of monopoly would be inefficiently run?
 
 
-                          3. Simplify
+h3. 3. Simplify
 
 The third change follows directly from the second. Congress must
 work to make the law simpler.
@@ -7290,7 +6979,7 @@ protection and incentives. The real question should be whether we
 couldn’t get very close to that ideal balance with a much much simpler (read: cheaper) system.
 
 
-                     4. Decriminalizing the Copy
+h4. 4. Decriminalizing the Copy
 
 The fourth change is perhaps the most geeky but possibly, in the
 end, the most important. Copyright law has got to give up its
@@ -7319,21 +7008,8 @@ for “copying” would reach.
 The effect of this change in technology was to change radically
 the scope of copyright law. In 1909, writes Jessica Litman,
 
-    U.S. copyright law was technical, inconsistent, and difficult to
-    understand, but it didn’t apply to very many people or very many
-    things. If one were an author or publisher of books, maps, charts,
-    paintings, sculpture, photographs or sheet music, a playwright
-    or producer of plays, or a printer, the copyright law bore on one’s
-    business. Booksellers, piano–roll and phonograph record publishers, motion picture producers, musicians, scholars, members of
-    Congress, and ordinary consumers could go about their business
-    without ever encountering a copyright problem.
-
-    Ninety years later, the U.S. copyright law is even more technical, inconsistent and difficult to understand; more importantly, it
-    touches everyone and everything. In the intervening years, copyright has reached out to embrace much of the paraphernalia of modern society. . . . Technology, heedless of law, has developed modes
-    that insert multiple acts of reproduction and transmission—
-    potentially actionable events under the copyright statute—into
-    commonplace daily transactions. Most of us can no longer spend
-    even an hour without colliding with the copyright law.11
+bq. U.S. copyright law was technical, inconsistent, and difficult to understand, but it didn’t apply to very many people or very many things. If one were an author or publisher of books, maps, charts, paintings, sculpture, photographs or sheet music, a playwright or producer of plays, or a printer, the copyright law bore on one’s business. Booksellers, piano–roll and phonograph record publishers, motion picture producers, musicians, scholars, members of Congress, and ordinary consumers could go about their business without ever encountering a copyright problem.
+p. Ninety years later, the U.S. copyright law is even more technical, inconsistent and difficult to understand; more importantly, it touches everyone and everything. In the intervening years, copyright has reached out to embrace much of the paraphernalia of modern society. . . . Technology, heedless of law, has developed modes that insert multiple acts of reproduction and transmission— potentially actionable events under the copyright statute—into commonplace daily transactions. Most of us can no longer spend even an hour without colliding with the copyright law.11
 
 If copyright regulates copies, and copying is as common as breathing, then a law that triggers federal regulation on copying is a law
 that regulates too far.
@@ -7383,7 +7059,7 @@ by the law being triggered upon the mere creation of a copy is an
 unnecessary tax on the creative process.
 
 
-                 5. Decriminalizing File Sharing
+h3. 5. Decriminalizing File Sharing
 
 My final change is the one I will describe the least because, again,
 others have effectively mapped this change.13 But it is my view that
@@ -7426,22 +7102,7 @@ that copyright law should pose: would these uses actually do any
 harm? The people I spoke with in preparing this book made that
 point again and again. As Don Joyce explained:
 
-    All lawsuits in this field are always couched in economic terms:
-    “By ripping this off, by stealing this thing, you have threatened
-    the economic viability of the original somehow.” They actually
-    say that without any proof that that’s true at all. I have never seen
-    anyone prove that in fact, that some work was diminished in its
-    ability to make money by somebody’s sample. In my mind the
-    work that’s reusing it is not in competition with the original. And
-    you haven’t removed the original. It’s still there. It will always be
-    there, as it is, as it was, as the original. And if you sample from it,
-    you’ve made something else. You’ve probably put samples from ten
-    other things into this thing, and that’s just one little element, and
-    together the parts make up something that has very little bearing
-    on that one thing you may have sampled from. I just don’t think
-    there’s an argument there of what the harm is. If there’s no harm,
-    and it’s a lot of fun, I say do it. No one’s ever shown me that the
-    harm is real.
+bq. All lawsuits in this field are always couched in economic terms: “By ripping this off, by stealing this thing, you have threatened the economic viability of the original somehow.” They actually say that without any proof that that’s true at all. I have never seen anyone prove that in fact, that some work was diminished in its ability to make money by somebody’s sample. In my mind the work that’s reusing it is not in competition with the original. And you haven’t removed the original. It’s still there. It will always be there, as it is, as it was, as the original. And if you sample from it, you’ve made something else. You’ve probably put samples from ten other things into this thing, and that’s just one little element, and together the parts make up something that has very little bearing on that one thing you may have sampled from. I just don’t think there’s an argument there of what the harm is. If there’s no harm, and it’s a lot of fun, I say do it. No one’s ever shown me that the harm is real.
 
 That much is perfectly true. Economists argue ferociously about
 whether or to what extent p2p file sharing of complete digital copies of commercially available works might harm the copyright
@@ -7462,9 +7123,7 @@ document.
 
 
 
-                            TEN
-                        REFORMING US
-
+h2. 10. Reforming Us
 
 The law is just one part of the problem. A bigger part is us. Our
 norms and expectations around the control of culture have been
@@ -7475,8 +7134,7 @@ and build hybrid economies. We need to develop a set of judgments
 about how to react appropriately to speech that we happen not to
 like. We, as a society, need to develop and deploy these norms.
 
-
-                     Chilling the Control Freaks
+h3. Chilling the Control Freaks
 
 We know the norms this century needs. We can find them if we
 think again about the freedoms in writing. We were all taught as
@@ -7504,10 +7162,7 @@ the norms that govern much of the arts. The willingness to invoke
 the legal system to address misuse with films or music is astonishing. As Academy Award–winning director Davis Guggenheim
 told me eight years ago, it is also increasing.
 
-     Ten years ago . . . if incidental artwork . . . was recognized by a common person, then you would have to clear its copyright. Today,
-     things are very different. Now if any piece of artwork is recognizable by anybody . . . then you have to clear the rights of that and
-     pay to use the work. [A]lmost every piece of artwork, any piece of
-     furniture, or sculpture, has to be cleared before you can use it.2
+bq. Ten years ago . . . if incidental artwork . . . was recognized by a common person, then you would have to clear its copyright. Today,  things are very different. Now if any piece of artwork is recognizable by anybody . . . then you have to clear the rights of that and  pay to use the work. [A]lmost every piece of artwork, any piece of  furniture, or sculpture, has to be cleared before you can use it.2
 
 We need the norms governing text to govern culture generally.
 
@@ -7515,17 +7170,7 @@ This change must start with the companies that now have legal
 control over so much of our culture. They must show leadership.
 Henry Jenkins divides these companies into two sorts:
 
-    [S]tarting with the legal battles over Napster, the media industries have increasingly adopted a scorched–earth policy toward
-    their consumers, seeking to regulate and criminalize many forms
-    of fan participation that once fell below their radar. Let’s call
-    them the prohibitionists. To date, the prohibitionist stance has
-    been dominant within old media companies (film, television, the
-    recording industry), though these groups are to varying degrees
-    starting to reexamine some of these assumptions. . . . At the same
-    time, on the fringes, new media companies . . . are experimenting
-    with new approaches that see fans as important collaborators in
-    the production of content and as grassroots intermediaries helping
-    to promote the franchise. We will call them the collaborationists.3
+bq. [S]tarting with the legal battles over Napster, the media industries have increasingly adopted a scorched–earth policy toward their consumers, seeking to regulate and criminalize many forms of fan participation that once fell below their radar. Let’s call them the prohibitionists. To date, the prohibitionist stance has been dominant within old media companies (film, television, the recording industry), though these groups are to varying degrees starting to reexamine some of these assumptions. . . . At the same time, on the fringes, new media companies . . . are experimenting with new approaches that see fans as important collaborators in the production of content and as grassroots intermediaries helping to promote the franchise. We will call them the collaborationists.3
 
 These collaborationists are forcing “media companies to rethink
 old assumptions about what it means to consume media.”4 As they
@@ -7533,7 +7178,7 @@ experiment more with freedom, they will encourage norms that
 support that freedom as well.
 
 
-                         Showing Sharing
+h3. Showing Sharing
 
 As I’ve already described, copyright law is automatic. It reaches out
 and controls what you create—whether you intend it or not, and
@@ -7631,7 +7276,7 @@ norm that doesn’t condemn copyright, but rather condemns senselessly deployed 
 oppose giving handguns to kids. Likewise here.
 
 
-        Rediscovering the Limits of Regulation
+h3. Rediscovering the Limits of Regulation
 
 The final change is perhaps the most important. It is certainly the
 most general. We as a culture need to rediscover an idea that was
@@ -7649,13 +7294,7 @@ government. Many believed that government could do little, or
 maybe nothing, to change how people behaved. As the prominent
 nineteenth–century legal theorist James C. Carter put it,
 
-    [H]uman transactions, especially private transactions, can be governed only by the principles of justice; . . . these have an absolute
-    existence, and cannot be made by human enactment; . . . they are
-    wrapped up with the transactions which they regulate, and are
-    discovered by subjecting those transactions to examination. [T]he
-    law is consequently a science depending upon the observation of
-    facts and not a contrivance to be established by legislation, that
-    being a method directly antagonistic to science.5
+bq. [H]uman transactions, especially private transactions, can be governed only by the principles of justice; . . . these have an absolute existence, and cannot be made by human enactment; . . . they are wrapped up with the transactions which they regulate, and are discovered by subjecting those transactions to examination. [T]he law is consequently a science depending upon the observation of facts and not a contrivance to be established by legislation, that being a method directly antagonistic to science.5
 
 If society is to change or improve, Carter believed, it must do so
 by improving the individual. Legislation cannot “originate” that
@@ -7758,80 +7397,13 @@ the literally hundreds of people under thirty who have spoken to
 me passionately about this issue. Just as I was completing this manuscript, for example, one teenager sent me an essay he had written about “piracy.” As his essay, titled “Who Passes Up the Free
 Lunch,” explained:
 
-    You can get any song you want, any type of music, from any era,
-    and it’s all FREE! What could be better? All of music’s history is
-    at your disposal for one low monthly price: $0! . . .
-
-    I download songs all the time for these exact reasons. It’s
-    quick, easy and best of all, free! The other side of it is the artists
-    that lose the revenue that they would have got if all those people
-    had bought the CD’s. Obviously not everyone would have bought
-    the CD, but this creates a moral dilemma between supporting the
-    artists and just taking the free lunch. The RIAA says this is illegal, the artists say it’s stealing their money, and most of educated
-    society says it’s just plain wrong, but here’s the problem: I completely agree with both sides.
-
-    “Pirating” music, as the RIAA calls it, is something I do whenever I want some new music. All I do is type in the name of the
-    artist or song, and click download, and voila, it appears and starts
-    playing. It’s so easy it’s like stealing candy from a baby. However,
-    now I’m at a point where I kind of take it for granted, and I don’t
-    even think about what I would do if one day it were suddenly not
-    available. In a time when there are so many options to amass a
-    music collection, I take the way that is most convenient for me and
-    most damaging to the artists. Much has been said in the justice
-    system, in the media and online about the legality of these peer to
-    peer networks, but the reality is that millions of people do it and
-    only a few are ever stopped. I shamefully admit that, despite my
-    sympathy for the artists and others who lose money from the file–sharing, I consciously take part in it and I have no plans to stop in
-    the near future.
-
-    Some people can justify stealing music because they do not
-    realize the consequences; that is not the case for me because I am
-    fully aware of them. I live in New York City, a place with liberal
-    political views and that has been the home to many famous musicians over the years. My school, Trinity, is a place full of people
-    with enough money to buy their own CD’s, and there is also a
-    club that is trying to encourage people to trade CD’s. However,
-    despite many people’s support of the philosophy of this group, in
-    this digital age, it is simply infinitely easier to share music online.
-    I even have a guitar teacher who writes songs for a living, and
-    who depends on the money that people steal when they download
-    songs from the internet. I am even so self–consciously guilty about
-    this that I hide the program on my computer so she can’t see it
-    when she comes. I tell her that I get my songs from my friends
-    because I know that even if she wouldn’t tell me directly, she
-    would be very disappointed in me. Each of these three groups that
-    I am a part of, New Yorkers, Trinitarians, and guitar players, has
-    a moral opposition to “pirating” music, yet somehow, as a member
-    of educated society, I am able to shun this opposition in favor of a
-    “free lunch.”
-
-    So why is it that I, as well as millions of other people, go
-    on stealing music from artists every day? For some, it may be
-    disrespect for copyright laws, or simply an issue of money that one
-    uses to justify “pirating” music. Others may not know the consequences for the artists, or choose to disregard those consequences.
-    However, there is still another, more hedonistic reason, which I
-    too can identify with, why people still download music from the
-    internet. In a way, it is a product of our take–what–you–can capitalistic society, but at the same time our justice system has said that
-    it is illegal. . . .
-
-    The singer “Weird Al” Yankovic also deals with the issue of
-    morality in one of his songs, creatively titled, “Don’t Download
-    This Song.” He uses his playful lyrics to convince people to buy
-    CD’s, but at the same time, he doesn’t exactly side with the artists or the RIAA either. He talks about the “guilt” and “shame”
-    that will stay with you after you download the music, but later he
-    talks about the RIAA like it’s an evil empire prosecuting children
-    and grandmas willy–nilly. Also, he mentions another part that has
-    been at the back of my mind: Why do the artists need the money
-    more than me because they’re already super–rich? His perspective as an artist is very interesting, because one would think that
-    he would only be supportive of artists and the RIAA. Instead, he
-    refuses to redeem the morality of either side, only adding to the
-    murkiness of this issue.
-
-    Ok, so there you have it: while I have a moral opposition to
-    “pirating” music, the proposition of free music makes this opposition purely philosophical. All I have left to do is hope that “Weird
-    Al” was wrong when in “Don’t Download This Song,” he calmly
-    describes the only possible progression for a “music pirate”: “You’ll
-    start out stealing songs, then you’re robbing liquor stores, and selling crack, and running over school kids with your car.” Oh, and
-    also that I never get good enough at guitar to have my music “stolen” on LimeWire.9
+bq. You can get any song you want, any type of music, from any era, and it’s all FREE! What could be better? All of music’s history is at your disposal for one low monthly price: $0! . . .
+p. I download songs all the time for these exact reasons. It’s quick, easy and best of all, free! The other side of it is the artists that lose the revenue that they would have got if all those people had bought the CD’s. Obviously not everyone would have bought the CD, but this creates a moral dilemma between supporting the artists and just taking the free lunch. The RIAA says this is illegal, the artists say it’s stealing their money, and most of educated society says it’s just plain wrong, but here’s the problem: I completely agree with both sides.
+p. “Pirating” music, as the RIAA calls it, is something I do whenever I want some new music. All I do is type in the name of the artist or song, and click download, and voila, it appears and starts playing. It’s so easy it’s like stealing candy from a baby. However, now I’m at a point where I kind of take it for granted, and I don’t even think about what I would do if one day it were suddenly not available. In a time when there are so many options to amass a music collection, I take the way that is most convenient for me and most damaging to the artists. Much has been said in the justice system, in the media and online about the legality of these peer to peer networks, but the reality is that millions of people do it and only a few are ever stopped. I shamefully admit that, despite my sympathy for the artists and others who lose money from the file–sharing, I consciously take part in it and I have no plans to stop in the near future.
+p. Some people can justify stealing music because they do not realize the consequences; that is not the case for me because I am fully aware of them. I live in New York City, a place with liberal political views and that has been the home to many famous musicians over the years. My school, Trinity, is a place full of people with enough money to buy their own CD’s, and there is also a club that is trying to encourage people to trade CD’s. However, despite many people’s support of the philosophy of this group, in this digital age, it is simply infinitely easier to share music online. I even have a guitar teacher who writes songs for a living, and who depends on the money that people steal when they download songs from the internet. I am even so self–consciously guilty about this that I hide the program on my computer so she can’t see it when she comes. I tell her that I get my songs from my friends because I know that even if she wouldn’t tell me directly, she would be very disappointed in me. Each of these three groups that I am a part of, New Yorkers, Trinitarians, and guitar players, has a moral opposition to “pirating” music, yet somehow, as a member of educated society, I am able to shun this opposition in favor of a “free lunch.”
+p. So why is it that I, as well as millions of other people, go on stealing music from artists every day? For some, it may be disrespect for copyright laws, or simply an issue of money that one uses to justify “pirating” music. Others may not know the consequences for the artists, or choose to disregard those consequences. However, there is still another, more hedonistic reason, which I too can identify with, why people still download music from the internet. In a way, it is a product of our take–what–you–can capitalistic society, but at the same time our justice system has said that it is illegal. . . .
+p. The singer “Weird Al” Yankovic also deals with the issue of morality in one of his songs, creatively titled, “Don’t Download This Song.” He uses his playful lyrics to convince people to buy CD’s, but at the same time, he doesn’t exactly side with the artists or the RIAA either. He talks about the “guilt” and “shame” that will stay with you after you download the music, but later he talks about the RIAA like it’s an evil empire prosecuting children and grandmas willy–nilly. Also, he mentions another part that has been at the back of my mind: Why do the artists need the money more than me because they’re already super–rich? His perspective as an artist is very interesting, because one would think that he would only be supportive of artists and the RIAA. Instead, he refuses to redeem the morality of either side, only adding to the murkiness of this issue.
+p. Ok, so there you have it: while I have a moral opposition to “pirating” music, the proposition of free music makes this opposition purely philosophical. All I have left to do is hope that “Weird Al” was wrong when in “Don’t Download This Song,” he calmly describes the only possible progression for a “music pirate”: “You’ll start out stealing songs, then you’re robbing liquor stores, and selling crack, and running over school kids with your car.” Oh, and also that I never get good enough at guitar to have my music “stolen” on LimeWire.9
 
 I’ve never met the author of this essay. But I meet his kind all the
 time. They are my students. They populate the Stanford campus.
@@ -7861,7 +7433,7 @@ the legitimate end.
 
 
 
-                      CONCLUSION
+h2. Conclusion
 
 
 The economic theory behind copyright justifies it as a tool to
@@ -7885,20 +7457,7 @@ very hard to block who gets to see your mural.
 
 Jefferson put the same idea more lyrically in a letter he wrote in 1813:
 
-    If nature has made any one thing less susceptible than all others of
-    exclusive property, it is the action of the thinking power called an idea,
-    which an individual may exclusively possess as long as he keeps it to
-    himself; but the moment it is divulged, it forces itself into the possession
-    of every one, and the receiver cannot dispossess himself of it. Its peculiar character, too, is that no one possesses the less, because every other
-    possesses the whole of it. He who receives an idea from me, receives
-    instruction himself without lessening mine; as he who lights his taper
-    at mine, receives light without darkening me. That ideas should freely
-    spread from one to another over the globe, for the moral and mutual
-    instruction of man, and improvement of his condition, seems to have
-    been peculiarly and benevolently designed by nature, when she made
-    them, like fire, expansible over all space, without lessening their density
-    at any point, and like the air in which we breathe, move, and have our
-    physical being, incapable of confinement or exclusive appropriation.2
+bq. If nature has made any one thing less susceptible than all others of exclusive property, it is the action of the thinking power called an idea, which an individual may exclusively possess as long as he keeps it to himself; but the moment it is divulged, it forces itself into the possession of every one, and the receiver cannot dispossess himself of it. Its peculiar character, too, is that no one possesses the less, because every other possesses the whole of it. He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. That ideas should freely spread from one to another over the globe, for the moral and mutual instruction of man, and improvement of his condition, seems to have been peculiarly and benevolently designed by nature, when she made them, like fire, expansible over all space, without lessening their density at any point, and like the air in which we breathe, move, and have our physical being, incapable of confinement or exclusive appropriation.2
 
 Jefferson was talking about ideas here. Copyright regulates expression. But his observations about the nature of ideas are increasingly true of expression. If I post this book on the Internet, then your
 taking a copy doesn’t remove my having a copy too (“no one possesses the less, because every other possess the whole”). And my
@@ -8019,7 +7578,7 @@ remix creativity; one that decriminalizes the offense of being a teen.
 
 
 
-                   ACKNOWLEDGMENTS
+h2. Acknowledgments
 
 
 This book is the culmination of a long effort to make an obvious point
@@ -8120,26 +7679,20 @@ love to Bettina, who has built that particular joy with me, despite the burdens 
 
 
 
-                                        NOTES
+h3.
 
 
 
 
-Throughout this text there are references to links on the World Wide Web. As anyone
-who has tried to use the Web knows, these links can be highly unstable. I have tried to
-remedy this instability by redirecting readers to the original source through the Web site
-associated with this book. For each link below, you can go to remix.lessig.org and locate
-the original source. If the original link remains alive, you will be redirected to that link. If
-the original link has disappeared, you will be redirected to an appropriate reference for the
-material.
+Throughout this text there are references to links on the World Wide Web. As anyone who has tried to use the Web knows, these links can be highly unstable. I have tried to remedy this instability by redirecting readers to the original source through the Web site associated with this book. For each link below, you can go to remix.lessig.org and locate the original source. If the original link remains alive, you will be redirected to that link. If the original link has disappeared, you will be redirected to an appropriate reference for the material.
 
 
                                            Preface
 
 fn1. George Lakoff and Mark Johnson, Metaphors We Live By (Chicago: University of Chicago Press, 1980), 156–57.
 
- 2. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
- 3. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools
+fn2. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
+fn3. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools
     to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
  4. Metro– Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
 
