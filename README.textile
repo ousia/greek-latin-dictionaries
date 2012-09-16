@@ -22,7 +22,7 @@ h2. Licencia
 
 A no ser que se afirme otra cosa, los archivos están bajo licencia "_[en]Creative Commons_ Atribución--Compartir Igual":https://creativecommons.org/licenses/by-sa/3.0/deed.en_ES.
 
-Es importante no olvidar que incluso los textos en dominio público están protegidos bajo derechos de autor _[la]sui generis]_ para bases de datos. Es necesario comprobar la normativa aplicable para cumplirla cuando sea exigible.
+Es importante no olvidar que incluso los textos en dominio público están protegidos bajo derechos de autor _[la]sui generis_ para bases de datos. Es necesario comprobar la normativa aplicable para cumplirla cuando sea exigible.
 
 h2. Contacto
 
