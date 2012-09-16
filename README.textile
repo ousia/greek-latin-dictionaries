@@ -2,7 +2,7 @@ h1. textile-epubs
 
 This is a small repository with free ePub documents that I want to share with anyone who is interested on them.
 
-The source documents will be in the "Textile lightweight format":http://www.txstyle.org.
+The source documents will use the "@textile@ lightweight markup language":http://www.txstyle.org.
 
 h2. License
 
@@ -17,6 +17,8 @@ If you have anything to say, please "open an issue":https://github.com/ousia/tex
 h1. textile-epubs
 
 Es una pequeño almacén de documentos ePub que tienen distribución libre y que comparto con cualquiera que le interesen.
+
+El formato de etiquetado es "@textile@":http://www.txstyle.org.
 
 h2. Licencia
 
