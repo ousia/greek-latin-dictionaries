@@ -67,19 +67,7 @@ crime, a war on spam, a war on guns, and a war on cancer. As Professors George L
 then frame and drive social policy. As they put it, in discussing
 President Carter’s “moral equivalent of war” speech:
 
-    There was an “enemy,” a “threat to national security,” which
-    required “setting targets,” “reorganizing priorities,” “establishing
-    a new chain of command,” “plotting new strategy,” “gathering
-    intelligence,” “marshaling forces,” “imposing sanctions,” “calling
-    for sacrifices,” and on and on. The WAR metaphor highlighted
-    certain realities and hid others. The metaphor was not merely a
-    way of viewing reality; it constituted a license for policy change
-    and political and economic action. The very acceptance of the
-    metaphor provided grounds for certain interferences: there was
-    an external, foreign, hostile enemy (pictured by cartoonist in Arab
-    headdress); energy needed to be given top priorities; the populace
-    would have to make sacrifices; if we didn’t meet the threat we
-    would not survive.1
+bq. There was an “enemy,” a “threat to national security,” which required “setting targets,” “reorganizing priorities,” “establishing a new chain of command,” “plotting new strategy,” “gathering intelligence,” “marshaling forces,” “imposing sanctions,” “calling for sacrifices,” and on and on. The WAR metaphor highlighted certain realities and hid others. The metaphor was not merely a way of viewing reality; it constituted a license for policy change and political and economic action. The very acceptance of the metaphor provided grounds for certain interferences: there was an external, foreign, hostile enemy (pictured by cartoonist in Arab headdress); energy needed to be given top priorities; the populace would have to make sacrifices; if we didn’t meet the threat we would not survive.[1]
 
 A fight for survival has obvious implications. Such fights get
 waged without limit. It is cowardly to question the cause. Dissent is
@@ -295,7 +283,7 @@ digital technologies upon traditional copyright industries.
 
 
 
-                           INTRODUCTION
+h2. Introduction
 
 
 In early February 2007, Stephanie Lenz’s eighteen–month–old son,
@@ -447,22 +435,14 @@ of this part of their lives. That was its point: not so much about Lennon, but a
 Throughout her career Breitz has focused upon the relationship between mainstream culture—from blockbuster movies to pop
 music—and the audience who experiences it. As she explained to me,
 
-    the idea is to shift the focus away from those people who are usually perceived as creators so as to give some space, some room, to
-    those people who absorb cultural products—whether it’s music or
-    movies or whatever the case may be. And to think a little bit about
-    what happens once music or a movie has been distributed: how it
-    may get absorbed into the lives into the very being of the people
-    who listen to it or watch it.1
+bq. the idea is to shift the focus away from those people who are usually perceived as creators so as to give some space, some room, to those people who absorb cultural products—whether it’s music or movies or whatever the case may be. And to think a little bit about what happens once music or a movie has been distributed: how it may get absorbed into the lives into the very being of the people who listen to it or watch it.1
 
 Each of us connects differently. The connection runs deep in
 some; it skips across the surface in others. Sometimes it catches us
 and pulls us along. Sometimes it changes us completely. Again,
 Breitz:
 
-    Even the most broadly distributed, most market–inflected music
-    comes to have a very specific and local meaning for people according to where it is that they’re hearing it or at what moment in their
-    life they’re hearing it. What goes hand in hand with the moment
-    of reception is a dimension of personal translation.
+bq. Even the most broadly distributed, most market–inflected music comes to have a very specific and local meaning for people according to where it is that they’re hearing it or at what moment in their life they’re hearing it. What goes hand in hand with the moment of reception is a dimension of personal translation.
 
 This “reception,” she continued, “involves . . . interpretation or translation.” That act “is creative.” Active. Engaged. Yet, it’s easy for us
 to miss the active in the mere watching. It’s rude to turn around
@@ -474,48 +454,22 @@ as it touches us.
 As Breitz explained this to me, I wondered about its source in
 her. Where did it come from? I asked her. In part, it was African.
 
-    In African and other oral cultures, this is how culture has traditionally functioned. In the absence of written culture, stories and
-    histories were shared communally between performers and their
-    audiences, giving rise to version after version, each new version
-    surpassing the last as it incorporated the contributions and feedback of the audience, each new version layered with new details
-    and twists as it was inflected through the collective. This was
-    never thought of as copying or stealing or intellectual–property
-    theft but accepted as the natural way in which culture evolves and
-    develops and moves forward. As each new layer of interpretation
-    was painted onto the story or the song, it was enriched rather than
-    depleted by those layers.
+bq. In African and other oral cultures, this is how culture has traditionally functioned. In the absence of written culture, stories and histories were shared communally between performers and their audiences, giving rise to version after version, each new version surpassing the last as it incorporated the contributions and feedback of the audience, each new version layered with new details and twists as it was inflected through the collective. This was never thought of as copying or stealing or intellectual–property theft but accepted as the natural way in which culture evolves and develops and moves forward. As each new layer of interpretation was painted onto the story or the song, it was enriched rather than depleted by those layers.
 
 But this reality is not unique to oral cultures. In Breitz’s view, it
 is “how the artistic process works” generally.
 
-    This process of making meaning may be more blatant in the
-    practice of certain artists than it is in the practice of others. Artists who work with found footage, for example, blatantly reflect
-    on the absorptive logic of the creative process. But I would argue
-    that every work of art comes into being through a similar process,
-    no matter how subtly. No artist works in a vacuum. Every artist
-    reflects— consciously or not— on what has come before and what
-    is happening parallel to his or her practice.
+bq. This process of making meaning may be more blatant in the practice of certain artists than it is in the practice of others. Artists who work with found footage, for example, blatantly reflect on the absorptive logic of the creative process. But I would argue that every work of art comes into being through a similar process, no matter how subtly. No artist works in a vacuum. Every artist reflects—consciously or not—on what has come before and what is happening parallel to his or her practice.
 
 This understanding of culture, and the artist’s relationship to
 culture, led directly to the particular work I was watching at White
 Cube. As she described to me,
 
-    these works are based on a pretty simple premise: there are
-    enough images and representations of superstars and celebrities
-    in the world. Rather than creating more images of people who
-    are already overrepresented, rather than literally making another
-    image of a Madonna or a John Lennon, I wanted to reflect on
-    the other side of the equation, on what goes into the making of
-    celebrity.
+bq. these works are based on a pretty simple premise: there are enough images and representations of superstars and celebrities in the world. Rather than creating more images of people who are already overrepresented, rather than literally making another image of a Madonna or a John Lennon, I wanted to reflect on the other side of the equation, on what goes into the making of celebrity.
 
-    I realized I needed to turn the camera 180 degrees, away from
-    those who are usually in the public eye—those who already have
-    a strong voice and presence on the screen or stage—towards those
-    on the other side of the screen or stage, the audience members who
-    attend concerts, watch movies, and buy CDs.
+bq. I realized I needed to turn the camera 180 degrees, away from those who are usually in the public eye—those who already have a strong voice and presence on the screen or stage—towards those on the other side of the screen or stage, the audience members who attend concerts, watch movies, and buy CDs.
 
-    Towards those who are usually—incorrectly, in my opinion—
-    conceived of as mere absorbers of culture rather than being recognized as having the potential to reflect culture creatively.
+bq. Towards those who are usually—incorrectly, in my opinion—conceived of as mere absorbers of culture rather than being recognized as having the potential to reflect culture creatively.
 
 Prior to Working Class Hero, the similar installations had all
 been well received. After seeing Legend, for example, Bob Marley’s
@@ -547,7 +501,7 @@ The curator described the proposal again. Ono asked to see it
 in writing. After reviewing it, her lawyers informed Breitz that she
 could use John Lennon/Plastic Ono Band in her project, but:
 
-    Please note, clearance for the use of the actual musical compositions must be secured from the relevant publishers.2
+bq. Please note, clearance for the use of the actual musical compositions must be secured from the relevant publishers.2
 
 Relieved (however naively), Breitz then asked White Cube’s
 lawyers to start the process of securing “clearance” from the copyright holders for the compositions. Three months later, the lawyers
@@ -564,7 +518,7 @@ lawyers agreed to permit the work to be shown at this nonprofit
 institution without an agreement. They did the same for a non–profit venue in Vienna three months later, but mentioned that Ms.
 Ono’s lawyers wanted a formal agreement before any further exhibitions could go ahead.
 
-    A year after the request was originally made, it had still not
+A year after the request was originally made, it had still not
 been resolved. At the time of this writing, more than two years
 after the initial response, and after literally hundreds of hours of
 the lawyers’, the museum executives’, and Breitz’s time, the rights
@@ -631,12 +585,7 @@ knew about this run–in. But as he explained to me in a way that
 reminded me of the days when I too thought the law was simply
 justice written nicely,
 
-    I feel the same exact way now that I felt then. I think, just morally, that the music wasn’t really hurting anyone. And there’s no
-    way anyone was buying my CD instead of someone else’s [that I
-    had sampled]. And . . . it clearly wasn’t affecting the market. This
-    wasn’t something like a bootlegging case. I felt like if someone
-    really had a problem with this then we could stop doing it. But I
-    didn’t see why anyone should.
+bq. I feel the same exact way now that I felt then. I think, just morally, that the music wasn’t really hurting anyone. And there’s no way anyone was buying my CD instead of someone else’s [that I had sampled]. And . . . it clearly wasn’t affecting the market. This wasn’t something like a bootlegging case. I felt like if someone really had a problem with this then we could stop doing it. But I didn’t see why anyone should.
 
 Why anyone “should” was a question I couldn’t answer. That
 someone would was a prediction too obvious to make. The “problem” would be raised not directly, but indirectly; not by filing a
@@ -652,29 +601,12 @@ everyone will soon do. Everyone, at least, who is passionate about
 music. Or, at least, everyone passionate about music and under the
 age of thirty.
 
-    We’re living in this remix culture. This appropriation time where
-    any grade–school kid has a copy of Photoshop and can download
-    a picture of George Bush and manipulate his face how they want
-    and send it to their friends. And that’s just what they do. Well,
-    more and more people have noticed a huge increase in the amount
-    of people who just do remixes of songs. Every single Top 40 hit
-    that comes on the radio, so many young kids are just grabbing it
-    and doing a remix of it. The software is going to become more and
-    more easy to use. It’s going to become more like Photoshop when
-    it’s on every computer. Every single P. Diddy song that comes out,
-    there’s going to be ten–year–old kids doing remixes and then putting them on the Internet.
+bq. We’re living in this remix culture. This appropriation time where any grade–school kid has a copy of Photoshop and can download a picture of George Bush and manipulate his face how they want and send it to their friends. And that’s just what they do. Well, more and more people have noticed a huge increase in the amount of people who just do remixes of songs. Every single Top 40 hit that comes on the radio, so many young kids are just grabbing it and doing a remix of it. The software is going to become more and more easy to use. It’s going to become more like Photoshop when it’s on every computer. Every single P. Diddy song that comes out, there’s going to be ten–year–old kids doing remixes and then putting them on the Internet.
 
 
 “But why is this good?” I asked Gillis.
 
-It’s good because it is, in essence, just free culture. Ideas impact
-data, manipulated and treated and passed along. I think it’s just
-great on a creative level that everyone is so involved with the music
-that they like. . . . You don’t have to be a traditional musician. You
-get a lot of raw ideas and stuff from people outside of the box who
-haven’t taken guitar lessons their whole life. I just think it’s great
-for music.
-
+bq. It’s good because it is, in essence, just free culture. Ideas impact data, manipulated and treated and passed along. I think it’s just great on a creative level that everyone is so involved with the music that they like. . . . You don’t have to be a traditional musician. You get a lot of raw ideas and stuff from people outside of the box who haven’t taken guitar lessons their whole life. I just think it’s great for music.
 
 And, Gillis believes, it is also great for the record industry as
 well: “From a financial perspective, this is how the music industry
@@ -803,13 +735,11 @@ about the nature of creativity.
 
 
 
-                        PART ONE
-                        CULTURES
+h1. Part I
+Cultures
 
+h2. 1. The Cultures of our Past
 
-
-                            ONE
-                    CULTURES OF OUR PAST
 
 
 On a humid day in June 1906, one of America’s favorite composers climbed the steps of the Library of Congress to testify
@@ -849,11 +779,7 @@ his (to us, today) obviously sensible plea. It is instead a point that
 may have been obvious to him, then, but that has largely been forgotten by us, now. For as well as complaining about the “piracy” of
 mechanical music, Sousa also complained about the cultural emptiness that mechanical music would create. As he testified:
 
-    When I was a boy . . . in front of every house in the summer evenings you would find young people together singing the songs of
-    the day or the old songs. Today you hear these infernal machines
-    going night and day. We will not have a vocal cord left. The vocal
-    cords will be eliminated by a process of evolution, as was the tail of
-    man when he came from the ape.2
+bq. When I was a boy . . . in front of every house in the summer evenings you would find young people together singing the songs of the day or the old songs. Today you hear these infernal machines going night and day. We will not have a vocal cord left. The vocal cords will be eliminated by a process of evolution, as was the tail of man when he came from the ape.2
 
 “We will not have a vocal cord left.”
 
@@ -884,32 +810,16 @@ people.
 Indeed, he believed this change was already happening. As he
 recounted:
 
-    Last summer . . . I was in one of the biggest yacht harbors of the
-    world, and I did not hear a voice the whole summer. Every yacht
-    had a gramophone, a phonograph, an Aeolian, or something of the
-    kind. They were playing Sousa marches, and that was all right, as
-    to the artistic side of it, but they were not paying for them, and,
-    furthermore, they were not helping the technical development of
-    music.4
+bq. Last summer . . . I was in one of the biggest yacht harbors of the world, and I did not hear a voice the whole summer. Every yacht had a gramophone, a phonograph, an Aeolian, or something of the kind. They were playing Sousa marches, and that was all right, as to the artistic side of it, but they were not paying for them, and, furthermore, they were not helping the technical development of music.4
 
 This decline in participation, Sousa argued, would translate
 into a decline in the spread of tools to create music:
 
-    This wide love for the art springs from the singing school, secular or sacred; from the village band, and from the study of those
-    instruments that are nearest the people. There are more pianos, violins, guitars, mandolins, and banjos among the working
-    classes of America than in all the rest of the world, and the presence of these instruments in the homes has given employment
-    to enormous numbers of teachers who have patiently taught the
-    children and inculcated a love for music throughout the various
-    communities.5
+bq. This wide love for the art springs from the singing school, secular or sacred; from the village band, and from the study of those instruments that are nearest the people. There are more pianos, violins, guitars, mandolins, and banjos among the working classes of America than in all the rest of the world, and the presence of these instruments in the homes has given employment to enormous numbers of teachers who have patiently taught the children and inculcated a love for music throughout the various communities.5
 
 “And what is the result” of this loss of “amateurs”? Sousa asked.
 
-    The child becomes indifferent to practice, for when music can be
-    heard in the homes without the labor of study and close application, and without the slow process of acquiring a technique, it
-    will be simply a question of time when the amateur disappears
-    entirely. . . . [T]he tide of amateurism cannot but recede, until there
-    will be left only the mechanical device and the professional
-    executant.6
+bq. The child becomes indifferent to practice, for when music can be heard in the homes without the labor of study and close application, and without the slow process of acquiring a technique, it will be simply a question of time when the amateur disappears entirely. . . . [T]he tide of amateurism cannot but recede, until there will be left only the mechanical device and the professional executant.6
 
 “The tide of amateurism cannot but recede”—a bad thing, this
 professional believed, for music and for culture.
@@ -939,7 +849,7 @@ Ma, try playing a cello. If you want to understand how great great
 music is, try performing it with a collection of amateurs.
 
 
-                    RW Culture Versus RO Culture
+h3. RW Culture Versus RO Culture
 
 In the language of today’s computer geeks, we could call the culture
 that Sousa celebrated a “Read/Write” (“RW”) culture:* in Sousa’s
@@ -1025,18 +935,14 @@ for broadcasting (again excepting the Internet) was almost $75 billion.21 The re
 industries was close to $80 billion.22 And according to the Motion
 Picture Association of America,
 
-    Core Copyright industries are responsible for an estimated 6%
-    of the nation’s total GDP totaling $626 billion a year. Copyright
-    industries had an annual employment growth rate of 3.19% per
-    year—a rate more than double the annual employment growth
-    rate achieved by the economy as a whole.23
+bq. Core Copyright industries are responsible for an estimated 6% of the nation’s total GDP totaling $626 billion a year. Copyright industries had an annual employment growth rate of 3.19% per year—a rate more than double the annual employment growth rate achieved by the economy as a whole.23
 
 RO culture had thus brought jobs to millions. It had built superstars who spoke powerfully to millions. And it had come to define
 what most of us understood culture, or at least “popular culture,”
 to be.
 
 
-                      Limits in Regulation
+h3. Limits in Regulation
 
 Before RO culture carries us away, however, return for a moment
 to Sousa. For there was a second aspect to the culture that Sousa
@@ -1056,17 +962,12 @@ from New Hampshire. After Sousa described the “young people
 together singing the songs of the day and the old songs,” Currier
 asked:
 
-    Currier: Since the time you speak of, when they used to be
-      singing in the streets . . . the law has been [changed] . . . to
-      prohibit that. Is not that so?
-    Sousa: No, sir; you could always do it.
-    Currier: Any public performance is prohibited, is it not, by
-      that law?
-    Sousa: You would not call that a public performance.
-    Currier: But any public performance is prohibited by the law
-      of 1897?
-    Sousa: Not that I know of at all. I have never known that it
-      was unlawful to get together and sing.24
+bq. Currier: Since the time you speak of, when they used to be singing in the streets . . . the law has been [changed] . . . to prohibit that. Is not that so?
+Sousa: No, sir; you could always do it.
+Currier: Any public performance is prohibited, is it not, by that law?
+Sousa: You would not call that a public performance.
+Currier: But any public performance is prohibited by the law of 1897?
+Sousa: Not that I know of at all. I have never known that it was unlawful to get together and sing.24
 
 Though the record doesn’t indicate it, one imagines laughter followed Sousa’s comment. And anyway, Currier was not being serious. He was not a copyright extremist. Indeed, quite the opposite.
 Currier was an “intellectual property” skeptic, unconvinced of the
@@ -1099,8 +1000,7 @@ creativity.
 
 
 
-                                     TWO
-                             CULTURES OF OUR FUTURE
+h2. 2. Cultures of our Future
 
 
 The “copyright wars” have lead many to believe that the choice
@@ -1129,9 +1029,7 @@ culture and innovation. All three changes, if allowed, will be valuable and impo
 
 
 
-                            THREE
-                        RO, EXTENDED
-
+h2. 3. RO, Extended
 
 There’s a part of culture that we simply consume. We listen to
 music. We watch a movie. We read a book. With each, we’re not
@@ -1187,7 +1085,7 @@ among consumers, it was this nature of the LP that really limited
 the consumer’s ability to be anything other than “a consumer.”
 
 
-                     Nature Remade
+h3. Nature Remade
 
 Digital technology changed this “nature.” With the introduction of
 digital tokens of RO culture and, more important, with the widespread availability of technologies that could manipulate digital
@@ -1254,7 +1152,7 @@ periphery and save the industry, or allow it to become mainstream,
 and watch the industry fail.
 
 
-                    Re–remaking Nature
+h3. Re–remaking Nature
 
 Then Steve Jobs taught them differently. For at the height of the
 frenzy of this war against “piracy,” Jobs demonstrated in practice what many had been arguing in theory: that the only nature
@@ -1319,7 +1217,7 @@ Boeing 777 and the work of the Wright brothers or Alberto Santos–Dumont. This 
 digital age.
 
 
-                          Recoding Us
+h3. Recoding Us
 
 As these businesses grow, they change not only business. They also
 change us. They change how we think about access to culture.
@@ -1532,8 +1430,7 @@ why we should avoid this false choice.
 
 
 
-                              FOUR
-                           RW, REVIVED
+h2. 4. RW, Revived
 
 
 One of my closest (if most complicated) friends at college was an
@@ -1591,7 +1488,7 @@ put differently, the freedom that Ben took for granted is perfectly
 natural in a world where everyone can write.
 
 
-                  Writing Beyond Words
+h3. Writing Beyond Words
 
 Words, obviously, are not the only form of expression that can be
 remixed in Ben’s way. If we can quote text from Hemingway’s For
@@ -1609,10 +1506,7 @@ The same with music: in an opinion by perhaps one of the twentieth century’s w
 court issued “stern” sanctions against rap artists who had sampled
 another musical recording. Wrote the judge,
 
-    “Thou shalt not steal” has been an admonition followed since the
-    dawn of civilization. Unfortunately, in the modern world of business this admonition is not always followed. Indeed, the defendants in this action for copyright infringement would have this
-    court believe that stealing is rampant in the music business and,
-    for that reason, their conduct here should be excused. The conduct of the defendants herein, however, violates not only the Seventh Commandment, but also the copyright laws of this country.1
+bq. “Thou shalt not steal” has been an admonition followed since the dawn of civilization. Unfortunately, in the modern world of business this admonition is not always followed. Indeed, the defendants in this action for copyright infringement would have this court believe that stealing is rampant in the music business and, for that reason, their conduct here should be excused. The conduct of the defendants herein, however, violates not only the Seventh Commandment, but also the copyright laws of this country.1
 
 Whether justified or not, the norms governing these forms of
 expression are far more restrictive than the norms governing text.
@@ -1702,7 +1596,7 @@ seem natural and familiar. And a kind of freedom that will feel
 inevitable.
 
 
-                        Remixed: Text
+h3. Remixed: Text
 
 There is a thriving RW culture for texts on the Net just now. Its
 scope and reach and, most important, sophistication are far beyond
@@ -2028,7 +1922,7 @@ is. Consider now its big, and ultimately much more significant,
 sister.
 
 
-                       Remixed: Media
+h3. Remixed: Media
 
 For most of the Middle Ages in Europe, the elite spoke and wrote
 in Latin. The masses did not. They spoke local, or vernacular, languages—what we now call French, German, and English. What
@@ -2046,11 +1940,7 @@ In 2006, the U.S. Bureau of the Census estimated that “American
 adults and teens will spend nearly five months” in 2007 consuming media.25 These statistics compare with falling numbers for text.
 Everything is captured in this snapshot of generations:
 
-    Individuals age 75 and over averaged 1.4 hours of reading per
-    weekend day and 0.2 hour (12 minutes) playing games or using a
-    computer for leisure. Conversely, individuals ages 15 to 19 read for
-    an average of 0.1 hour (7 minutes) per weekend day and spent 1.0
-    hour playing games or using a computer for leisure.26
+bq. Individuals age 75 and over averaged 1.4 hours of reading per weekend day and 0.2 hour (12 minutes) playing games or using a computer for leisure. Conversely, individuals ages 15 to 19 read for an average of 0.1 hour (7 minutes) per weekend day and spent 1.0 hour playing games or using a computer for leisure.26
 
 It is no surprise, then, that these other forms of “creating” are
 becoming an increasingly dominant form of “writing.” The Internet didn’t make these other forms of “writing” (what I will call
@@ -2084,25 +1974,14 @@ So how should we think about it? What does it mean, exactly?
 However complex, in its essence remix is, as Negativland’s Don
 Joyce described to me, “just collage.” Collage, as he explained,
 
-    [e]merged with the invention of photography. Very shortly after
-    it was invented . . . you started seeing these sort of joking postcards
-    that were photo composites. There would be a horse–drawn wagon
-    with a cucumber in the back the size of a house. Things like that.
-    Just little joking composite photograph things. That impressed
-    painters at the time right away.
+bq. [e]merged with the invention of photography. Very shortly after it was invented . . . you started seeing these sort of joking postcards that were photo composites. There would be a horse–drawn wagon with a cucumber in the back the size of a house. Things like that. Just little joking composite photograph things. That impressed painters at the time right away.
 
 But collage with physical objects is difficult to do well and expensive to spread broadly. Those barriers either kept many away from
 this form of expression, or channeled collage into media that could
 be remixed cheaply. As Mark Hosler of Negativland described to
 me, explaining his choice to work with audio,
 
-    I realized that you could get a hold of some four–track reel–to–reel for not that much money and have it at home and actually
-    play around with it and experiment and try out stuff. But with
-    film, you couldn’t do that. It was too expensive. . . . So that . . . drove
-    me . . . to pick a medium where we could actually control what we
-    were doing with a small number of people, to pull something off
-    and make some finished thing to get it out there.28
-
+bq. I realized that you could get a hold of some four–track reel–to–reel for not that much money and have it at home and actually play around with it and experiment and try out stuff. But with film, you couldn’t do that. It was too expensive. . . . So that . . . drove me . . . to pick a medium where we could actually control what we were doing with a small number of people, to pull something off and make some finished thing to get it out there.28
 
 With digital objects, however, the opportunity for wide–scale
 collage is very different. “Now,” as filmmaker Johan Söderberg
@@ -2112,11 +1991,7 @@ means that many more do. The images or sounds are taken from
 the tokens of culture, whether digital or analog. The tokens are
 “blaring at us all the time,” as Don Joyce put it to me: “We are barraged” by expression intended originally as simply RO. Negativland’s Mark Hosler:
 
-     When you turn around 360 degrees, how many different ads or logos
-     will you see somewhere in your space? [O]n your car, on your wrist–watch, on a billboard. If you walk into any grocery store or restaurant
-     or anywhere to shop, there’s always a soundtrack playing. There’s
-     always . . . media. There’s ads. There’s magazines everywhere. . . . [I]t’s
-     the world we live in. It’s the landscape around us.
+bq. When you turn around 360 degrees, how many different ads or logos  will you see somewhere in your space? [O]n your car, on your wrist–watch, on a billboard. If you walk into any grocery store or restaurant  or anywhere to shop, there’s always a soundtrack playing. There’s  always . . . media. There’s ads. There’s magazines everywhere. . . . [I]t’s  the world we live in. It’s the landscape around us.
 
 This “barrage” thus becomes a source.30 As Johan Söderberg
 says, “To me, it is just like cooking. In your cupboard in your
@@ -2149,21 +2024,7 @@ My favorite of his is called “Hard Working George.” It builds exclusively fr
 John Kerry. Again and again, Sadler clips places where Bush says,
 essentially, “it’s hard work.” Here’s the transcript:
 
-    Sir, in answer to your question I just know how this world works.
-    I see on TV screens how hard it is. We’re making progress; it is
-    hard work. You know, it’s hard work. It’s hard work. A lot of
-    really great people working hard, they can do the hard work.
-    That’s what distinguishes us from the enemy. And it’s hard work,
-    but it’s necessary work and that’s essential, but again I want to
-    tell the American people it’s hard work. It is hard work. It’s hard
-    work. There is no doubt in my mind that it is necessary work. I
-    understand how hard it is, that’s my job. No doubt about it, it’s
-    tough. It’s hard work which I really want to do, but I would hope
-    I never have to—nothing wrong with that. But again I repeat to
-    my fellow citizens, we’re making progress. We’re making progress
-    there. I reject this notion. It’s ludicrous. It is hard work. It’s hard
-    work. That’s the plan for victory and that is the best way. What I
-    said was it’s hard work and I made that very clear.
+bq. Sir, in answer to your question I just know how this world works. I see on TV screens how hard it is. We’re making progress; it is hard work. You know, it’s hard work. It’s hard work. A lot of really great people working hard, they can do the hard work. That’s what distinguishes us from the enemy. And it’s hard work, but it’s necessary work and that’s essential, but again I want to tell the American people it’s hard work. It is hard work. It’s hard work. There is no doubt in my mind that it is necessary work. I understand how hard it is, that’s my job. No doubt about it, it’s tough. It’s hard work which I really want to do, but I would hope I never have to—nothing wrong with that. But again I repeat to my fellow citizens, we’re making progress. We’re making progress there. I reject this notion. It’s ludicrous. It is hard work. It’s hard work. That’s the plan for victory and that is the best way. What I said was it’s hard work and I made that very clear.
 
 Usually, the audience breaks into uncontrolled laughter at “I
 would hope I never have to—nothing wrong with that,” so people
@@ -2237,14 +2098,9 @@ Casey Kasem and the band U2 after Negativland released a mashup of Casey Kasem�
 why couldn’t Negativland simply have used something original? Why couldn’t they rerecord the clip with an actor? Hosler
 explained:
 
-    We could have taken these tapes we got of Casey Kasem and
-    hired someone who imitated Casey Kasem, you know, and had
-    him do a dramatic re–creation. Why did we have to use the actual
-    original . . . the actual thing? Well, it’s because the actual thing has
-    a power about it. It has an aura. It has a magic to it. And that’s
-    what inspires the work.
+bq. We could have taken these tapes we got of Casey Kasem and hired someone who imitated Casey Kasem, you know, and had him do a dramatic re–creation. Why did we have to use the actual original . . . the actual thing? Well, it’s because the actual thing has a power about it. It has an aura. It has a magic to it. And that’s what inspires the work.
 
-   Likewise with their remarkable, if remarkably irreverent,
+Likewise with their remarkable, if remarkably irreverent,
 film, The Mashin’ of the Christ. This five–minute movie is made
 from remixing the scores of movies made throughout history
 about Jesus’ crucifixion. The audio behind these images is a
@@ -2253,21 +2109,13 @@ revivalist preacher who repeatedly says (during the first minute),
 first quote aligns Christians, at least, against the film. But the second then reverses that feeling, as the film might also be seen as a
 criticism of Communism. As Hosler explained the work:
 
-    The Mashin’ of the Christ just came out of an idle thought that
-    crossed my mind one day when I was flipping around on Amazon
-    .com. I thought, “How many movies have been made about the
-    life of Jesus, anyway?” I came up with thirty or forty of them and
-    I started thinking about [how] every one of those films has similar
-    sequences of Jesus being beaten, flogged, whipped, abused. There’s
-    always a shot where he’s carrying the cross and he stumbles and he
-    falls. And it just occurred to me . . . I thought that would make an
-    interesting montage of stuff.
+bq. The Mashin’ of the Christ just came out of an idle thought that crossed my mind one day when I was flipping around on Amazon.com. I thought, “How many movies have been made about the life of Jesus, anyway?” I came up with thirty or forty of them and I started thinking about [how] every one of those films has similar sequences of Jesus being beaten, flogged, whipped, abused. There’s always a shot where he’s carrying the cross and he stumbles and he falls. And it just occurred to me . . . I thought that would make an interesting montage of stuff.
 
 This montage’s point could not have been made by simply shooting
 crucifixion film number forty–one.
 
 
-                    The Significance of Remix
+h3. The Significance of Remix
 
 I’ve described what I mean by remix by describing a bit of its practice. Whether text or beyond text, remix is collage; it comes from
 combining elements of RO culture; it succeeds by leveraging the
@@ -2282,7 +2130,7 @@ our kids, at least now. One is the good of community. The other is
 education.
 
 
-Community
+4. Community
 
 Remixes happen within a community of remixers. In the digital
 age, that community can be spread around the world. Members of
@@ -2295,7 +2143,7 @@ videos (AMV). Anime are the Japanese cartoons that swept
 America a few years ago. AMVs are (typically) created by remixing
 images from these cartoons with a music track or the track from a
 movie trailer. Each video can take between fifty and four hundred
-hours to create. There are literally thousands that are shared non--commercially at the leading site, animemusicvideos.org.
+hours to create. There are literally thousands that are shared non–commercially at the leading site, animemusicvideos.org.
 
 The aim of these creators is in part to learn. It is in part to show
 off. It is in part to create works that are strikingly beautiful. The
@@ -2314,27 +2162,14 @@ Japanese kids are not remixers. To the contrary, Japanese culture
 encourages this remixing from a much younger age, and much more
 broadly. According to cultural anthropologist Mimi Ito,
 
-    Japanese media have really been at the forefront of pushing recombinant and user–driven content starting with very young children.
-    If you consider things like Pokémon and Yu–Gi–Oh! as examples of
-    these kinds of more fannish forms of media engagement, the base
-    of it is very broad in Japan, probably much broader than in the
-    U.S. Something like Pokémon or Yu–Gi–Oh! reached a saturation
-    point of nearly 100 percent within kids’ cultures in Japan.34
-
+bq. Japanese media have really been at the forefront of pushing recombinant and user–driven content starting with very young children. If you consider things like Pokémon and Yu–Gi–Oh! as examples of these kinds of more fannish forms of media engagement, the base of it is very broad in Japan, probably much broader than in the U.S. Something like Pokémon or Yu–Gi–Oh! reached a saturation point of nearly 100 percent within kids’ cultures in Japan.34
 
 But the difference between cultures is not just about saturation.
 Henry Jenkins quotes education professors David Buckingham
 and Julia Sefton–Green, “Pokémon is something you do, not just
 something you read or watch or consume,” and continues:
 
-    There are several hundred different Pokémon, each with multiple
-    evolutionary forms and a complex set of rivalries and attachments.
-    There is no one text where one can go to get the information about
-    these various species; rather, the child assembles what they know
-    about the Pokémon from various media with the result that each
-    child knows something his or her friends do not and thus has a
-    chance to share this expertise with others.35
-
+bq. There are several hundred different Pokémon, each with multiple evolutionary forms and a complex set of rivalries and attachments. There is no one text where one can go to get the information about these various species; rather, the child assembles what they know about the Pokémon from various media with the result that each child knows something his or her friends do not and thus has a chance to share this expertise with others.35
 
 “Every person,” Ito explains, thus “has a personalized set of Pokémon. That is very different from [American media, which are] asking kids to identify with a single character.”
 
@@ -2342,13 +2177,7 @@ Pokémon is just a single example of a common practice in Japan.
 This more common practice pushes “kids to develop more persona
 lives, and remix–oriented pathways to the content.” Kids in the second and third grades, for example, will all
 
-    carry around just a little sketchbook . . . with drawings of manga
-    [cartoon] characters in them. That’s what [Japanese] kids do. Then
-    by fourth or fifth grade there are certain kids that get known to be
-    good at drawing and then they actually start making their original
-    stories. Then at some point there needs to be an induction into the
-    whole doujinshi scene, which is its own subculture. That usually
-    happens through knowing an older kid who’s involved in that.
+bq. carry around just a little sketchbook . . . with drawings of manga [cartoon] characters in them. That’s what [Japanese] kids do. Then by fourth or fifth grade there are certain kids that get known to be good at drawing and then they actually start making their original stories. Then at some point there needs to be an induction into the whole doujinshi scene, which is its own subculture. That usually happens through knowing an older kid who’s involved in that.
 
 American kids have it different. The focus is not: “Here’s something, do something with it.” The focus is instead: “Here’s something, buy it.” “The U.S. has a stronger cultural investment in the
 idea of childhood innocence,” Ito explains, “and it also has a more
@@ -2376,7 +2205,7 @@ life. . . . [They] see themselves as producers and participants in a culture and
 others. They form the community. That community supports itself.
 
 
-Education
+h4. Education
 
 A second value in remix extends beyond the value of a community.
 Remix is also and often, as Mimi Ito describes, a strategy to excite
@@ -2415,19 +2244,13 @@ they’re doing something good. There’s good and bad remix, as
 there’s good and bad writing. But just as bad writing is not an argument against writing, bad remix is not an argument against remix.
 Instead, in both cases, poor work is an argument for better education. As Hosler put it to me:
 
-    Every high school in America needs to have a course in media
-    literacy. We’re buried in this stuff. We’re breathing it. We’re
-    drinking it constantly. It’s 24/7 news and information and pop
-    culture. . . . If you’re trying to educate kids to think critically about
-    history and society and culture, you’ve got to be encouraging them
-    to be thoughtful and critical about media and information and
-    advertising.
+bq. Every high school in America needs to have a course in media literacy. We’re buried in this stuff. We’re breathing it. We’re drinking it constantly. It’s 24/7 news and information and pop culture. . . . If you’re trying to educate kids to think critically about history and society and culture, you’ve got to be encouraging them to be thoughtful and critical about media and information and advertising.
 
 Doing something with the culture, remixing it, is one way to
 learn.
 
 
-                    The Old in the New
+h3. The Old in the New
 
 To many, my description of remix will sound like something very
 new. In one sense it is. But in a different, perhaps more fundamental sense, we also need to see that there’s nothing essentially new in
@@ -2465,9 +2288,7 @@ can, and so more will, at least until the law effectively blocks it.
 
 
 
-                          FIVE
-                   CULTURES COMPARED
-
+h2. 5. Cultures Compared
 
 I’ve described two cultures and two kinds of creativity. One (RO)
 is fueled by professionals. The other (RW) is fueled by both professionals and amateurs. Both have been critical to the development
@@ -2477,7 +2298,7 @@ consider a few of these differences. Then, before we turn to perhaps the most in
 understanding these two cultures can teach.
 
 
-           Differences in Value— and “Values”
+h3. Differences in Value— and “Values”
 
 These two cultures embody different values.
 
@@ -2575,7 +2396,7 @@ would argue we need less of the first, RO culture. But anyone who
 has really seen it believes we need much more of the second.
 
 
-                    Differences in Value (As in $)
+h3. Differences in Value (As in $)
 
 The story so far emphasizes values with a capital V. Lefties who
 promote social, educational, and democratic ideals would very
@@ -2617,15 +2438,7 @@ Maybe I’m astonished because, as Stewart Baker chided me in a
 review of Free Culture, liberals like me spend too much time talking to liberals like me rather than to conservatives. As Baker wrote
 in his review,
 
-    Viewed up close, copyright bears little resemblance to the kinds
-    of property that conservatives value. Instead, it looks like a constantly expanding government program run for the benefit of a
-    noisy, well–organized interest group—like Superfund, say, or
-    dairy subsidies, except that the benefits go not to endangered
-    homeowners or hard–working farmers but to the likes of Barbra
-    Streisand and Eminem. . . . Copyright is a trial lawyer’s dream—
-    a regulatory program enforced by private lawsuits where the plaintiffs have all the advantages, from injury–free damages awards to
-    liability doctrines that extract damages from anyone who was in
-    the neighborhood when an infringement occurred.3
+bq. Viewed up close, copyright bears little resemblance to the kinds of property that conservatives value. Instead, it looks like a constantly expanding government program run for the benefit of a noisy, well–organized interest group—like Superfund, say, or dairy subsidies, except that the benefits go not to endangered homeowners or hard–working farmers but to the likes of Barbra Streisand and Eminem. . . . Copyright is a trial lawyer’s dream— a regulatory program enforced by private lawsuits where the plaintiffs have all the advantages, from injury–free damages awards to liability doctrines that extract damages from anyone who was in the neighborhood when an infringement occurred.3
 
 Baker’s is a great point. Let me add to it: As conservative economists have taught us again and again, value in an economy is least
 likely to come from state–protected monopolies. It is most likely to
@@ -2640,12 +2453,11 @@ RO culture to enable RW. Instead, the opposite: in protecting RO
 culture, we shouldn’t kill off the potential for RW.
 
 
-                      Differences in Value
-                    (As in “Is It Any Good?”)
+h3. Differences in Value (As in “Is It Any Good?”)
 
 In June 2007, the backlash against RW culture was born. In a short
 and cleverly written book titled The Cult of the Amateur, Andrew
-Keen, a writer and failed Internet entrepreneur, launched a full--scale attack on precisely the culture that I am praising. The core of
+Keen, a writer and failed Internet entrepreneur, launched a full–scale attack on precisely the culture that I am praising. The core of
 his attack was that “amateur culture” is killing “our culture.” The
 growth of this kind of creativity will eventually destroy much that
 we think of as “good” in society. “Not a day goes by without some
@@ -2675,16 +2487,9 @@ with the young creators to turn away from their “derivative” form
 of creativity. They should focus, Sims argued, on something really
 challenging—“original creativity.” Sims said:
 
-    I can’t say strongly enough that I think what Larry is really fundamentally focused on . . . [— ] this parasitic reuse [— ] is such a terrible diversion of young people’s talent. . . . I think that if you have
-    young film people you should be encouraging them to make their
-    films and not to simply spend all of their time diddling around
-    with footage that other people have made at great expense, to create stuff that’s not very interesting. There’s a fundamental failure
-    of imagination. . . .
+bq. I can’t say strongly enough that I think what Larry is really fundamentally focused on . . . [—] this parasitic reuse [—] is such a terrible diversion of young people’s talent. . . . I think that if you have young film people you should be encouraging them to make their films and not to simply spend all of their time diddling around with footage that other people have made at great expense, to create stuff that’s not very interesting. There’s a fundamental failure of imagination. . . .
 
-    I’m saying, that as members of the academy, to encourage young
-    people to think that instead of creating out of their own souls and
-    their own talents to simply reuse what’s available off the streets to
-    them, is underselling the talents that young people have.10
+bq. I’m saying, that as members of the academy, to encourage young people to think that instead of creating out of their own souls and their own talents to simply reuse what’s available off the streets to them, is underselling the talents that young people have.10
 
 There are a number of layers to this form of criticism. We should
 be careful to tease them apart.
@@ -2759,12 +2564,7 @@ means, buy the DVD or tune in to reruns. Complexity thus
 drives follow–on consumption. Henry Jenkins makes a related
 point about movies:
 
-    The old Hollywood system depended on redundancy to ensure
-    that viewers could follow the plot at all times, even if they were
-    distracted or went out to the lobby for a popcorn refill during a
-    crucial scene. The new Hollywood demands that we keep our
-    eyes on the road at all times, and that we do research before we
-    arrive at the theater.12
+bq. The old Hollywood system depended on redundancy to ensure that viewers could follow the plot at all times, even if they were distracted or went out to the lobby for a popcorn refill during a crucial scene. The new Hollywood demands that we keep our eyes on the road at all times, and that we do research before we arrive at the theater.12
 
 Obviously, this idea can be taken too far. The story can’t be
 totally inaccessible. There must be some payoff for watching the
@@ -2850,8 +2650,7 @@ And they’ll defend it, at least until a new form of creativity
 comes along that they try to stop. We all become our parents.
 
 
-                    Differences in Law
-                  (As in “Is It Allowed?”)
+h3. Differences in Law (As in “Is It Allowed?”)
 
 American copyright law regulates (at least potentially) 17 any creative work produced after 1923, for a maximum term of life of the
 author plus seventy years, or ninety–five years for corporate work
@@ -3089,7 +2888,7 @@ RW might do, we as a society should at least decide whether this bias
 against RW creativity makes sense and whether it should continue.
 
 
-                 Lessons About Cultures
+h3. Lessons About Cultures
 
 I’ve described two cultures of creativity. I’ve argued that both are
 important and valuable. Differences exist. In the last chapter, I
@@ -3097,7 +2896,7 @@ described some of those differences. What can we learn from these
 two cultures? What lessons can we draw from how they interact?
 
 
-RO Culture Is Important and Valuable
+h4. RO Culture Is Important and Valuable
 
 I’ve had lots of nice things to say about RW culture. That doesn’t
 mean there isn’t an equal amount of good to say about RO culture.
@@ -3107,7 +2906,7 @@ of knowledge and creativity for future generations.” That access is
 important because it teaches us about our past, and about the diversity of culture that lives around us. The first step of learning is listening. RO culture is essential to that first step.
 
 
-RO Culture Will Flourish in the Digital Age
+h4. RO Culture Will Flourish in the Digital Age
 
 For most of our history, universal access was just another Jeffersonian dream. It is now a possibility. As the costs of access drop,
 there will be a market incentive to build the biggest “library” in
@@ -3118,7 +2917,7 @@ that access. Instead, RO culture will flourish; more culture will be
 accessible more cheaply than at any point in human history.
 
 
-RW Culture Is A lso Important and Valuable
+h5. RW Culture Is A lso Important and Valuable
 
 Yet the history of the Enlightenment is not just the history of teaching kids to read. It is also the history of teaching kids to write. It is
 the history of literacy—the capacity to understand, which comes
@@ -3131,8 +2930,7 @@ them to acquire a “literacy” about the culture around them. We test
 our kids on the basis of that literacy; we reward the “literate” of
 every generation. We reward “writing.”
 
-For most of human history, text was the only democratic literacy.
-For most of human history, words were the only form of expression that everyone had access to. The twentieth century gave us an
+For most of human history, text was the only democratic literacy. For most of human history, words were the only form of expression that everyone had access to. The twentieth century gave us an
 extraordinary range of new types of “writing.” But until the last
 years of that century, none of that “writing” was ever democratized
 in the way that text had been. Only a few could go to film school.
@@ -3166,8 +2964,7 @@ what I’ve called RW culture. It is continuous with what has always
 been part of RW culture—the literacy of text. But it is more. It is
 the ability for amateurs to create in contexts that before only professionals ever knew.
 
-
-Whether RW Culture Flourishes Depends at Least in Part upon the Law
+h5. Whether RW Culture Flourishes Depends at Least in Part upon the Law
 
 As it exists now, copyright law inhibits these new forms of literacy.
 I don’t mean that it stops kids from remixing. No law could ever
@@ -3181,9 +2978,7 @@ in this form of creativity will only stifle the willingness of institutions to h
 but expand the sense of “writing.” But legal culture will force the
 institutions that teach writing to stay far away from this new expressive form.
 
-
-The Law ’s Current Attitude Is Both Destructive and Self–defeating — to
-Values Far More Important Than the Profits of the Culture Industries
+h5. The Law ’s Current Attitude Is Both Destructive and Self–defeating — to Values Far More Important Than the Profits of the Culture Industries
 
 We, as a society, can’t kill this new form of creativity. We can only
 criminalize it. We can’t stop our kids from using the technologies
@@ -3220,12 +3015,7 @@ several facts become clear.
 First, the war on file sharing has been an utter failure. As one
 article notes,
 
-    More than 5 billion songs were swapped on peer–to–peer sites [in
-    2006] while CD sales, the industry’s core revenue–producing product, continue to decline, dropping about 20 percent this year alone.
-    And according to a recent report from Jupiter Research, things are
-    only going to get worse. “Young consumers are increasingly shunning music buying in favor of file–sharing, which is four times
-    more popular than digital–music buying among ages 15 to 24,” the
-    report notes.29
+bq. More than 5 billion songs were swapped on peer–to–peer sites [in 2006] while CD sales, the industry’s core revenue–producing product, continue to decline, dropping about 20 percent this year alone. And according to a recent report from Jupiter Research, things are only going to get worse. “Young consumers are increasingly shunning music buying in favor of file–sharing, which is four times more popular than digital–music buying among ages 15 to 24,” the report notes.29
 
 A picture captures the point much better than words. Using data
 provided (generously for free) by BigChampagne Online Media
@@ -3281,8 +3071,7 @@ than in fact it got.
 
 [Another image not rendered in text.]
 
-I raise this parallel not to endorse peer–to–peer file sharing.
-I stand by my position in Free Culture that “piracy” is wrong—
+I raise this parallel not to endorse peer–to–peer file sharing. I stand by my position in Free Culture that “piracy” is wrong—
 a position I repeated nine times in that book.32 Instead, I raise the
 parallel to ask whether we want to make this mistake again. Should
 the next ten years be another decade–long war against our kids?
@@ -3292,12 +3081,7 @@ policy that has defined copyright policy over the last decade?
 I believe this for the same reason the content industry is so keen
 to enforce copyright. As the RIAA’s Mitch Bainwol and Cary Sherman explained:
 
-    It’s not just the loss of current sales that concerns us, but the habits
-    formed in college that will stay with these students for a lifetime.
-    This is a teachable moment—an opportunity to educate these
-    particular students about the importance of music in their lives
-    and the importance of respecting and valuing music as intellectual property.33
-
+bq. It’s not just the loss of current sales that concerns us, but the habits formed in college that will stay with these students for a lifetime. This is a teachable moment—an opportunity to educate these particular students about the importance of music in their lives and the importance of respecting and valuing music as intellectual property.33
 
 Exactly right. So what rules should we work so hard to enforce?
 
@@ -3311,12 +3095,8 @@ that it will, the law should simply get out of the way. We need to
 decriminalize creativity before we further criminalize a generation
 of our kids.
 
-
-
-
-                                     PART TWO
-                                     ECONOMIES
-
+h1. Part II
+Economies
 
 
 In the first part of this book, I described two cultures: one made to be consumed (RO), the other made to be remade (RW). Both cultures were part
@@ -3340,19 +3120,15 @@ Internet entrepreneurs.
 
 
 
-                   SIX
-               TWO ECONOMIES:
-            COMMERCIAL AND SHARING
-
-
+h2. 6. Two Economies: Commercial and Sharing
 
 An “economy” is a practice of exchange that sustains itself, or
 is sustained, through time. A “practice of exchange.” For
 example:
 
-    1. A gives something to B.
-    2. B (directly or indirectly) gives something back to A.
-    3. Repeat.
+# A gives something to B.
+# B (directly or indirectly) gives something back to A.
+# Repeat.
 
 The “something” could have tangible, economic value—money,
 or hours of labor. Or it could be intangible, and without ordinary
@@ -3360,7 +3136,7 @@ economic value—friendship, or helping a neighbor with a flat tire.
 In either case, the trade occurs within an “economy” when it is a
 regular practice of social interaction. People participate within that
 economy so long as they get enough back relative to what they give.
-This doesn’t mean everyone gets back exactly what he or she contributes (or more): A talented lawyer working for a public–interest--housing law firm gives more than her meager salary returns. (Meet
+This doesn’t mean everyone gets back exactly what he or she contributes (or more): A talented lawyer working for a public–interest–housing law firm gives more than her meager salary returns. (Meet
 my wife.) But it does mean that people operating within an economy evaluate the exchange, how much they get versus how much
 they give, and that we should expect they will continue in that
 economy so long as they get enough from the exchange relative to
@@ -3417,7 +3193,7 @@ understanding of a much more interesting phenomenon—the
 hybrid—that we’ll consider in the chapter that follows.
 
 
-                        Commercial Economies
+h3. Commercial Economies
 
 My wife (to be) and I were at an Italian restaurant. In Italy. I
 ordered pasta with a mushroom sauce. She ordered pasta with a
@@ -3426,13 +3202,11 @@ Parmesan cheese. She accepted. He grated the cheese for her and
 then began to leave. I stopped him and said I too wanted Parmesan
 cheese.
 
-    “No,” he told me.
-    “No?” I asked.
-    “No,” he said again. “The cheese would overwhelm the taste of
-    the mushrooms.”
-    Startled a bit, I hesitated. “But what if I want the taste
-    overwhelmed?”
-    “That’s not my concern,” he informed me, and walked away.
+bq. “No,” he told me.
+“No?” I asked.
+“No,” he said again. “The cheese would overwhelm the taste of the mushrooms.”
+Startled a bit, I hesitated. “But what if I want the taste overwhelmed?”
+“That’s not my concern,” he informed me, and walked away.
 
 You learn a great deal about who you are by noticing the things
 that enrage you, and then working out just why. This was one of those
@@ -3494,14 +3268,12 @@ explain its success. My aim is saliance, not comprehensiveness. I
 want only to draw out a few features that will make the relationships among commercial and sharing economies clear.
 
 
-          Three Successes from the Internet’s
-                 Commercial Economy
+h3. Three Successes from the Internet’s Commercial Economy
 
 Begin with some familiar examples of Internet success, from which
 we can draw some lessons of success.
 
-
-Net flix
+h4. Netflix
 
 More than thirty years ago, in November 1976, America’s film
 industry launched a war against a technology that was quickly
@@ -3572,7 +3344,7 @@ service was taken over by Netflix in 2005.8 Hastings’s model thus
 became the industry standard.
 
 
-Amazon
+h4. Amazon
 
 Perhaps the first dramatically successful example of Internet commerce began as a simple bookstore. Founded in 1994 (as Cadabra
 .com) and launched in 1995 (as Amazon.com), Amazon set out to
@@ -3626,7 +3398,7 @@ can take away. But in a limited way, the platform invites innovation from others
 both.
 
 
-Google
+h4. Google
 
 Without a doubt, the most famous example of Internet success is
 Google. Founded at Stanford by two students (the first URL was
@@ -3677,14 +3449,11 @@ database of knowledge about what people want, and how those
 wants relate to the Web. Every click you make in the Google universe adds to that database. With each click, Google gets smarter.
 
 
-                     Three Keys to These
-                      Three Successes
+h3. Three Keys to These Three Successes
 
 These familiar stories of Internet success reveal three keys to success in this digital economy.
 
-
-
-Long Tails
+h4. Long Tails
 
 The first of these three is also perhaps the most famous. Each of
 these three Internet successes takes advantage of a principle that
@@ -3744,7 +3513,7 @@ people “publish and sell any kind of digital content.”
 Lulu’s aim is to out–Amazon Amazon, to “put all the books in a
 bookstore that can’t fit on Amazon.”19 The market is not the niche
 that Amazon’s Long Tail serves, but the “small niche market” that
-is beyond even Amazon’s reach. As Young told me, “Amazon’s business model is built around the business model of the existing book--publishing industry. Lulu’s business model is a completely different
+is beyond even Amazon’s reach. As Young told me, “Amazon’s business model is built around the business model of the existing book–publishing industry. Lulu’s business model is a completely different
 Internet–based business model that . . . doesn’t even look at what the
 publishing industry does.”
 
@@ -3756,18 +3525,12 @@ Lulu asks its authors. “Is there something unique about it?”
 Lulu’s aim is not to spread free culture, if that means culture
 you don’t have to pay for.20 “We think sharing is easy,” Young told
 me. “What’s difficult is empowering people to actually get paid for
-content they are producing.” Lulu focuses not on all of the “ninety--nine out of a hundred” authors who get rejected by the traditional
+content they are producing.” Lulu focuses not on all of the “ninety–nine out of a hundred” authors who get rejected by the traditional
 publishing market. Instead, it focuses on the “forty–nine out of a
 hundred”: people who “actually have something valuable to say and
 should have a market.” These are people who are
 
-    writing for too small a market or they’re writing another book
-    on a subject that the publishers have already published a book on.
-    Either way, the publisher doesn’t want it because he doesn’t see
-    any profit in it. Not . . . because it’s a bad book. He admits it’s a
-    valuable book. It’s just he doesn’t want it because he’s already got
-    two other books on [for example] programming in Java. So he
-    doesn’t want a third.
+bq. writing for too small a market or they’re writing another book on a subject that the publishers have already published a book on. Either way, the publisher doesn’t want it because he doesn’t see any profit in it. Not . . . because it’s a bad book. He admits it’s a valuable book. It’s just he doesn’t want it because he’s already got two other books on [for example] programming in Java. So he doesn’t want a third.
 
 Once again, on the margin, what will make Lulu successful where
 vanity presses were not is the efficiency with which creative work
@@ -3790,7 +3553,7 @@ range of people to speak. Whatever they say, that’s a very good thing.
 Speaking teaches the speaker even if it just makes noise.
 
 
-                        Little Brother
+h4. Little Brother
 
 The Long Tail alone, however, is not enough to explain the great success of the Amazons/Netflixes/Googles of the world. It’s not enough that stuff is simply available. There must also be an efficient way to match customers to the stuff in the Long Tail. I may well want to buy a book that only five hundred others in the world would want to buy. But I’m not about to sift through the 10 million other books on Amazon’s shelf to find that one that I’d be eager to buy. Amazon (and Netflix and Google) have got to do that for me.
 And each of these companies does it well by, in a phrase, spying on
@@ -3929,7 +3692,7 @@ mouse droppings of happy customers. (Okay, that sounds gross, but
 you get the point.)
 
 
-LEGO–ized Innovation
+h4. LEGO–ized Innovation
 
 The final feature of these three Internet successes that I want to
 highlight is ultimately one that generalizes to the Internet itself. All
@@ -3952,24 +3715,11 @@ encourage what has come to be known as the Google mash–up.
 Don Tapscott and Anthony Williams describe one example of the
 Google mash–up in their book, Wikinomics.
 
-    In May 2005, Paul Rademacher was trying to find a house in Silicon Valley for his job at Dreamworks Animation. He grew weary
-    of the piles of Google maps for each and every house he wanted
-    to see, so he created a new Web site that cleverly combines listings
-    from the online classified–ad service craigslist with Google’s mapping service. Choose a city and a price range, and up pops a map
-    with pushpins showing the location and description of each rental.
-    He called his creation housingmaps.
+bq. In May 2005, Paul Rademacher was trying to find a house in Silicon Valley for his job at Dreamworks Animation. He grew weary of the piles of Google maps for each and every house he wanted to see, so he created a new Web site that cleverly combines listings from the online classified–ad service craigslist with Google’s mapping service. Choose a city and a price range, and up pops a map with pushpins showing the location and description of each rental. He called his creation housingmaps.
 
-    While a useful tool for helping people find a place to live,
-    on the surface it hardly seems groundbreaking. And yet, Paul
-    Rademacher’s site quickly became a poster child for what the new
-    Web is becoming, not because of what it was, but for how it was
-    created. Housingmaps was one of the Web’s first mashups.
+bq. While a useful tool for helping people find a place to live, on the surface it hardly seems groundbreaking. And yet, Paul Rademacher’s site quickly became a poster child for what the new Web is becoming, not because of what it was, but for how it was created. Housingmaps was one of the Web’s first mashups.
 
-    Google Map mashups, for example, have emerged to do everything from pinpointing the locations of particular crime sites, to
-    outing celebrity homesteads, to enabling fitness buffs to measure
-    their daily running distance. Or, for the price conscious, there’s
-    CheapGas, a service that mashes Google Maps and GasBuddy
-    together to identify gas stations with the lowest pump prices.28
+bq. Google Map mashups, for example, have emerged to do everything from pinpointing the locations of particular crime sites, to outing celebrity homesteads, to enabling fitness buffs to measure their daily running distance. Or, for the price conscious, there’s CheapGas, a service that mashes Google Maps and GasBuddy together to identify gas stations with the lowest pump prices.28
 
 The integration is often transparent (meaning, in the weird way
 that word works, that you can’t see the machinery that links one
@@ -3993,7 +3743,7 @@ poised to exploit a general tenet of economics and how the Internet
 takes advantage of the principle of democratization that is its hallmark. Consider these two in turn.
 
 
-Economics
+h4. Economics
 
 In 1937 Nobel laureate Ronald Coase was wondering why there
 were firms in a free market.30 If the core of a market was that
@@ -4010,10 +3760,7 @@ to the market to obtain a product when doing so was cheaper than
 producing the product inside the firm. It would produce the product in house when the costs of the market were too high. Yochai
 Benkler summarizes the point:
 
-    [P]eople use markets when the gains from doing so, net of transaction costs, exceed the gains from doing the same thing in a managed firm, net of the costs of organizing and managing a firm. Firms
-    emerge when the opposite is true, and transaction costs can best be
-    reduced by bringing an activity into a managed context that requires
-    no individual transactions to allocate this resource or that effort.31
+bq. [P]eople use markets when the gains from doing so, net of transaction costs, exceed the gains from doing the same thing in a managed firm, net of the costs of organizing and managing a firm. Firms emerge when the opposite is true, and transaction costs can best be reduced by bringing an activity into a managed context that requires no individual transactions to allocate this resource or that effort.31
 
 It follows from this insight that as transaction costs fall, all
 things being equal, the amount of stuff done inside a firm will fall as
@@ -4030,7 +3777,7 @@ PayPal? Why run your own servers when a firm can really promise 24/7 service wit
 might well want to opt out of this sort of outsourcing. But the obvious point is that it will make sense not to outsource less and less.
 
 
-Democratization
+h4. Democratization
 
 LEGO–ized innovation also teaches us something critical about
 innovation on the Internet itself. In each of these Web 2.0 examples,
@@ -4059,7 +3806,7 @@ whatever you wanted to build on the Internet. That freedom is a
 critical reason for the Internet’s extraordinary success.
 
 
-          The Character of Commercial Success
+h4. The Character of Commercial Success
 
 You can tell a great deal about the character of a person by asking
 him to pick the great companies of an era. Does he pick the successful dinosaurs? Or does he pick the hungry upstarts?
@@ -4096,14 +3843,7 @@ not because Barnes & Noble was stupid and Amazon was smart.
 Rather, as Clayton M. Christensen put it in his justly acclaimed
 book, The Innovator’s Dilemma:
 
-    Despite their endowments in technology, brand names, manufacturing prowess, management experience, distribution muscle, and
-    just plain cash, successful companies populated by good managers
-    have a genuinely hard time doing what does not fit their model for
-    how to make money. Because disruptive technologies rarely make
-    sense during the years when investing in them is most important,
-    conventional managerial wisdom at established firms constitutes
-    an entry and mobility barrier that entrepreneurs and investors can
-    bank on. It is powerful and pervasive.33
+bq. Despite their endowments in technology, brand names, manufacturing prowess, management experience, distribution muscle, and just plain cash, successful companies populated by good managers have a genuinely hard time doing what does not fit their model for how to make money. Because disruptive technologies rarely make sense during the years when investing in them is most important, conventional managerial wisdom at established firms constitutes an entry and mobility barrier that entrepreneurs and investors can bank on. It is powerful and pervasive.33
 
 Smart for one time does not translate into smart for the next
 time. For that, we need new businesses.
@@ -4117,7 +3857,7 @@ Yet not all of the value from the Internet comes from this commercial economy. I
 do with commerce at all. It is to that part we now turn.
 
 
-                        Sharing Economies
+h3. Sharing Economies
 
 Sitting next to me on a cross–country flight was a representative
 of America’s youth. He was about seventeen, dressed in a complicated mix of black and silver (the metal, not the color). He had a
@@ -4175,14 +3915,14 @@ in a sharing economy, free of the simplicity of price and markets.
 If the point isn’t completely obvious, consider some more
 examples:
 
- • You have friends. That friendship lives within a certain economy. If you only ever ask and never give, the friendship goes
+* You have friends. That friendship lives within a certain economy. If you only ever ask and never give, the friendship goes
    away. If you meter each interaction and demand a settlement
    after each exchange, the friendship also goes away. Certain
    moves appropriate in some places are inappropriate here. For
    example: “I need to talk to someone. Can I give you $200 for
    an hour–long session?”
 
- • You have, or have had, or will have, lovers. That relationship
+# You have, or have had, or will have, lovers. That relationship
    exists within a complex, sharing economy. The statement
    “Wow, that was great. Here’s $500!” isn’t gratitude in such
    relationships. It might be perversion, though if not matched
@@ -4193,7 +3933,7 @@ examples:
    within a commercial economy. Both sides seek the simplicity of cash. Crossing that boundary is the stuff of novels or
    career–launching movies [Julia Roberts, Pretty Woman].)
 
- • You have neighbors. They (or you) will sometimes need help.
+# You have neighbors. They (or you) will sometimes need help.
    Once one asked me: “My car battery is dead. Can you give me
    a jump?” After we got his car started, he tried to hand me
    $5. “What the hell, Ted,” I said. “This is what neighbors do.”
@@ -4235,14 +3975,7 @@ the gift’s misfiring? Why not simply give cash, which is guaranteed to transfe
 The answer is because the gift is doing something more, or different, from simply transferring an asset to another. Again, as Hyde
 describes it:
 
-    It is the cardinal difference between gift and commodity exchange
-    that a gift establishes a feeling–bond between two people, while
-    the sale of a commodity leaves no necessary connection. I go into a
-    hardware store, pay the man for a hacksaw blade and walk out. I
-    may never see him again. The disconnectedness is, in fact, a virtue
-    of the commodity mode. We don’t want to be bothered. If the
-    clerk always wants to chat about the family, I’ll shop elsewhere. I
-    just want a hacksaw blade.38
+bq. It is the cardinal difference between gift and commodity exchange that a gift establishes a feeling–bond between two people, while the sale of a commodity leaves no necessary connection. I go into a hardware store, pay the man for a hacksaw blade and walk out. I may never see him again. The disconnectedness is, in fact, a virtue of the commodity mode. We don’t want to be bothered. If the clerk always wants to chat about the family, I’ll shop elsewhere. I just want a hacksaw blade.38
 
 Gifts in particular, and the sharing economy in general, are thus
 devices for building connections with people. They establish relationships, and draw upon those relationships. They are the glue of
@@ -4257,28 +3990,13 @@ order to trade upon the kind of connections a sharing economy
 produces. Hyde points to the extraordinarily successful example of
 Alcoholics Anonymous:
 
-    AA is an unusual organization in terms of the way money is
-    handled. Nothing is bought or sold. Local groups are autonomous and meet their minimal expenses— coffee, literature—
-    through members’ contributions. The program itself is free. AA
-    probably wouldn’t be as effective, in fact, if the program was
-    delivered through the machinery of the market, not because its
-    lessons would have to change, but because the spirit behind them
-    would be different (the voluntary aspect of getting sober would
-    be obscured, there would be more opportunity for manipulation,
-    and—as I shall argue presently—the charging of fees for service
-    tends to cut off the motivating force of gratitude, a source of AA’s
-    energy).39
+bq. AA is an unusual organization in terms of the way money is handled. Nothing is bought or sold. Local groups are autonomous and meet their minimal expenses— coffee, literature— through members’ contributions. The program itself is free. AA probably wouldn’t be as effective, in fact, if the program was delivered through the machinery of the market, not because its lessons would have to change, but because the spirit behind them would be different (the voluntary aspect of getting sober would be obscured, there would be more opportunity for manipulation, and—as I shall argue presently—the charging of fees for service tends to cut off the motivating force of gratitude, a source of AA’s energy).39
 
 Likewise, communities that were defined as sharing economies
 radically change when money is brought into the mix. Hyde quotes
 MIT geneticist Jonathan Kind:
 
-    In the past one of the strengths of American bio–medical science
-    was the free exchange of materials, strains of organisms and information. But now, if you sanction and institutionalize private gain
-    and patenting of micro–organisms, then you don’t send out your
-    strains because you don’t want them in the public sector. That’s
-    already happening now. People are no longer sharing their strains
-    of bacteria and their results as freely as they did in the past.40
+bq. In the past one of the strengths of American bio–medical science was the free exchange of materials, strains of organisms and information. But now, if you sanction and institutionalize private gain and patenting of micro–organisms, then you don’t send out your strains because you don’t want them in the public sector. That’s already happening now. People are no longer sharing their strains of bacteria and their results as freely as they did in the past.40
 
 In all these cases, price is poisonous. Money changes a relationship—it redefines it. Indeed, it would most likely insult the host.
 “Money–oriented motivations are different from socially oriented
@@ -4375,7 +4093,7 @@ someone else. The motivation is about me.
 
 Three examples will illustrate what I mean.
 
- • Think about a stock market. In most major stock markets,
+* Think about a stock market. In most major stock markets,
    people share information—ordinarily information about
    how much is bought at what price, but even if that were hidden, the market would share the information about how
    prices were changing. You could describe this sharing as
@@ -4385,7 +4103,7 @@ Three examples will illustrate what I mean.
    sell stocks to make money. A by–product of that behavior is
    the information that gets shared with others. If this is a sharing economy, it is a thin sharing economy.
 
- • Think of the “Voice Over IP” service called Skype. With
+* Think of the “Voice Over IP” service called Skype. With
    Skype, you can make free Internet calls, and very cheap
    Internet–to–regular–phone calls (and vice versa). But Skype
    is designed to use, or “share,” the resources of the computers
@@ -4400,7 +4118,7 @@ Three examples will illustrate what I mean.
    people’s desire for cheap calls? I suggest the latter, making
    this too a thin sharing economy.
 
- • Think finally of AOL’s IM network. The value of that network increases for everyone. This is a consequence of network effects: the more who join, the more valuable the
+* Think finally of AOL’s IM network. The value of that network increases for everyone. This is a consequence of network effects: the more who join, the more valuable the
    resource is for everyone. There are many contexts in which
    this network effect is true. Think, for example, about the
    English language. Every time someone in China struggles to
@@ -5439,7 +5157,7 @@ in this commercial entity. Newmark’s is the hybrid to envy. His
 intuition of how best to maintain this community is pure gold.
 
 
-Flickr
+h4. Flickr
 
 In the early 2000s, Stewart Butterfield and Caterina Fake decided
 they wanted to build a multiplayer game called Game Neverending.
@@ -5512,7 +5230,7 @@ continues to let the community live like a sharing economy, with small
 but increasingly significant efforts to leverage something on top.
 
 
-YouTube
+h4. YouTube
 
 In 2005, three early PayPal employees— Chad Hurley, Steve Chen,
 and Jawed Karim—started building a video–sharing service for the
@@ -5556,12 +5274,7 @@ YouTube content. Inappropriate content gets flagged. Content violating the rules
 place they’ve helped build. The result is a space that is addictive as
 well as amazing. Its biggest draw, founder Chen told me, is
 
-    just the content itself. We see on our top–viewed pages some of this
-    content from [professional sites] versus some of this content from
-    user generated. They’re just married together, sitting side by side
-    on all these “top browsed” lists. But some of this stuff was created
-    with $500 of editing equipment and a lot of time spent on it versus, on the other end of the spectrum, probably millions of dollars
-    to create this fifteen–second commercial.
+bq. just the content itself. We see on our top–viewed pages some of this content from [professional sites] versus some of this content from user generated. They’re just married together, sitting side by side on all these “top browsed” lists. But some of this stuff was created with $500 of editing equipment and a lot of time spent on it versus, on the other end of the spectrum, probably millions of dollars to create this fifteen–second commercial.
 
 “The very nature of UGC [user–generated content] video sites,
 as well as their potential for financial success and sustainability,
@@ -6680,12 +6393,12 @@ when it is architected to give the user what he wants while contributing somethi
 economy, or the hybrid—then is the entity really getting a “free
 ride”? Consider two examples:
 
- • You submit a search query to Google and then click on one
+* You submit a search query to Google and then click on one
    of the links Google returns. You have given Google something of value—the information that you judged one link to
    be the appropriate answer to the query you selected. Google
    has built its company upon such gifts of value. Is Google riding on your work for free? Or are you riding on Google for
    free?
- • You post a video to YouTube and then embed it in your
+* You post a video to YouTube and then embed it in your*
    blog. You have given YouTube something of value—another
    string of customers further strengthening its market share,
    drawing viewers in through a channel that helps YouTube
@@ -8423,7 +8136,8 @@ material.
 
                                            Preface
 
- 1. George Lakoff and Mark Johnson, Metaphors We Live By (Chicago: University of Chicago Press, 1980), 156–57.
+fn1. George Lakoff and Mark Johnson, Metaphors We Live By (Chicago: University of Chicago Press, 1980), 156–57.
+
  2. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
  3. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools
     to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
