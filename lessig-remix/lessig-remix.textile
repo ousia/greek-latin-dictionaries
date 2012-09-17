@@ -2003,23 +2003,23 @@ This is an awful trend, fundamentally distorting the copyright system by vesting
 
 Yet whether or not the work–for–hire doctrine flourishes in the commercial economy, my sense—and no doubt, my bias—is that sharing–economy creators will increasingly demand at a minimum that their rights remain theirs.
 
-We’ve already seen a similar frustration brew in the context of “fan fiction,” particularly around the Star Wars franchise. As with the Harry Potter story, Lucasfilm learned early on that there were millions who wanted to build upon Star Wars, and few who thought themselves restricted by the rules of copyright. Like Warner, Lucasfilm recognized that these fans could provide real value to the franchise. So under the banner of encouraging this fan culture, Lucasfilm offered free Web space to anyone wanting to set up a fan home page.
+We’ve already seen a similar frustration brew in the context of “fan fiction,” particularly around the _Star Wars_ franchise. As with the Harry Potter story, Lucasfilm learned early on that there were millions who wanted to build upon _Star Wars_, and few who thought themselves restricted by the rules of copyright. Like Warner, Lucasfilm recognized that these fans could provide real value to the franchise. So under the banner of encouraging this fan culture, Lucasfilm offered free Web space to anyone wanting to set up a fan home page.
 
 But the fine print in this offer struck many as unfair. The contract read:
 
 bq. The creation of derivative works based on or derived from the Star Wars Properties, including, but not limited to, products, services, fonts, icons, link buttons, wallpaper, desktop themes, online postcards and greeting cards and unlicensed merchandise (whether sold, bartered or given away) is expressly prohibited. If despite these Terms of Service you do create any derivative works based on or derived from the Star Wars Properties, such derivative works shall be deemed and shall remain the property of Lucasfilm Ltd. in perpetuity.
 
-Translation: “Work hard here, Star Wars fans, to make our franchise flourish, but don’t expect that anything you make is actually yours. You, Star Wars fans, are our sharecroppers. Be happy with the attention we give you. But don’t get too uppity.”
+Translation: “Work hard here, _Star Wars_ fans, to make our franchise flourish, but don’t expect that anything you make is actually yours. You, _Star Wars_ fans, are our sharecroppers. Be happy with the attention we give you. But don’t get too uppity.”
 
 These terms incited something of a riot among the fans. As one of their leading spokesmen put it, “The real story is a lot uglier, and has much less to do with the encouragement of creativity than its discouragement—there’s nothing innocent about Lucasfilm’s offer of web space to fans.”27
 
-“Nothing innocent,” again because all ownership went to Lucasfilm. Fans may well agree not to profit from their work; they may well think it fair that any commercial opportunity arising out of Star Wars be ultimately within the reach of George Lucas. (Remember, this was the good sense expressed by Heather Lawver, leader of the Potter Wars.) But that concession does not mean the fans believe that their work too should be owned by George Lucas. And so when Lucasfilm pushed to the contrary, these fans pushed back.
+“Nothing innocent,” again because all ownership went to Lucasfilm. Fans may well agree not to profit from their work; they may well think it fair that any commercial opportunity arising out of _Star Wars_ be ultimately within the reach of George Lucas. (Remember, this was the good sense expressed by Heather Lawver, leader of the Potter Wars.) But that concession does not mean the fans believe that their work too should be owned by George Lucas. And so when Lucasfilm pushed to the contrary, these fans pushed back.
 
-Lucasfilm, however, does not seem to be deterred. In 2007, the company launched a mash–up site to encourage creators to mash up scenes from the Star Wars series with their own music or images uploaded to the Lucasfilm server. Who owned the mash–ups? No surprise: Lucasfilm. But here’s the part that really gets me: As with David Bowie’s site, if you upload, say, music you have written to be included in a mash–up that you have made, you not only lose the rights to the mash–up, you also lose exclusive rights to your music. Lucasfilm has a perpetual, and free, right to your content, for both commercial and noncommercial purposes. Once again: sharecropping.
+Lucasfilm, however, does not seem to be deterred. In 2007, the company launched a mash–up site to encourage creators to mash up scenes from the _Star Wars_ series with their own music or images uploaded to the Lucasfilm server. Who owned the mash–ups? No surprise: Lucasfilm. But here’s the part that really gets me: As with David Bowie’s site, if you upload, say, music you have written to be included in a mash–up that you have made, you not only lose the rights to the mash–up, you also lose exclusive rights to your music. Lucasfilm has a perpetual, and free, right to your content, for both commercial and noncommercial purposes. Once again: sharecropping.
 
 I’m not saying that this virtual sharecropping should be banned. Instead, I am asking which types of hybrid are likely to thrive. A hybrid that respects the rights of the creator—both the original creator and the remixer—is more likely to survive than one that doesn’t. That’s not because everyone will care about the rights of ownership offered by a particular site. They won’t. But competition is won on the margin. And the ham–handed overreaching of the typical Hollywood lawyer is just the sort of blunder most likely to spoil the success of an otherwise successful hybrid.
 
-Think again about what the Lucasfilm site says to the kids it invites to remix Lucas’s work. No one doubts that Lucas’s contribution to this site is significant. The Star Wars franchise is one of the most valuable in history, extraordinarily compelling and creative, not just to my generation, but to anyone. No one would think that Lucas has any moral obligation to give up ownership to that work (at least during the “limited time” period that its copyright survives). This creativity is rightfully Lucas’s.
+Think again about what the Lucasfilm site says to the kids it invites to remix Lucas’s work. No one doubts that Lucas’s contribution to this site is significant. The _Star Wars_ franchise is one of the most valuable in history, extraordinarily compelling and creative, not just to my generation, but to anyone. No one would think that Lucas has any moral obligation to give up ownership to that work (at least during the “limited time” period that its copyright survives). This creativity is rightfully Lucas’s.
 
 But when Lucas invites others to remix that creativity, he does it for a reason. A financial reason. He wants to leverage the work of thousands of kids to make his original content more compelling. And, in turn, to make the franchise more valuable.
 
@@ -2407,7 +2407,6 @@ Throughout this text there are references to links on the World Wide Web. As any
 Preface
 
 fn101. George Lakoff and Mark Johnson, _Metaphors We Live By_ (Chicago: University of Chicago Press, 1980), 156–57.
-
 fn102. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
 fn103. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
 fn0104. Metro– Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
@@ -2415,13 +2414,10 @@ fn0104. Metro– Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (20
 
                                        Introduction
 
-fn201. All quotes from Candice Breitz taken from an in–person interview conducted August 6,
-    2007.
+fn201. All quotes from Candice Breitz taken from an in–person interview conducted August 6, 2007.
 fn202. E–mail to Candice Breitz, May 31, 2006.
-fn203. All quotes from Gregg Gillis taken from an interview conducted June 21, 2007, by
-    telephone.
-fn204. All quotes from SilviaO taken from an interview conducted February 8, 2007, by
-    telephone.
+fn203. All quotes from Gregg Gillis taken from an interview conducted June 21, 2007, by telephone.
+fn204. All quotes from SilviaO taken from an interview conducted February 8, 2007, by telephone.
 
 
                           Chapter 1. Cultures of Our Past
@@ -2439,7 +2435,6 @@ fn0107. See Tarla Rai Peterson, “Jefferson’s Yeoman Farmer as Frontier Hero:
    York: HarperCollins, 1994), 432; Lawrence S. Kaplan, Thomas Jefferson: Westward the
    Course of Empire (Wilmington, Del.: Scholarly Resources, 1999), 27.
 fn0108. As Harvard professor Yochai Benkler describes it:
-
 bq. Music in the nineteenth century was largely a relational good. It was something people did in the physical presence of each other: in the folk way through hearing, repeating, and improvising; in the middle–class way of buying sheet music and playing for guests or attending public performances; or in the upper–class way of hiring musicians. Capital was widely distributed among musicians in the form of instruments, or geographically dispersed in the hands of performance hall (and drawing room) owners. Market–based production depended on performance through presence. It provided opportunities for artists to live and perform locally, or to reach stardom in cultural centers, but without displacing the local performers.
 
 Yochai Benkler, The Wealth of Networks (New Haven, Conn.: Yale University Press, 2006), 50–51.
@@ -2453,11 +2448,9 @@ But the twentieth century, Jenkins argues, changed this:
 
 bq. The story of American arts in the twentieth century might be told in terms of the displacement of folk culture by mass media. Initially, the emerging entertainment industry made its peace with folk practices, seeing the availability of grassroots singers and musicians as a potential talent pool, incorporating community sing–a–longs into film exhibition practices, and broadcasting amateur–hour talent competitions. The new industrialized arts required huge investments and thus demanded a mass audience. The commercial entertainment industry set standards of technical perfection and professional accomplishment few grassroots performers could match. The commercial industries developed powerful infrastructures that ensured that their messages reached everyone in America who wasn’t living under a rock. Increasingly, the commercial culture generated the stories, images, and sounds that mattered most to the public. (Ibid.)
 
-fn0110. Wikipedia contributors, “Player Piano,” Wikipedia: The Free Encyclopedia, available at
-    link #1 (last visited July 30, 2007).
+fn0110. Wikipedia contributors, “Player Piano,” Wikipedia: The Free Encyclopedia, available at link #1 (last visited July 30, 2007).
 fn0111. Ibid., available at link #2 (last visited July 30, 2007).
-fn0112. Pekka Gronow, “The Record Industry: The Growth of a Mass Medium,” Popular Music
-    3 (1983): 54–55, available at link #3.
+fn0112. Pekka Gronow, “The Record Industry: The Growth of a Mass Medium,” Popular Music 3 (1983): 54–55, available at link #3.
 fn0113. Leonard DeGraff, “Confronting the Mass Market: Thomas Edison and the Entertainment Phonograph,” Business and Economic History 24 (1995): 88, available at link #4.
 fn0114. Gronow, “The Record Industry,” 62, available at link #5.
 fn0115. Ibid., 62, available at link #6.
@@ -2466,26 +2459,18 @@ fn0117. Philip E. Meza, Coming Attractions? Hollywood, High Tech, and the Future
 fn0118. Ibid., 50–51.
 fn0119. Lawrence Lessig, _Free Culture_ (New York: Penguin Press, 2004), 3–7.
 fn0120. U.S. Census Bureau, “NAICS 5111—Newspaper, Periodical, Book and Directory Publishers,” Industry Statistics Sampler, available at link #8 (last visited August 20, 2007).
-fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics
-    Sampler, available at link #9 (last visited August 20, 2007).
-fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,”
-    Industry Statistics Sampler, available at link #10 (last visited August 20, 2007).
-fn0123. “Economies,” Motion Picture Association of America, available at link #11 (last visited
-    January 24, 2008).
+fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics Sampler, available at link #9 (last visited August 20, 2007).
+fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,” Industry Statistics Sampler, available at link #10 (last visited August 20, 2007).
+fn0123. “Economies,” Motion Picture Association of America, available at link #11 (last visited January 24, 2008).
 fn0124. Brylawski and Goldman, Legislative History, 25.
-fn0125. Currier was skeptical of unlimited patent rights. See Zoltek Corp. v. United States, 464
-    F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30,
-    2007). He was reluctant to expand copyrights.
+fn0125. Currier was skeptical of unlimited patent rights. See Zoltek Corp. v. United States, 464 F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30, 2007). He was reluctant to expand copyrights.
 
 
                                Chapter 3. RO, Extended
 
-fn0301. Until 1972, federal law didn’t regulate the copying of recordings. See Capitol Records Inc.
-    v. Naxos of America, 4 N.Y.3d 540, 544 (2005).
+fn0301. Until 1972, federal law didn’t regulate the copying of recordings. See Capitol Records Inc. v. Naxos of America, 4 N.Y.3d 540, 544 (2005).
 fn0302. See Lawrence Lessig, Code 2.0 (New York: Basic Books, 2006), 5–6.
-fn0303. Bruce Lehman, Intellectual Property and the National Information Infrastructure: The
-    Report of the Working Group on Intellectual Property Rights (Darby: Diane Publishing,
-    1995).
+fn0303. Bruce Lehman, Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights (Darby: Diane Publishing, 1995).
 fn0304. See Sonny Bono Copyright Term Extension Act, Pub. L. No. 105–298, 112 Stat. 2827
    (1998) (extending the term of existing copyrights).
 fn0305. See, e.g., No Electronic Theft Act of 1997, Pub. L. No. 105–147, 111 Stat. 2678 (“NET
@@ -2523,122 +2508,50 @@ fn0315. Ibid. But obviously the claims are contested. See Martin Peitz and Patri
    Paper Series 1122 (January 2004), concluding that Internet piracy accounts for just 22.5
    percent of the drop in CD sales. See also Felix Oberholzer and Koleman Strumpf, “The
    Effect of File–Sharing on Record Sales: An Empirical Analysis,” University of North
-   Carolina (2004) (no statistically significant connection between downloading and drop
-    in sales). Compare Stan J. Liebowitz, “Economists’ Topsy–Turvy View of Piracy,” Review
-    of Economic Research on Copyright Issues 2 (2005): 5–17; Stan J. Liebowitz, “Economists
-    Examine File–Sharing and Music Sales,” Industrial Organization and the Digital Economy
-    (Cambridge, Mass.: MIT Press, 2005); Stan J. Liebowitz, “Testing File–Sharing’s Impact
-    on Music Album Sales in Cities,” Management Science, forthcoming.
-fn0316. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at link #19 (last visited
-    January 18, 2008). For a fantastic study of the relationship between artists’ income and
-    digital technologies see Martin Kretschmer, “Artists’ Earning and Copyright: A Review
-    of British and German Music Industry Data in the Context of Digital Technologies,”
-    First Monday 10 (2005), available at link #20.
-fn0317. Amy Matthew, “The Creative Revolution: Consumers, Artists Lead the Way into New
-    Entertainment World,” Pueblo Chieftain, April 29, 2007; “Apple to Give iTunes Users
-    Credit for Full Albums,” InvesTrend, March 29, 2007.
-fn0318. Less elegant was the idea of a coin box in the home. I remember as a kid staying in a
-    boarding house in England in the 1970s that had a coin box to operate hot water. A hot
-    bath is one thing, but television is a necessity. The inconvenience of this system must have
-    been staggering. Still, the idea was tested in Palm Springs, California, in the early 1950s,
-    again by Paramount. This system, called telemeter, used scrambled television signals sent
-    over telephone lines. When customers deposited the correct amount of change in the coin
-    box, the telemeter descrambled the signal. The system debuted in 1953, showing a USC–
-    Notre Dame football game (presaging the popular college sports packages now available
-    on satellite TV services) for $1.00 and a first–run Paramount movie, Forever Female, for
-    an additional $1.35. (Meza, Coming Attractions?, 83.)
+   Carolina (2004) (no statistically significant connection between downloading and drop in sales). Compare Stan J. Liebowitz, “Economists’ Topsy–Turvy View of Piracy,” Review of Economic Research on Copyright Issues 2 (2005): 5–17; Stan J. Liebowitz, “Economists Examine File–Sharing and Music Sales,” Industrial Organization and the Digital Economy (Cambridge, Mass.: MIT Press, 2005); Stan J. Liebowitz, “Testing File–Sharing’s Impact on Music Album Sales in Cities,” Management Science, forthcoming.
+fn0316. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at link #19 (last visited January 18, 2008). For a fantastic study of the relationship between artists’ income and digital technologies see Martin Kretschmer, “Artists’ Earning and Copyright: A Review of British and German Music Industry Data in the Context of Digital Technologies,” First Monday 10 (2005), available at link #20.
+fn0317. Amy Matthew, “The Creative Revolution: Consumers, Artists Lead the Way into New Entertainment World,” Pueblo Chieftain, April 29, 2007; “Apple to Give iTunes Users Credit for Full Albums,” InvesTrend, March 29, 2007.
+fn0318. Less elegant was the idea of a coin box in the home. I remember as a kid staying in a boarding house in England in the 1970s that had a coin box to operate hot water. A hot bath is one thing, but television is a necessity. The inconvenience of this system must have been staggering. Still, the idea was tested in Palm Springs, California, in the early 1950s, again by Paramount. This system, called telemeter, used scrambled television signals sent over telephone lines. When customers deposited the correct amount of change in the coin box, the telemeter descrambled the signal. The system debuted in 1953, showing a USC– Notre Dame football game (presaging the popular college sports packages now available on satellite TV services) for $1.00 and a first–run Paramount movie, Forever Female, for an additional $1.35. (Meza, Coming Attractions?, 83.)
 fn0319. In Napster Inc. Copyright Litigation, 191 F. Supp. 2d 1087 (N.D. Cal. 2002).
-fn0320. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its
-    music be sold with DRM. Peter Sayer, “Sony BMG to Sell DRM–Free Music Downloads
-    Through Stores,” InfoWorld, January 7, 2008, available at link #21.
+fn0320. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its music be sold with DRM. Peter Sayer, “Sony BMG to Sell DRM–Free Music Downloads Through Stores,” InfoWorld, January 7, 2008, available at link #21.
 fn0321. Lessig, Code 2.0.
 
-
-                                Chapter 4. RW, Revived
+                             Chapter 4. RW, Revived
 
 fn0401. Grand Upright Music Ltd. v. Warner Bros. Records Inc., 780 F. Supp. 182 (S.D.N.Y. 1991).
-fn0402. All quotes from Don Joyce taken from an interview conducted March 20, 2007, by
-    telephone.
+fn0402. All quotes from Don Joyce taken from an interview conducted March 20, 2007, by telephone.
 fn0403. David Bollier, Brand Name Bullies (Hoboken, N.J.: Wiley, 2005), 69.
-fn0404. J. D. Lasica, Darknet: Hollywood’s War Against the Digital Generation (Hoboken, N.J.:
-    Wiley, 2005), 72–73.
+fn0404. J. D. Lasica, Darknet: Hollywood’s War Against the Digital Generation (Hoboken, N.J.: Wiley, 2005), 72–73.
 fn0405. Heidi Anderson, “Plugged In,” Smart Computing (November 2000): 90–92.
 fn0406. Benkler, Wealth of Networks, 217.
 fn0407. Mark Lawson, “Berners–Lee on the Read/Write Web,” BBC News, August 9, 2005, available at link #22 (last visited July 31, 2007).
-fn0408. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November
-    26, 2004, available at link #23; David Sifry, “Technorati,” Sifry’s Alerts, November 27,
-    2002, available at link #24; David Sifry, “Over 100,000 Blogs Served,” Sifry’s Alerts,
-    March 5, 2003, available at link #25; David Sifry, “One Million Weblogs Tracked,” Sifry’s
-   Alerts, September 27, 2003, available at link #26; David Sifry, “State of the Blogosphere,”
-   Sifry’s Alerts, October 10, 2004, available at link #27; “About Us,” Technorati, available at
-   link #28 (last visited July 30, 2007).
-fn0409. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at link
-   #29 (last visited July 23, 2007); David Sifry, “State of the Blogosphere, October 2006,”
-   Technorati, available at link #30 (last visited July 23, 2007).
+fn0408. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November 26, 2004, available at link #23; David Sifry, “Technorati,” Sifry’s Alerts, November 27, 2002, available at link #24; David Sifry, “Over 100,000 Blogs Served,” Sifry’s Alerts, March 5, 2003, available at link #25; David Sifry, “One Million Weblogs Tracked,” Sifry’s Alerts, September 27, 2003, available at link #26; David Sifry, “State of the Blogosphere,” Sifry’s Alerts, October 10, 2004, available at link #27; “About Us,” Technorati, available at link #28 (last visited July 30, 2007).
+fn0409. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at link #29 (last visited July 23, 2007); David Sifry, “State of the Blogosphere, October 2006,” Technorati, available at link #30 (last visited July 23, 2007).
 fn0410. Benkler, Wealth of Networks, 217.
-fn0411. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3,
-   2004, available at link #31.
-fn0412. Don Tapscott and Anthony D. Williams, Wikinomics: How Mass Collaboration Changes
-   Everything (New York: Portfolio, 2006), 41.
+fn0411. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3, 2004, available at link #31.
+fn0412. Don Tapscott and Anthony D. Williams, Wikinomics: How Mass Collaboration Changes Everything (New York: Portfolio, 2006), 41.
 fn0413. Ibid., 52.
 fn0414. Ibid., 144–45.
 fn0415. Ibid., 42.
 fn0416. “Blogging Basics,” Technorati, available at link #32 (last visited July 23, 2007).
-fn0417. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at link #33
-   (last visited August 16, 2007).
+fn0417. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at link #33 (last visited August 16, 2007).
 fn0418. Charlene Li, Social Technographics (Cambridge, Mass.: Forrester, 2007), 2.
 fn0419. Benkler, Wealth of Networks, 225–33.
-fn0420. The blog Corporate Influence in the Media tries to document examples of advertisers
-   pressuring publishers and broadcasters. See Anup Shah, Corporate Influence in the
-   Media, available at link #34 (last visited August 16, 2007). In 2006 the Center for Media
-   and Democracy released a report detailing a large number of instances in which news
-   organizations broadcast “video news releases” as news without revealing to their audiences that the video was provided by a public relations firm. See Diane Farsetta and
-   Daniel Price, “Fake TV News: Widespread and Undisclosed,” Center for Media and
-   Democracy, April 6, 2006, available at link #35.
+fn0420. The blog Corporate Influence in the Media tries to document examples of advertisers pressuring publishers and broadcasters. See Anup Shah, Corporate Influence in the Media, available at link #34 (last visited August 16, 2007). In 2006 the Center for Media and Democracy released a report detailing a large number of instances in which news organizations broadcast “video news releases” as news without revealing to their audiences that the video was provided by a public relations firm. See Diane Farsetta and Daniel Price, “Fake TV News: Widespread and Undisclosed,” Center for Media and Democracy, April 6, 2006, available at link #35.
 fn0421. Lawrence Lessig, “The People Own Ideas,” Technology Review (June 2005): 46–48.
 fn0422. “To the Point; Trends & Innovations,” Investor’s Business Daily, September 26, 2006.
 fn0423. Ibid.
 fn0424. Gail Koch, “ ‘800–Pound Gorilla’ Still Rules for Most,” Star Press (Muncie, Ind.), September 28, 2005.
-fn0425. Xinhua News Agency, “Census Bureau: Americans to Spend More Time on Media Next
-   Year,” December 15, 2006.
-fn0426. U.S. Fed News, “American Time Use Survey—2006 Results,” U.S. Fed News, June 28,
-   2007.
-fn0427. This is not to say that before the Internet, there was nothing like this RW–media culture.
-   Indeed, for almost a half century, beginning with the Star Trek series, there has been
-   a rich “fan fiction” culture, in which fans take popular culture and remix it. Rebecca
-   Tushnet, “Legal Fictions: Copyright, Fan Fiction, and a New Common Law,” Loyola
-   of Los Angeles Entertainment Law Journal 17 (1997): 655, citing Henry Jenkins and John
-   Tulloch, eds., ‘At Other Times, Like Females’: Gender and Star Trek Fan Fiction, in Science Fiction Audiences: Watching Dr. Who and Star Trek (London: Routledge, 1995), 196.
-   Some trace the history of fan fiction back even earlier, to “metanovels” written in response
-   to classic works of fiction such as Pride and Prejudice (Sharon Cumberland, “Private Uses
-   of Cyberspace: Women, Desire and Fan Culture,” in Rethinking Media Change: The Aesthetics of Transition, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT
-    Press, 2003), 261. An Internet commentator known as Super Cat argues that the first fan
-    fiction was John Lydgate’s The Siege of Thebes, a continuation of The Canterbury Tales
-    circa 1421: Super Cat, “A (Very) Brief History of Fanfic,” Fanfic Symposium, available
-    at link #36 (last visited August 11, 2007). Many believe that the contemporary online fan
-    fiction community is predominantly composed of women, and the genre addresses topics
-    traditionally marginalized in the commercial media, including “the status of women in
-    society, women’s ability to express desire, [and] the blurring of stereotyped gender lines”
-    (Cumberland, “Private Uses,” 265). In addition to traditional textual fan fiction, cyberspace has spawned an active culture of fan filmmaking. See Henry Jenkins, “Quentin
-    Tarantino’s Star Wars? Digital Cinema, Media Convergence, and Participatory Culture,”
-    in Rethinking Media Change: The Aesthetics of Transition, ed. David Thorburn and Henry
-    Jenkins (Cambridge, Mass.: MIT Press, 2003), 281–84 (offering a case study of Star Wars
-    fan fiction, which began in textual form with the first official film, and developed into
-    digital film distributed on independent creators’ Web sites). There is a comprehensive
-    study of fan fiction in chapters 5–8 of Henry Jenkins, Textual Poachers: Television Fans
-    and Participatory Culture (New York: Routledge, 1992).
-fn0428. All quotes from Mark Hosler taken from an interview conducted May 1, 2007, by
-    telephone.
-fn0429. All quotes from Johan Söderberg taken from an interview conducted February 15, 2007,
-    by telephone.
+fn0425. Xinhua News Agency, “Census Bureau: Americans to Spend More Time on Media Next Year,” December 15, 2006.
+fn0426. U.S. Fed News, “American Time Use Survey—2006 Results,” U.S. Fed News, June 28, 2007.
+fn0427. This is not to say that before the Internet, there was nothing like this RW–media culture. Indeed, for almost a half century, beginning with the Star Trek series, there has been a rich “fan fiction” culture, in which fans take popular culture and remix it. Rebecca Tushnet, “Legal Fictions: Copyright, Fan Fiction, and a New Common Law,” Loyola of Los Angeles Entertainment Law Journal 17 (1997): 655, citing Henry Jenkins and John Tulloch, eds., ‘At Other Times, Like Females’: Gender and Star Trek Fan Fiction, in Science Fiction Audiences: Watching Dr. Who and Star Trek (London: Routledge, 1995), 196. Some trace the history of fan fiction back even earlier, to “metanovels” written in response to classic works of fiction such as Pride and Prejudice (Sharon Cumberland, “Private Uses of Cyberspace: Women, Desire and Fan Culture,” in Rethinking Media Change: The Aesthetics of Transition, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 261. An Internet commentator known as Super Cat argues that the first fan fiction was John Lydgate’s The Siege of Thebes, a continuation of The Canterbury Tales circa 1421: Super Cat, “A (Very) Brief History of Fanfic,” Fanfic Symposium, available at link #36 (last visited August 11, 2007). Many believe that the contemporary online fan fiction community is predominantly composed of women, and the genre addresses topics traditionally marginalized in the commercial media, including “the status of women in society, women’s ability to express desire, [and] the blurring of stereotyped gender lines” (Cumberland, “Private Uses,” 265). In addition to traditional textual fan fiction, cyberspace has spawned an active culture of fan filmmaking. See Henry Jenkins, “Quentin Tarantino’s Star Wars? Digital Cinema, Media Convergence, and Participatory Culture,” in Rethinking Media Change: The Aesthetics of Transition, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 281–84 (offering a case study of _Star Wars_ fan fiction, which began in textual form with the first official film, and developed into digital film distributed on independent creators’ Web sites). There is a comprehensive study of fan fiction in chapters 5–8 of Henry Jenkins, Textual Poachers: Television Fans and Participatory Culture (New York: Routledge, 1992).
+fn0428. All quotes from Mark Hosler taken from an interview conducted May 1, 2007, by telephone.
+fn0429. All quotes from Johan Söderberg taken from an interview conducted February 15, 2007, by telephone.
 fn0430. Telephone interview with Don Joyce, March 20, 2007.
 fn0431. “Misperceptions, the Media, and the Iraq War,” Program on International Policy Attitudes and Knowledge Networks, available at link #37 (last visited January 18, 2008).
 fn0432. Charles Krauthammer, “A Vacation Bush Deserves,” Washington Post, August 10, 2001.
-fn0433. All quotes from Victor Stone taken from an interview conducted February 15, 2007, by
-    telephone.
-fn0434. All quotes from Mimi Ito taken from an interview conducted January 24, 2007, by telephone. For more, see Mimi Ito, “Japanese Media Mixes and Amateur Cultural Exchange,”
-    in Digital Generations, ed. David Buckingham and Rebekah Willett (Mahwah, N.J.:
-    Lawrence Erlbaum, 2006), 49–66.
+fn0433. All quotes from Victor Stone taken from an interview conducted February 15, 2007, by telephone.
+fn0434. All quotes from Mimi Ito taken from an interview conducted January 24, 2007, by telephone. For more, see Mimi Ito, “Japanese Media Mixes and Amateur Cultural Exchange,” in Digital Generations, ed. David Buckingham and Rebekah Willett (Mahwah, N.J.: Lawrence Erlbaum, 2006), 49–66.
 fn0435. Jenkins, Convergence Culture, 128.
 fn0436. Ibid., 182.
 fn0437. Ibid., 177.
@@ -2647,8 +2560,7 @@ fn0438. Ibid., 182.
 
                            Chapter 5. Cultures Compared
 
-fn0501. An argument “in favor” is certainly not an argument anyone should consider conclusive.
-    Free speech values should still weigh in the balance, driving regulation away from restrictive measures when alternative, nonrestrictive alternatives exist.
+fn0501. An argument “in favor” is certainly not an argument anyone should consider conclusive.  Free speech values should still weigh in the balance, driving regulation away from restrictive measures when alternative, nonrestrictive alternatives exist.
  2. Andrew Odlyzko, “Content Is Not King,” First Monday 6 (2001), available at link #38.
  3. Stewart Baker, “Exclusionary Rules,” Wall Street Journal, March 26, 2004.
  4. Andrew Keen, The Cult of the Amateur (New York: Doubleday, 2007), 64.
@@ -3520,7 +3432,7 @@ spam, 58
 Spears, Britney, 95–96                          Valenti, Jack, xvii–xviii
 spillovers, 229–31                              values, 84–88
 Stallman, Richard, 157, 163, 179, 182, 183      Vander Wal, Thomas, 59
-Star Wars, 245–46, 247                          Vantongerloo, Zarf, 216–17
+_Star Wars_, 245–46, 247                          Vantongerloo, Zarf, 216–17
 Sterling, Thomas, 180                           VCRs and videocassettes, xxi, 2, 30, 37, 38,
 stock markets, 152–53, 154                           45, 102, 122–23
 Stone, Victor, 75, 97                           Viacom, 2
