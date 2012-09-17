@@ -8,7 +8,7 @@ h2. A note on notes
 
 The original book has many notes, not only footnotes, but also endnotes (althought numbered footnotes are located in a special chapter at the end of the book, and star endnotes are located at the botton of the page). 
 
-Endnotes aren't easy to achieve with @textile@, since they aren't implemented (at least using "http://txstyle.org/":http://txstyle.org/. Auto-numbered endnotes are different from footnotes in @textile@, because one can choose where the place for the notes will be (and nothing less). And @pandoc@ hasn't endnotes implemented. But I'll stick at this (until implemented in @pandoc@, this means no endontes will recognized.
+Endnotes aren't easy to achieve with @textile@, since they aren't implemented (at least using "http://txstyle.org/":http://txstyle.org/). Auto-numbered endnotes are different from footnotes in @textile@, because one can choose where the place for the notes will be (and nothing less). And @pandoc@ hasn't endnotes implemented. But I'll stick at this (until implemented in @pandoc@, this means no endontes will recognized.
 
 The other issue with footnotes is that there are many of them and it isn't always easy to locate them in text. I will be adding them to the source as fast as I can discover them in the text. The task won't be easy, because footnote numbers are reset on each chapter.
 
