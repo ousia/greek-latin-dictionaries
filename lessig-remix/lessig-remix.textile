@@ -195,7 +195,7 @@ bq. It’s good because it is, in essence, just free culture. Ideas impact data,
 
 And, Gillis believes, it is also great for the record industry as well: “From a financial perspective, this is how the music industry can thrive in the future ... this interactivity with the albums. Treat it more like a game and less like a product.”
 
-Gillis’s point in the end, however, was not about reasons. It was about a practice. Or about the practice of this generation. “People are going to be forced—lawyers and ... older politicians —to face this reality: that everyone is making this music and that most music is derived from previous ideas. And that almost all pop music is made from other people’s source material. And that it’s not a bad thing. It doesn’t mean you can’t make original content.”
+Gillis’s point in the end, however, was not about reasons. It was about a practice. Or about the practice of this generation. “People are going to be forced—lawyers and ... older politicians—to face this reality: that everyone is making this music and that most music is derived from previous ideas. And that almost all pop music is made from other people’s source material. And that it’s not a bad thing. It doesn’t mean you can’t make original content.”
 
 All it means—today, at least—is that you can’t make this content legally. “Permission is vital, legally,” even if today it is impossible to obtain.
 
@@ -2401,9 +2401,9 @@ Throughout this text there are references to links on the World Wide Web. As any
 Preface
 
 fn101. George Lakoff and Mark Johnson, _Metaphors We Live By_ (Chicago: University of Chicago Press, 1980), 156–57.
-fn102. Ronald Allen Harmelin v. Michigan, 501 U.S. 957 (1991).
+fn102. _Ronald Allen Harmelin v. Michigan_, 501 U.S. 957 (1991).
 fn103. Amy Harmon, “Black Hawk Download: Moving Beyond Music, Pirates Use New Tools to Turn the Net into an Illicit Video Club,” New York Times, January 17, 2002.
-fn0104. Metro–Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
+fn104. _Metro–Goldwyn–Mayer Studios Inc. v. Grokster Ltd._, 545 U.S. 913 (2005).
 
 
                                        Introduction
@@ -2452,12 +2452,12 @@ fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Indust
 fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,” Industry Statistics Sampler, available at link #10 (last visited August 20, 2007).
 fn0123. “Economies,” Motion Picture Association of America, available at link #11 (last visited January 24, 2008).
 fn0124. Brylawski and Goldman, Legislative History, 25.
-fn0125. Currier was skeptical of unlimited patent rights. See Zoltek Corp. v. United States, 464 F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30, 2007). He was reluctant to expand copyrights.
+fn0125. Currier was skeptical of unlimited patent rights. See _Zoltek Corp. v. United States_, 464 F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30, 2007). He was reluctant to expand copyrights.
 
 
                                Chapter 3. RO, Extended
 
-fn0301. Until 1972, federal law didn’t regulate the copying of recordings. See Capitol Records Inc. v. Naxos of America, 4 N.Y.3d 540, 544 (2005).
+fn0301. Until 1972, federal law didn’t regulate the copying of recordings. See _Capitol Records Inc. v. Naxos of America_, 4 N.Y.3d 540, 544 (2005).
 fn0302. See Lawrence Lessig, Code 2.0 (New York: Basic Books, 2006), 5–6.
 fn0303. Bruce Lehman, Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights (Darby: Diane Publishing, 1995).
 fn0304. See Sonny Bono Copyright Term Extension Act, Pub. L. No. 105–298, 112 Stat. 2827
@@ -2465,8 +2465,8 @@ fn0304. See Sonny Bono Copyright Term Extension Act, Pub. L. No. 105–298, 112 
 fn0305. See, e.g., No Electronic Theft Act of 1997, Pub. L. No. 105–147, 111 Stat. 2678 (“NET
    Act”), amending 17 U.S.C. §506(a).
 fn0306. See Digital Millennium Copyright Act, Pub. L. No. 10–5–304, 112 Stat. 2860 (1998).
-fn0307. See UMG Recordings Inc. v. MP3.com Inc., 92 F. Supp. 2d 349 (S.D.N.Y. 2000); A&M
-   Records Inc. v. Napster Inc., 239 F.3d 1004 (9th Cir. 2001).
+fn0307. See _UMG Recordings Inc. v. MP3.com Inc._, 92 F. Supp. 2d 349 (S.D.N.Y. 2000); _A&M
+   Records Inc. v. Napster Inc_., 239 F.3d 1004 (9th Cir. 2001).
 fn0308. See, for example, Lessig, _Free Culture_, chap. 3.
 fn0309. RIAA Watcher, “RIAA Watch,” RIAA Watch, available at link #13; Nate Mook, “RIAA
    Sues 261, Including 12–Year–Old Girl,” BetaNews, September 9, 2003, available at link
@@ -2507,7 +2507,7 @@ fn0321. Lessig, _Code 2.0_.
 
                              Chapter 4. RW, Revived
 
-fn0401. Grand Upright Music Ltd. v. Warner Bros. Records Inc., 780 F. Supp. 182 (S.D.N.Y. 1991).
+fn0401. _Grand Upright Music Ltd. v. Warner Bros. Records Inc._, 780 F. Supp. 182 (S.D.N.Y. 1991).
 fn0402. All quotes from Don Joyce taken from an interview conducted March 20, 2007, by telephone.
 fn0403. David Bollier, Brand Name Bullies (Hoboken, N.J.: Wiley, 2005), 69.
 fn0404. J. D. Lasica, Darknet: Hollywood’s War Against the Digital Generation (Hoboken, N.J.: Wiley, 2005), 72–73.
@@ -2564,7 +2564,7 @@ fn0512. Jenkins, Convergence Culture, 103–4.
 fn0513. A real problem for readers of his last novel, The Mystery of Edwin Drood (1870). Dickens died before he completed the story, even though serial chapters were already being printed. Joel J. Brattin, “Dickens and Serial Publication,” PBS, available at link #42 (last visited August 16, 2007).
 fn0514. Christopher Lydon, “Ecstasy of Influence—Interview with Jonathan Lethem, Siva Vaidhyanathan, Mark Hosler, and Mike Doughty,” Open Source with Christopher Lydon, February 2, 2007, available at link # 43.
 fn0515. Ithiel de Sola Pool, Technologies Without Boundaries: On Telecommunications in a Global Age (Cambridge, Mass.: Harvard University Press, 1990), 121.
-fn0516. The standard of intermediate First Amendment review permits speech regulation only “[1] if it advances important governmental interests unrelated to the suppression of free speech and [2] does not burden substantially more speech than necessary to further those interests.” Turner Broad. Sys. v. FCC, 520 U.S. 180, 189 (1997); see also United States v. O’Brien, 391 U.S. 367, 377 (1968); Ward v. Rock Against Racism, 491 U.S. 781, 791 (1989) (applying intermediate scrutiny to time, place, and manner regulation of speech in the public forum); San Francisco Arts & Athletics Inc. v. U.S. Olympic Comm., 483 U.S. 522, 537 (1987) (applying O’Brien review to a law protecting the word “Olympic” under trademark law).
+fn0516. The standard of intermediate First Amendment review permits speech regulation only “[1] if it advances important governmental interests unrelated to the suppression of free speech and [2] does not burden substantially more speech than necessary to further those interests.” _Turner Broad. Sys. v. FCC_, 520 U.S. 180, 189 (1997); see also _United States v. O’Brien_, 391 U.S. 367, 377 (1968); _Ward v. Rock Against Racism_, 491 U.S. 781, 791 (1989) (applying intermediate scrutiny to time, place, and manner regulation of speech in the public forum); _San Francisco Arts & Athletics Inc. v. U.S. Olympic Comm._, 483 U.S. 522, 537 (1987) (applying O’Brien review to a law protecting the word “Olympic” under trademark law).
 fn0517. Work from 1923 on is potentially subject to copyright. Whether in fact a particular work is copyrighted depends upon whether the work satisfied certain formalities.
 fn0518. Jessica Litman, “The Exclusive Right to Read,” Cardozo Arts and Entertainment Law Journal 13 (1994): 29, 34–35.
 fn0519. R. Anthony Reese, “Innocent Infringement in U.S. Copyright Law: A History,” Columbia Journal of Law & the Arts 30 (2007): 133, 136.
@@ -2575,10 +2575,10 @@ fn0523. Office of Technology Assessment, Copyright and Home Copying: Technology 
 fn0524. Wikipedia contributors, “Jazz,” Wikipedia: The Free Encyclopedia, available at link #45 (last visited July 30, 2007).
 fn0525. Wikipedia contributors, “Louis Armstrong,” Wikipedia: The Free Encyclopedia, available at link #46 (last visited July 30, 2007).
 fn0526. Fairly relaxed, not completely. There is an important tension in jazz created by the way  the derivative right functions. Because jazz is in essence improvisation, it must build  upon some other work. But because copyright law treats this other work as expression,  rather than as an idea, the improvisation requires permission from the underlying copyright owner. In practice, jazz musicians almost never seek that permission, instead relying upon the mechanical license to secure permission to record the underlying work.  That license, however, doesn’t cover derivatives. For a penetrating analysis of these questions, see Anonymous, “Jazz Has Got Copyright Law & That Ain’t Good,” Harvard Law  Review 118 (2005), 1940.
-fn0527. Bridgeport Music Inc. v. Dimension Films, 383 F.3d 390 (6th Cir. 2004).
+fn0527. _Bridgeport Music Inc. v. Dimension Films_, 383 F.3d 390 (6th Cir. 2004).
 fn0528. William W. Fisher, Promises to Keep (Stanford, Calif.: Stanford University Press, 2004).
 fn0529. Peter Lauria, “File–$haring,” New York Post, June 25, 2007.
-fn0530. Metro–Goldwyn–Mayer Studios Inc. v. Grokster Ltd., 545 U.S. 913 (2005).
+fn0530. _Metro–Goldwyn–Mayer Studios Inc. v. Grokster Ltd._, 545 U.S. 913 (2005).
 fn0531. Mitch Bainwol and Cary Sherman, “Explaining the Crackdown on Student Downloading,” Inside Higher Ed, March 15, 2007, available at link #47.
 fn0532. I also stand by my view that the harms caused by p2p file sharing are overstated by the  industry. Mark Cooper has now added to this debate. As he has argued effectively, much  of the loss in sales comes from people buying one or two tracks from an album. LPs forced  those tracks to be bundled before; digital technology now permits them to be separate. It  makes no sense to count that “loss” as a harm to society, since it simply represents people  choosing to buy what they want. See Mark Cooper, Digital Downloading of Music (Washington, D.C.: Consumer Federation of America, 2007).
 fn0533. Bainwol and Sherman, “Explaining the Crackdown.”
@@ -2593,7 +2593,7 @@ fn0533. Bainwol and Sherman, “Explaining the Crackdown.”
     Not Seen as Deterrents,” Sun–Sentinel, February 5, 1996. Robert D. Atkinson and Daniel K. Correa, “The Digital Economy—Internet Domain Names,” The 2007 State New
     Economy Index (2007): 40, available at link #48.
  3. U.S. Census Bureau, “E–Stats–Measuring the Electronic Economy,” available at link #49.
- 4. Sony Corp. v. Universal City Studios, 464 U.S. 417 (1984).
+ 4. _Sony Corp. v. Universal City Studios_, 464 U.S. 417 (1984).
  5. See Julie Niederhoff, “Video Rental Developments and the Supply Chain: Netflix,
     Inc.,” Washington University, St. Louis (2002); Michael K. Mills and Jon Silver, “Analysing the Effect of Digital Technology on Channel Strategy, Power and Disintermediation
     in the Home Video Market: The Demise of the Video Store?” Video Technology magazine
@@ -2651,7 +2651,7 @@ fn0533. Bainwol and Sherman, “Explaining the Crackdown.”
     link #64; Maryclaire Dale, “Judge Throws Out Internet Blocking Law: Ruling States
     Parents Must Protect Children Through Less Restrictive Means,” MSNBC, March 22,
     2007, available at link #65. Google prevailed in its effort to restrict the government’s
-    search. See Gonzales v. Google, 234 F.R.D. 674 (N.D. Cal. 2006).
+    search. See _Gonzales v. Google_, 234 F.R.D. 674 (N.D. Cal. 2006).
 26. Phillip Torrone, “Netflix, Open Up or Die ... ,” available at link #66.
 27. Netflix, Netflix Prize, available at link #67 (last visited July 2, 2007).
 28. Tapscott and Williams, Wikinomics, 183.
@@ -3034,7 +3034,7 @@ fn0533. Bainwol and Sherman, “Explaining the Crackdown.”
 1. See Carl J. Dahlman, “The Problem of Externality,” Journal of Law and Economics 22
    (1979): 141.
 2. Thomas Jefferson letter to Isaac Mcpherson, August 13, 1813, reprinted in H. A. Washington, ed., Writings of Thomas Jefferson 1790–1826, vol. 6 (Washington, D. C: Taylor &
-   Maury, 1854), 180–81; quoted in Graham v. John Deere Company of Kansas, 383 U. S. 1,
+   Maury, 1854), 180–81; quoted in _Graham v. John Deere Company of Kansas_, 383 U. S. 1,
    8–9n.2 (1966).
 3. See Mark Stefik, ed., “Epilogue: Choices and Dreams,” Internet Dreams: Archetypes,
    Myths, and Metaphors (Cambridge, Mass.: MIT Press, 1996), 391.
