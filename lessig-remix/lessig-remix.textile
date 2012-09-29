@@ -2436,17 +2436,17 @@ fn0111. Ibid., available at "$":http://en.wikipedia.org/w/index.php?title=Player
 fn0112. Pekka Gronow, “The Record Industry: The Growth of a Mass Medium,” _Popular Music_ 3 (1983): 54–55, available at "$":http://links.jstor.org/sici?sici=0261-1430(1983)3%3C53%3ATRITGO%3E2.0.CO%3B2-P or "$":http://lessig.org/content/columns/pdfs/3.pdf.
 fn0113. Leonard DeGraff, “Confronting the Mass Market: Thomas Edison and the Entertainment Phonograph,” _Business and Economic History_ 24 (1995): 88, available at "$":http://www.h-net.org/~business/bhcweb/publications/BEHprint/v024n1/p0088-p0096.pdf or "$":http://www.webcitation.org/5ajUAooQt.
 fn0114. Gronow, “The Record Industry,” 62, available at "$":http://links.jstor.org/sici?sici=0261-1430(1983)3%3C53%3ATRITGO%3E2.0.CO%3B2-P or "$":http://lessig.org/content/columns/pdfs/5.pdf.
-fn0115. Ibid., 62, available at link #6.
-fn0116. Ibid., 63, available at link #7.
+fn0115. Ibid., 62, available at "$":http://links.jstor.org/sici?sici=0261-1430(1983)3%3C53%3ATRITGO%3E2.0.CO%3B2-P or "$":http://lessig.org/content/columns/pdfs/6.pdf.
+fn0116. Ibid., 63, available at "$":http://links.jstor.org/sici?sici=0261-1430(1983)3%3C53%3ATRITGO%3E2.0.CO%3B2-P or "$":http://lessig.org/content/columns/pdfs/7.pdf.
 fn0117. Philip E. Meza, _Coming Attractions? Hollywood, High Tech, and the Future of Entertainment_ (Stanford, Calif.: Stanford University Press, 2007), 51.
 fn0118. Ibid., 50–51.
 fn0119. Lawrence Lessig, _Free Culture_ (New York: Penguin Press, 2004), 3–7.
-fn0120. U.S. Census Bureau, “NAICS 5111—Newspaper, Periodical, Book and Directory Publishers,” Industry Statistics Sampler, available at link #8 (last visited August 20, 2007).
-fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics Sampler, available at link #9 (last visited August 20, 2007).
-fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,” Industry Statistics Sampler, available at link #10 (last visited August 20, 2007).
-fn0123. “Economies,” Motion Picture Association of America, available at link #11 (last visited January 24, 2008).
+fn0120. U.S. Census Bureau, “NAICS 5111—Newspaper, Periodical, Book and Directory Publishers,” Industry Statistics Sampler, available at "$":http://www.census.gov/econ/census02/data/industry/E5111.HTM or "$":http://www.webcitation.org/5ajULbQOW (last visited August 20, 2007).
+fn0121. U.S. Census Bureau, “NAICS 515120—Television Broadcasting,” Industry Statistics Sampler, available at "$":http://www.census.gov/econ/census02/data/industry/E515120.HTM or "$":http://www.webcitation.org/5ajVfDhkM (last visited August 20, 2007).
+fn0122. U.S. Census Bureau, “NAICS 512—Motion Picture and Sound Recording Industries,” Industry Statistics Sampler, available at "$":http://www.census.gov/econ/census02/data/industry/E512.HTM or "$":http://www.webcitation.org/5ajWXpagK (last visited August 20, 2007).
+fn0123. “Economies,” Motion Picture Association of America, available at "$":http://mpaa.org/piracy_Economies.asp or "$":http://www.webcitation.org/5ajWbN1ND (last visited January 24, 2008).
 fn0124. Brylawski and Goldman, _Legislative History_, 25.
-fn0125. Currier was skeptical of unlimited patent rights. See _Zoltek Corp. v. United States_, 464 F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at link #12 (last visited July 30, 2007). He was reluctant to expand copyrights.
+fn0125. Currier was skeptical of unlimited patent rights. See _Zoltek Corp. v. United States_, 464 F.3d 1335, 1337 (2006) (Newman, J., dissenting), available at "$":http://www.cafc.uscourts.gov/opinions/04-5100.pdf or "$":http://www.webcitation.org/5ajrKZzvy (last visited July 30, 2007). He was reluctant to expand copyrights.
 
 
 
@@ -2458,8 +2458,8 @@ fn0305. See, e.g., No Electronic Theft Act of 1997, Pub. L. No. 105–147, 111 S
 fn0306. See Digital Millennium Copyright Act, Pub. L. No. 10–5–304, 112 Stat. 2860 (1998).
 fn0307. See _UMG Recordings Inc. v. MP3.com Inc._, 92 F. Supp. 2d 349 (S.D.N.Y. 2000); _A&M Records Inc. v. Napster Inc_., 239 F.3d 1004 (9th Cir. 2001).
 fn0308. See, for example, Lessig, _Free Culture_, chap. 3.
-fn0309. RIAA Watcher, “RIAA Watch,” RIAA Watch, available at link #13; Nate Mook, “RIAA Sues 261, Including 12–Year–Old Girl,” BetaNews, September 9, 2003, available at link #14; Nate Mook, “RIAA Sues Deceased Grandmother,” _BetaNews_, February 4, 2005, available at link #15.
-fn0310. See Susan Butler, “Sixth Wave of RIAA Pre–Litigation Letters Sent to Colleges,” _Hollywood Reporter_, July 19, 2007, available at link #16.
+fn0309. RIAA Watcher, “RIAA Watch,” RIAA Watch, available at "$":http://sharenomore.blogspot.com/ or "$":http://www.webcitation.org/5ajWqyxV1; Nate Mook, “RIAA Sues 261, Including 12–Year–Old Girl,” BetaNews, September 9, 2003, available at "$":http://www.betanews.com/article/1063159635 or "$":http://www.webcitation.org/5ajWsiFo5; Nate Mook, “RIAA Sues Deceased Grandmother,” _BetaNews_, February 4, 2005, available at "$":http://www.betanews.com/article/RIAA_Sues_Deceased_Grandmother/1107532260 or "$":http://www.webcitation.org/5ajWuRJK1.
+fn0310. See Susan Butler, “Sixth Wave of RIAA Pre–Litigation Letters Sent to Colleges,” _Hollywood Reporter_, July 19, 2007, available at "$":http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1003613999 or "$":http://www.webcitation.org/5ajWxXn0Q.
 fn0311. Number of Lawsuits in the United States Courts Concerning Copyright, 2000–2006.
 
 | Year | Court of Appeals | District Courts |
@@ -2471,17 +2471,17 @@ fn0311. Number of Lawsuits in the United States Courts Concerning Copyright, 200
 | 2001 | 486 | 2,049 |
 | 2000 | Not Available  | 2,056 |
 
-p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Courts, available at link #17 (last visited July 30, 2007). Table C–2. “U.S. District Courts—Civil Cases Commenced, by Basis of Jurisdiction and Nature of Suit,” 2000–2006. Table B–7. “U.S. Courts of Appeals—Nature of Suit or Offense in Cases Arising from the U.S. District Courts, by Circuit,” 2000–2006.
+p. The Federal Judiciary, “Federal Judicial Caseload Statistics,” U.S. Courts, available at "$":http://www.uscourts.gov/caseloadstatistics.html or "$":http://www.webcitation.org/5ajX7QSVW (last visited July 30, 2007). Table C–2. “U.S. District Courts—Civil Cases Commenced, by Basis of Jurisdiction and Nature of Suit,” 2000–2006. Table B–7. “U.S. Courts of Appeals—Nature of Suit or Offense in Cases Arising from the U.S. District Courts, by Circuit,” 2000–2006.
 
 fn0312. International Federation of the Phonographic Industry, _IFPI:07 Digital Music Report_ (London: IFPI, 2007), 18.
-fn0313. The last great panic surrounded the emergence of cassette–tape technology. See the discussion in Office of Technology Assessment, _Copyright and Home Copying: Technology Challenges the Law_ (Washington, D.C.: U.S. Government Printing Office, 1989), 145–47, available at link #18.
+fn0313. The last great panic surrounded the emergence of cassette–tape technology. See the discussion in Office of Technology Assessment, _Copyright and Home Copying: Technology Challenges the Law_ (Washington, D.C.: U.S. Government Printing Office, 1989), 145–47, available at "$":http://govinfo.library.unt.edu/ota/Ota_2/DATA/1989/8910.PDF or "$":http://www.webcitation.org/5ajXXAIc1.
 fn0314. Meza, _Coming Attractions?_, 87–88.
 fn0315. Ibid. But obviously the claims are contested. See Martin Peitz and Patrick Waelbroeck, “The Effect of Internet Piracy on CD Sales: Cross–Section Evidence,” _CESifo Working Paper Series_ 1122 (January 2004), concluding that Internet piracy accounts for just 22.5 percent of the drop in CD sales. See also Felix Oberholzer and Koleman Strumpf, “The Effect of File–Sharing on Record Sales: An Empirical Analysis,” University of North Carolina (2004) (no statistically significant connection between downloading and drop in sales). Compare Stan J. Liebowitz, “Economists’ Topsy–Turvy View of Piracy,” _Review of Economic Research on Copyright Issues_ 2 (2005): 5–17; Stan J. Liebowitz, “Economists Examine File–Sharing and Music Sales,” _Industrial Organization and the Digital Economy_ (Cambridge, Mass.: MIT Press, 2005); Stan J. Liebowitz, “Testing File–Sharing’s Impact on Music Album Sales in Cities,” _Management Science_, forthcoming.
-fn0316. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at link #19 (last visited January 18, 2008). For a fantastic study of the relationship between artists’ income and digital technologies see Martin Kretschmer, “Artists’ Earning and Copyright: A Review of British and German Music Industry Data in the Context of Digital Technologies,” _First Monday_ 10 (2005), available at link #20.
+fn0316. “The Recording Industry 2006 Piracy Report: Protecting Creativity in Music,” International Federation of the Phonographic Industry (IFPI), available at "$":http://www.ifpi.com/content/library/piracy-report2006.pdf or "$":http://www.webcitation.org/5ajXcvSWM (last visited January 18, 2008). For a fantastic study of the relationship between artists’ income and digital technologies see Martin Kretschmer, “Artists’ Earning and Copyright: A Review of British and German Music Industry Data in the Context of Digital Technologies,” _First Monday_ 10 (2005), available at "$":http://www.firstmonday.org/issues/issue10_1/kretschmer or "$":http://www.webcitation.org/5ajY6hVyn.
 fn0317. Amy Matthew, “The Creative Revolution: Consumers, Artists Lead the Way into New Entertainment World,” _Pueblo Chieftain_, April 29, 2007; “Apple to Give iTunes Users Credit for Full Albums,” _InvesTrend_, March 29, 2007.
 fn0318. Less elegant was the idea of a coin box in the home. I remember as a kid staying in a boarding house in England in the 1970s that had a coin box to operate hot water. A hot bath is one thing, but television is a necessity. The inconvenience of this system must have been staggering. Still, the idea was tested in Palm Springs, California, in the early 1950s, again by Paramount. This system, called telemeter, used scrambled television signals sent over telephone lines. When customers deposited the correct amount of change in the coin box, the telemeter descrambled the signal. The system debuted in 1953, showing a USC–Notre Dame football game (presaging the popular college sports packages now available on satellite TV services) for $1.00 and a first–run Paramount movie, Forever Female, for an additional $1.35. (Meza, _Coming Attractions?_, 83.)
 fn0319. In Napster Inc. Copyright Litigation, 191 F. Supp. 2d 1087 (N.D. Cal. 2002).
-fn0320. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its music be sold with DRM. Peter Sayer, “Sony BMG to Sell DRM–Free Music Downloads Through Stores,” _InfoWorld_, January 7, 2008, available at link #21.
+fn0320. In January 2008 the last of the major labels, Sony BMG, dropped the requirement that its music be sold with DRM. Peter Sayer, “Sony BMG to Sell DRM–Free Music Downloads Through Stores,” _InfoWorld_, January 7, 2008, available at "$":http://www.infoworld.com/article/08/01/07/Sony-BMG-to-sell-DRM-free-music-downloads-through-stores_1.html or "$":http://www.webcitation.org/5ajY1WzMz.
 fn0321. Lessig, _Code 2.0_.
 
 
@@ -2491,31 +2491,31 @@ fn0403. David Bollier, _Brand Name Bullies_ (Hoboken, N.J.: Wiley, 2005), 69.
 fn0404. J. D. Lasica, _Darknet: Hollywood’s War Against the Digital Generation_ (Hoboken, N.J.: Wiley, 2005), 72–73.
 fn0405. Heidi Anderson, “Plugged In,” _Smart Computing_ (November 2000): 90–92.
 fn0406. Benkler, _The Wealth of Networks_, 217.
-fn0407. Mark Lawson, “Berners–Lee on the Read/Write Web,” _BBC News_, August 9, 2005, available at link #22 (last visited July 31, 2007).
-fn0408. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November 26, 2004, available at link #23; David Sifry, “Technorati,” Sifry’s Alerts, November 27, 2002, available at link #24; David Sifry, “Over 100,000 Blogs Served,” Sifry’s Alerts, March 5, 2003, available at link #25; David Sifry, “One Million Weblogs Tracked,” Sifry’s Alerts, September 27, 2003, available at link #26; David Sifry, “State of the Blogosphere,” Sifry’s Alerts, October 10, 2004, available at link #27; “About Us,” Technorati, available at link #28 (last visited July 30, 2007).
-fn0409. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at link #29 (last visited July 23, 2007); David Sifry, “State of the Blogosphere, October 2006,” Technorati, available at link #30 (last visited July 23, 2007).
+fn0407. Mark Lawson, “Berners–Lee on the Read/Write Web,” _BBC News_, August 9, 2005, available at "$":http://news.bbc.co.uk/1/hi/technology/4132752.stm or "$":http://www.webcitation.org/5ajXyXLdG (last visited July 31, 2007).
+fn0408. Niall Kennedy, “Technorati Two Years Later,” Niall Kennedy’s Weblog, November 26, 2004, available at "$":http://www.niallkennedy.com/blog/2004/11/technorati-twoy.html or "$":http://www.webcitation.org/5ajYCVlQ9; David Sifry, “Technorati,” Sifry’s Alerts, November 27, 2002, available at "$":http://www.sifry.com/alerts/archives/000095.html or "$":http://www.webcitation.org/5ajYFUg9T; David Sifry, “Over 100,000 Blogs Served,” Sifry’s Alerts, March 5, 2003, available at "$":http://www.sifry.com/alerts/archives/000129.html or "$":http://www.webcitation.org/5ajYKpT6P; David Sifry, “One Million Weblogs Tracked,” Sifry’s Alerts, September 27, 2003, available at "$":http://www.sifry.com/alerts/archives/000169.html or "$":http://www.webcitation.org/5ajYMPrHz; David Sifry, “State of the Blogosphere,” Sifry’s Alerts, October 10, 2004, available at "$":http://www.sifry.com/alerts/archives/000245.html or "$":http://www.webcitation.org/5ajYO1NuE; “About Us,” Technorati, available at "$":http://www.technorati.com/about/ or "$":http://www.webcitation.org/5ajYPU3jJ (last visited July 30, 2007).
+fn0409. David Sifry, “The State of the Live Web,” Sifry’s Alerts, April 5, 2007, available at "$":http://www.sifry.com/alerts/archives/000493.html or "$":http://www.webcitation.org/5ajYTqSgg (last visited July 23, 2007); David Sifry, “State of the Blogosphere, October 2006,” Technorati, available at "$":http://technorati.com/weblog/2006/11/161.html or "$":http://www.webcitation.org/5ajYW3MSh (last visited July 23, 2007).
 fn0410. Benkler, _The Wealth of Networks_, 217.
-fn0411. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3, 2004, available at link #31.
+fn0411. Thomas Vander Wal, “Off the Top: Folksonomy Entries,” Vanderwal.net, October 3, 2004, available at "$":http://www.vanderwal.net/random/category.php?cat=153 or "$":http://www.webcitation.org/5ajYwoXAu.
 fn0412. Don Tapscott and Anthony D. Williams, _Wikinomics: How Mass Collaboration Changes Everything_ (New York: Portfolio, 2006), 41.
 fn0413. Ibid., 52.
 fn0414. Ibid., 144–45.
 fn0415. Ibid., 42.
-fn0416. “Blogging Basics,” Technorati, available at link #32 (last visited July 23, 2007).
-fn0417. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at link #33 (last visited August 16, 2007).
+fn0416. “Blogging Basics,” Technorati, available at "$":http://technorati.com/help/blogging101.html or "$":http://www.webcitation.org/5ajYzyd0w (last visited July 23, 2007).
+fn0417. David Sifry, “The State of the Live Web, April 2007,” Sifry’s Alerts, available at "$":http://www.sifry.com/alerts/archives/000493.html or "$":http://www.webcitation.org/5aja1qWl8 (last visited August 16, 2007).
 fn0418. Charlene Li, _Social Technographics_ (Cambridge, Mass.: Forrester, 2007), 2.
 fn0419. Benkler, _The Wealth of Networks_, 225–33.
-fn0420. The blog Corporate Influence in the Media tries to document examples of advertisers pressuring publishers and broadcasters. See Anup Shah, _Corporate Influence in the Media_, available at link #34 (last visited August 16, 2007). In 2006 the Center for Media and Democracy released a report detailing a large number of instances in which news organizations broadcast “video news releases” as news without revealing to their audiences that the video was provided by a public relations firm. See Diane Farsetta and Daniel Price, “Fake TV News: Widespread and Undisclosed,” Center for Media and Democracy, April 6, 2006, available at link #35.
+fn0420. The blog Corporate Influence in the Media tries to document examples of advertisers pressuring publishers and broadcasters. See Anup Shah, _Corporate Influence in the Media_, available at "$":http://www.globalissues.org/HumanRights/Media/Corporations/Examples.asp or "$":http://www.webcitation.org/5aja5IOyF (last visited August 16, 2007). In 2006 the Center for Media and Democracy released a report detailing a large number of instances in which news organizations broadcast “video news releases” as news without revealing to their audiences that the video was provided by a public relations firm. See Diane Farsetta and Daniel Price, “Fake TV News: Widespread and Undisclosed,” Center for Media and Democracy, April 6, 2006, available at "$":http://www.prwatch.org/pdfs/FakeTVNews_Apr2006Rpt.pdf or "$":http://www.webcitation.org/5ajaHNEFh.
 fn0421. Lawrence Lessig, “The People Own Ideas,” _Technology Review_ (June 2005): 46–48.
 fn0422. “To the Point; Trends & Innovations,” _Investor’s Business Daily_, September 26, 2006.
 fn0423. Ibid.
 fn0424. Gail Koch, “ ‘800–Pound Gorilla’ Still Rules for Most,” _Star Press_ (Muncie, Ind.), September 28, 2005.
 fn0425. Xinhua News Agency, “Census Bureau: Americans to Spend More Time on Media Next Year,” December 15, 2006.
 fn0426. U.S. Fed News, “American Time Use Survey—2006 Results,” _U.S. Fed News_, June 28, 2007.
-fn0427. This is not to say that before the Internet, there was nothing like this RW–media culture. Indeed, for almost a half century, beginning with the Star Trek series, there has been a rich “fan fiction” culture, in which fans take popular culture and remix it. Rebecca Tushnet, “Legal Fictions: Copyright, Fan Fiction, and a New Common Law,” _Loyola of Los Angeles Entertainment Law Journal_ 17 (1997): 655, citing Henry Jenkins and John Tulloch, eds., _‘At Other Times, Like Females’: Gender and Star Trek Fan Fiction_, in _Science Fiction Audiences: Watching Dr. Who and Star Trek_ (London: Routledge, 1995), 196. Some trace the history of fan fiction back even earlier, to “metanovels” written in response to classic works of fiction such as Pride and Prejudice (Sharon Cumberland, “Private Uses of Cyberspace: Women, Desire and Fan Culture,” in _Rethinking Media Change: The Aesthetics of Transition_, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 261. An Internet commentator known as Super Cat argues that the first fan fiction was John Lydgate’s _The Siege of Thebes_, a continuation of The Canterbury Tales circa 1421: Super Cat, “A (Very) Brief History of Fanfic,” Fanfic Symposium, available at link #36 (last visited August 11, 2007). Many believe that the contemporary online fan fiction community is predominantly composed of women, and the genre addresses topics traditionally marginalized in the commercial media, including “the status of women in society, women’s ability to express desire, [and] the blurring of stereotyped gender lines” (Cumberland, “Private Uses,” 265). In addition to traditional textual fan fiction, cyberspace has spawned an active culture of fan filmmaking. See Henry Jenkins, “Quentin Tarantino’s Star Wars? Digital Cinema, Media Convergence, and Participatory Culture,” in _Rethinking Media Change: The Aesthetics of Transition_, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 281–84 (offering a case study of _Star Wars_ fan fiction, which began in textual form with the first official film, and developed into digital film distributed on independent creators’ Web sites). There is a comprehensive study of fan fiction in chapters 5–8 of Henry Jenkins, _Textual Poachers: Television Fans and Participatory Culture_ (New York: Routledge, 1992).
+fn0427. This is not to say that before the Internet, there was nothing like this RW–media culture. Indeed, for almost a half century, beginning with the Star Trek series, there has been a rich “fan fiction” culture, in which fans take popular culture and remix it. Rebecca Tushnet, “Legal Fictions: Copyright, Fan Fiction, and a New Common Law,” _Loyola of Los Angeles Entertainment Law Journal_ 17 (1997): 655, citing Henry Jenkins and John Tulloch, eds., _‘At Other Times, Like Females’: Gender and Star Trek Fan Fiction_, in _Science Fiction Audiences: Watching Dr. Who and Star Trek_ (London: Routledge, 1995), 196. Some trace the history of fan fiction back even earlier, to “metanovels” written in response to classic works of fiction such as Pride and Prejudice (Sharon Cumberland, “Private Uses of Cyberspace: Women, Desire and Fan Culture,” in _Rethinking Media Change: The Aesthetics of Transition_, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 261. An Internet commentator known as Super Cat argues that the first fan fiction was John Lydgate’s _The Siege of Thebes_, a continuation of The Canterbury Tales circa 1421: Super Cat, “A (Very) Brief History of Fanfic,” Fanfic Symposium, available at "$":http://www.trickster.org/symposium/symp5.htm or "$":www.webcitation.org/5ajaRYxLf (last visited August 11, 2007). Many believe that the contemporary online fan fiction community is predominantly composed of women, and the genre addresses topics traditionally marginalized in the commercial media, including “the status of women in society, women’s ability to express desire, [and] the blurring of stereotyped gender lines” (Cumberland, “Private Uses,” 265). In addition to traditional textual fan fiction, cyberspace has spawned an active culture of fan filmmaking. See Henry Jenkins, “Quentin Tarantino’s Star Wars? Digital Cinema, Media Convergence, and Participatory Culture,” in _Rethinking Media Change: The Aesthetics of Transition_, ed. David Thorburn and Henry Jenkins (Cambridge, Mass.: MIT Press, 2003), 281–84 (offering a case study of _Star Wars_ fan fiction, which began in textual form with the first official film, and developed into digital film distributed on independent creators’ Web sites). There is a comprehensive study of fan fiction in chapters 5–8 of Henry Jenkins, _Textual Poachers: Television Fans and Participatory Culture_ (New York: Routledge, 1992).
 fn0428. All quotes from Mark Hosler taken from an interview conducted May 1, 2007, by telephone.
 fn0429. All quotes from Johan Söderberg taken from an interview conducted February 15, 2007, by telephone.
 fn0430. Telephone interview with Don Joyce, March 20, 2007.
-fn0431. “Misperceptions, the Media, and the Iraq War,” Program on International Policy Attitudes and Knowledge Networks, available at link #37 (last visited January 18, 2008).
+fn0431. “Misperceptions, the Media, and the Iraq War,” Program on International Policy Attitudes and Knowledge Networks, available at "$":http://65.109.167.118/pipa/pdf/oct03/IraqMedia_Oct03_rpt.pdf or "$":http://www.webcitation.org/5ajaSs50e (last visited January 18, 2008).
 fn0432. Charles Krauthammer, “A Vacation Bush Deserves,” _Washington Post_, August 10, 2001.
 fn0433. All quotes from Victor Stone taken from an interview conducted February 15, 2007, by telephone.
 fn0434. All quotes from Mimi Ito taken from an interview conducted January 24, 2007, by telephone. For more, see Mimi Ito, “Japanese Media Mixes and Amateur Cultural Exchange,” in _Digital Generations_, ed. David Buckingham and Rebekah Willett (Mahwah, N.J.: Lawrence Erlbaum, 2006), 49–66.
@@ -2527,19 +2527,19 @@ fn0438. Ibid., 182.
 
 
 fn0501. An argument “in favor” is certainly not an argument anyone should consider conclusive.  Free speech values should still weigh in the balance, driving regulation away from restrictive measures when alternative, nonrestrictive alternatives exist.
-fn0502. Andrew Odlyzko, “Content Is Not King,” _First Monday_ 6 (2001), available at link #38.
+fn0502. Andrew Odlyzko, “Content Is Not King,” _First Monday_ 6 (2001), available at "$":http://www.firstmonday.org/issues/issue6_2/odlyzko/ or "$":http://lessig.org/content/columns/pdfs/38.pdf.
 fn0503. Stewart Baker, “Exclusionary Rules,” _Wall Street Journal_, March 26, 2004.
 fn0504. Andrew Keen, _The Cult of the Amateur_ (New York: Doubleday, 2007), 64.
 fn0505. Ibid., 27.
 fn0506. Ibid., 131.
 fn0507. Ibid., 15.
-fn0508. I’ve enumerated some errors on my blog. See Lawrence Lessig, “Keen’s ‘The Cult of the Amateur’: BRILLIANT!” Lessig Blog, available at link #39.
+fn0508. I’ve enumerated some errors on my blog. See Lawrence Lessig, “Keen’s ‘The Cult of the Amateur’: BRILLIANT!” Lessig Blog, available at "$":http://www.lessig.org/blog/2007/05/keens_the_cult_of_the_amateur.html or "$":http://www.webcitation.org/5ajaZbTYe.
 fn0509. Keen, _The Cult of the Amateur_, 27.
-fn0510. New York Institute for the Humanities and NYU Humanities Council, “The Comedies of Fair U$e,” Internet Archive, available at link #40 (last visited July 30, 2007); Joy Garnett, “Full Program Audio on Archive.org,” Comedies of Fair U$e, available at link #41 (last visited July 30, 2007).
+fn0510. New York Institute for the Humanities and NYU Humanities Council, “The Comedies of Fair U$e,” Internet Archive, available at "$":http://www.archive.org/details/NYIH_Comedies_of_Fair_Use or "$":http://www.webcitation.org/5ajadHMze (last visited July 30, 2007); Joy Garnett, “Full Program Audio on Archive.org,” Comedies of Fair U$e, available at "$":http://newsgrist.typepad.com/comediesoffairuse/ or "$":http://www.webcitation.org/5ajaelmjd (last visited July 30, 2007).
 fn0511. Steven Johnson, _Everything Bad Is Good for You: How Today’s Popular Culture Is Actually Making Us Smarter_ (New York: Riverhead, 2005).
 fn0512. Jenkins, _Convergence Culture_, 103–4.
-fn0513. A real problem for readers of his last novel, _The Mystery of Edwin Drood_ (1870). Dickens died before he completed the story, even though serial chapters were already being printed. Joel J. Brattin, “Dickens and Serial Publication,” PBS, available at link #42 (last visited August 16, 2007).
-fn0514. Christopher Lydon, “Ecstasy of Influence—Interview with Jonathan Lethem, Siva Vaidhyanathan, Mark Hosler, and Mike Doughty,” Open Source with Christopher Lydon, February 2, 2007, available at link # 43.
+fn0513. A real problem for readers of his last novel, _The Mystery of Edwin Drood_ (1870). Dickens died before he completed the story, even though serial chapters were already being printed. Joel J. Brattin, “Dickens and Serial Publication,” PBS, available at "$":http://www.pbs.org/wnet/dickens/life_publication.html or "$":http://www.webcitation.org/5ajahuQuJ (last visited August 16, 2007).
+fn0514. Christopher Lydon, “Ecstasy of Influence—Interview with Jonathan Lethem, Siva Vaidhyanathan, Mark Hosler, and Mike Doughty,” Open Source with Christopher Lydon, February 2, 2007, available at "$":http://www.radioopensource.org/the-ecstasy-of-influence/ or "$":http://www.webcitation.org/5ajakW5Rm.
 fn0515. Ithiel de Sola Pool, _Technologies Without Boundaries: On Telecommunications in a Global Age_ (Cambridge, Mass.: Harvard University Press, 1990), 121.
 fn0516. The standard of intermediate First Amendment review permits speech regulation only “[1] if it advances important governmental interests unrelated to the suppression of free speech and [2] does not burden substantially more speech than necessary to further those interests.” _Turner Broad. Sys. v. FCC_, 520 U.S. 180, 189 (1997); see also _United States v. O’Brien_, 391 U.S. 367, 377 (1968); _Ward v. Rock Against Racism_, 491 U.S. 781, 791 (1989) (applying intermediate scrutiny to time, place, and manner regulation of speech in the public forum); _San Francisco Arts & Athletics Inc. v. U.S. Olympic Comm._, 483 U.S. 522, 537 (1987) (applying _O’Brien_ review to a law protecting the word “Olympic” under trademark law).
 fn0517. Work from 1923 on is potentially subject to copyright. Whether in fact a particular work is copyrighted depends upon whether the work satisfied certain formalities.
@@ -2548,49 +2548,49 @@ fn0519. R. Anthony Reese, “Innocent Infringement in U.S. Copyright Law: A Hist
 fn0520. V. Clapp, _Copyright—A Librarian’s View, Prepared for the National Advisory Commission on Libraries_ (Washington D.C.: Copyright Committee, Association of Research Libraries, 1968).
 fn0521. This important though obscure story about the unintended expansion of the scope of copyright is told best by L. Ray Patterson, “Free Speech, Copyright, and Fair Use,” _Vanderbilt Law Review_ 40 (1987): 40–43.
 fn0522. Paul Goldstein, _Copyright’s Highway: From Gutenberg to the Celestial Jukebox_ (Stanford, Calif.: Stanford University Press, 2003).
-fn0523. Office of Technology Assessment, _Copyright and Home Copying: Technology Challenges the Law_ (Washington, D.C.: US Government Printing Office, 1989), 145–47, available at link #44.
-fn0524. Wikipedia contributors, “Jazz,” Wikipedia: The Free Encyclopedia, available at link #45 (last visited July 30, 2007).
-fn0525. Wikipedia contributors, “Louis Armstrong,” Wikipedia: The Free Encyclopedia, available at link #46 (last visited July 30, 2007).
+fn0523. Office of Technology Assessment, _Copyright and Home Copying: Technology Challenges the Law_ (Washington, D.C.: US Government Printing Office, 1989), 145–47, available at "$":http://govinfo.library.unt.edu/ota/Ota_2/DATA/1989/8910.PDF or "$":http://www.webcitation.org/5ajanRAmy.
+fn0524. Wikipedia contributors, “Jazz,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Jazz or "$":http://www.webcitation.org/5ajboZRGA (last visited July 30, 2007).
+fn0525. Wikipedia contributors, “Louis Armstrong,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Louis_Armstrong or "$":http://www.webcitation.org/5ajbtqS9m (last visited July 30, 2007).
 fn0526. Fairly relaxed, not completely. There is an important tension in jazz created by the way  the derivative right functions. Because jazz is in essence improvisation, it must build  upon some other work. But because copyright law treats this other work as expression,  rather than as an idea, the improvisation requires permission from the underlying copyright owner. In practice, jazz musicians almost never seek that permission, instead relying upon the mechanical license to secure permission to record the underlying work.  That license, however, doesn’t cover derivatives. For a penetrating analysis of these questions, see Anonymous, “Jazz Has Got Copyright Law & That Ain’t Good,” _Harvard Law  Review_ 118 (2005), 1940.
 fn0527. _Bridgeport Music Inc. v. Dimension Films_, 383 F.3d 390 (6th Cir. 2004).
 fn0528. William W. Fisher, _Promises to Keep_ (Stanford, Calif.: Stanford University Press, 2004).
 fn0529. Peter Lauria, “File–$haring,” New York Post, June 25, 2007.
 fn0530. _Metro–Goldwyn–Mayer Studios Inc. v. Grokster Ltd._, 545 U.S. 913 (2005).
-fn0531. Mitch Bainwol and Cary Sherman, “Explaining the Crackdown on Student Downloading,” _Inside Higher Ed_, March 15, 2007, available at link #47.
+fn0531. Mitch Bainwol and Cary Sherman, “Explaining the Crackdown on Student Downloading,” _Inside Higher Ed_, March 15, 2007, available at "$":http://insidehighered.com/views/2007/03/15/sherman or "$":http://www.webcitation.org/5ajbyyFWo.
 fn0532. I also stand by my view that the harms caused by p2p file sharing are overstated by the  industry. Mark Cooper has now added to this debate. As he has argued effectively, much  of the loss in sales comes from people buying one or two tracks from an album. LPs forced  those tracks to be bundled before; digital technology now permits them to be separate. It  makes no sense to count that “loss” as a harm to society, since it simply represents people  choosing to buy what they want. See Mark Cooper, _Digital Downloading of Music_ (Washington, D.C.: Consumer Federation of America, 2007).
 fn0533. Bainwol and Sherman, “Explaining the Crackdown.”
 
 
 
 fn0601. Yochai Benkler, “Sharing Nicely: On Shareable Goods and the Emergence of Sharing as Modality of Economic Production,” _Yale Law Journal_ 114 (2004): 273–358.
-fn0602. Ronald E. Yates, “Internet–Related Manager Tops List of Hottest Jobs; Position Is So New and in Such Demand That Candidates’ Lack of Degrees or Advanced Age Are Not Seen as Deterrents,” _Sun–Sentinel_, February 5, 1996. Robert D. Atkinson and Daniel K. Correa, “The Digital Economy—Internet Domain Names,” _The 2007 State New Economy Index_ (2007): 40, available at link #48.
-fn0603. U.S. Census Bureau, “E–Stats–Measuring the Electronic Economy,” available at link #49.
+fn0602. Ronald E. Yates, “Internet–Related Manager Tops List of Hottest Jobs; Position Is So New and in Such Demand That Candidates’ Lack of Degrees or Advanced Age Are Not Seen as Deterrents,” _Sun–Sentinel_, February 5, 1996. Robert D. Atkinson and Daniel K. Correa, “The Digital Economy—Internet Domain Names,” _The 2007 State New Economy Index_ (2007): 40, available at "$":http://www.kauffman.org/pdf/2007_State_Index.pdf or "$":http://www.webcitation.org/5ajc2blGY.
+fn0603. U.S. Census Bureau, “E–Stats–Measuring the Electronic Economy,” available at "$":http://www.census.gov/eos/www/2005/2005reportfinal.pdf or "$":http://www.webcitation.org/5ajc5ctKa.
 fn0604. _Sony Corp. v. Universal City Studios_, 464 U.S. 417 (1984).
-fn0605. See Julie Niederhoff, “Video Rental Developments and the Supply Chain: Netflix, Inc.,” Washington University, St. Louis (2002); Michael K. Mills and Jon Silver, “Analysing the Effect of Digital Technology on Channel Strategy, Power and Disintermediation in the Home Video Market: The Demise of the Video Store?” Video Technology magazine (February 2005); IRS, “Retail Industry ATG—Chapter 3: Examination Techniques for Specific Industries (Video/DVD Rental Business),” Small Business and Self–Employed One–Stop Resource, August 2005, available at link #50; “Videotape Rental—Background and Development,” All Business, available at link #51; “Videotape Rental—Current Conditions,” All Business, available at link #52.
-fn0606. Hoover’s Inc., “Blockbuster, Inc.,” Answers.com, available at link #53 (last visited August 7, 2007).
-fn0607. Wikipedia contributors, “Blockbuster, Inc.” Wikipedia: The Free Encyclopedia, available at link #54 (last visited July 31, 2007).
-fn0608. Keith Regan, “Netflix Taking Over Wal–Mart’s Online DVD Rental Business,” E–Commerce Times, May 19, 2005, available at link #55 (last visited July 5, 2007); see also Phillip Torrone, “Netflix, Open Up or Die ... ,” Engadget, July 19, 2004, available at link #56.
-fn0609. Hoover’s Inc., “Amazon.com,” Answers.com, available at link #57 (last visited July 31, 2007). These numbers reflect sales only. According to reports, Amazon’s net deficit is still high—$2 billion as of 2005.
-fn0610. Ibid., available at link #58 (last visited July 31, 2007).
-fn0611. Wikipedia contributors, “Larry Page,” Wikipedia: The Free Encyclopedia, available at link #59 (last visited July 31, 2007).
-fn0612. Verne Kopytoff, “Google Shares Top $400: Search Engine No. 3 in Market Cap Among Firms in Bay Area,” _San Francisco Chronicle_, November 18, 2005; Yahoo! Finance, “GOOG: Key Statistics for Google Inc,” Capital IQ, available at link #60 (last visited July 5, 2007).
+fn0605. See Julie Niederhoff, “Video Rental Developments and the Supply Chain: Netflix, Inc.,” Washington University, St. Louis (2002); Michael K. Mills and Jon Silver, “Analysing the Effect of Digital Technology on Channel Strategy, Power and Disintermediation in the Home Video Market: The Demise of the Video Store?” Video Technology magazine (February 2005); IRS, “Retail Industry ATG—Chapter 3: Examination Techniques for Specific Industries (Video/DVD Rental Business),” Small Business and Self–Employed One–Stop Resource, August 2005, available at "$":http://www.irs.gov/businesses/small/article/0,,id=141492,00.html or "$":http://www.webcitation.org/5ajc8vPa4; “Videotape Rental—Background and Development,” All Business, available at "$":http://www.allbusiness.com/motion-pictures/video-tape-rental-video/3780141-4.html or "$":http://www.webcitation.org/5ajcBYemD; “Videotape Rental—Current Conditions,” All Business, available at "$":http://www.allbusiness.com/motion-pictures/video-tape-rental-video/3780141-5.html or "$":http://www.webcitation.org/5ajcIXpiX.
+fn0606. Hoover’s Inc., “Blockbuster, Inc.,” Answers.com, available at "$":http://www.answers.com/topic/blockbuster-inc?cat=biz-fin or "$":http://www.webcitation.org/5ajcZdVJP (last visited August 7, 2007).
+fn0607. Wikipedia contributors, “Blockbuster, Inc.” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Blockbuster_video or "$":http://www.webcitation.org/5ajd14g6C (last visited July 31, 2007).
+fn0608. Keith Regan, “Netflix Taking Over Wal–Mart’s Online DVD Rental Business,” E–Commerce Times, May 19, 2005, available at "$":http://www.technewsworld.com/story/43221.html or "$":http://www.webcitation.org/5ajkQKkSG (last visited July 5, 2007); see also Phillip Torrone, “Netflix, Open Up or Die ... ,” Engadget, July 19, 2004, available at "$":http://features.engadget.com/2004/07/19/netflix-open-up-or-die/ or "$":http://www.webcitation.org/5ajkVMoch.
+fn0609. Hoover’s Inc., “Amazon.com,” Answers.com, available at "$":http://www.answers.com/topic/amazon-com or "$":http://www.webcitation.org/5ajkWo308 (last visited July 31, 2007). These numbers reflect sales only. According to reports, Amazon’s net deficit is still high—$2 billion as of 2005.
+fn0610. Ibid., available at "$":http://en.wikipedia.org/wiki/Amazon.com or "$":http://www.webcitation.org/5ajkbpJ2l (last visited July 31, 2007).
+fn0611. Wikipedia contributors, “Larry Page,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Larry_Page or "$":http://www.webcitation.org/5ajke2fEd (last visited July 31, 2007).
+fn0612. Verne Kopytoff, “Google Shares Top $400: Search Engine No. 3 in Market Cap Among Firms in Bay Area,” _San Francisco Chronicle_, November 18, 2005; Yahoo! Finance, “GOOG: Key Statistics for Google Inc,” Capital IQ, available at "$":http://finance.yahoo.com/q/ks?s=Goog or "$":http://www.webcitation.org/5ajkh4sIG (last visited July 5, 2007).
 fn0613. Keen, _The Cult of the Amateur_, 135.
 fn0614. The point was made long before by Nicholas Negroponte. “A best–seller in 1990, Nicholas Negroponte’s Being Digital drew a sharp contrast between ‘passive old media’ and ‘interactive new media,’ predicting the collapse of broadcast networks in favor of an era of narrowcasting and niche media on demand: ‘What will happen to broadcast television over the next five years is so phenomenal that it’s difficult to comprehend.’” Jenkins, _Convergence Culture_, 5.
 fn0615. Chris Anderson, _The Long Tail_ (New York: Hyperion, 2006), 23.
-fn0616. Alan Cohen, “The Great Race; No Startup Has Cashed In on the DVD’s Rapid Growth More Than Netflix. Now Blockbuster and Wal–Mart Want In. Can It Outrun Its Big Rivals?,” _Fortune Small Business_, December 2002–January 2003. “Media Center,” Netflix, available at link #61 (last visited April 1, 2008).
+fn0616. Alan Cohen, “The Great Race; No Startup Has Cashed In on the DVD’s Rapid Growth More Than Netflix. Now Blockbuster and Wal–Mart Want In. Can It Outrun Its Big Rivals?,” _Fortune Small Business_, December 2002–January 2003. “Media Center,” Netflix, available at "$":http://www.netflix.com/MediaCenter or "$":http://lessig.org/content/columns/pdfs/61.pdf (last visited April 1, 2008).
 fn0617. See Erik Brynjolfsson, Yu Jeffrey Hu, and Duncan Simester, “Goodbye Pareto Principle, Hello Long Tail: The Effect of Search Costs on the Concentration of Product Sales,” MIT Center for Digital Business Working Paper (2007); Paul L. Caron, “The Long Tail of Legal Scholarship,” Yale Law Journal 116 Pocket Part 38 (2006); Anita Elberse and Felix Oberholzer–Gee, “Superstars and Underdogs: An Examination of the Long Tail Phenomenon in Video Sales,” Harvard Business School No. 07–015 Working Paper Series; Indiana Resource Sharing Task Force, “Wagging the Long Tail: Sharing More of Less; Recommendations for Enhancing Resource Sharing in Indiana,” White Paper (2007); Anindya Ghose and Bin Gu, “Search Costs, Demand Structure and Long Tail in Electronic Markets: Theory and Evidence,” NET Institute Working Paper No. 06–19 (2006); Teruyasu Murakami, “The Long Tail and the Lofty Head of Video Content: The Possibilities of ‘Convergent Broadcasting,’” Nomura Research Institute, NRI Papers No. 113 (2007).
 fn0618. Lee Gomes, “It May Be a Long Time Before the Long Tail Is Wagging the Web,” _Wall Street Journal_, July 26, 2006.
 fn0619. All quotes from Robert Young taken from an interview conducted April 26, 2007, by telephone.
 fn0620. Free as in free speech is different. Robert Young has been a strong supporter of Creative Commons.
 fn0621. I am grateful to Tim O’Reilly for getting me to see the importance of this point.
-fn0622. Dan Bricklin, “The Cornucopia of the Commons: How to Get Volunteer Labor,” Dan Bricklin’s Web site, August 7, 2000, available at link #62.
+fn0622. Dan Bricklin, “The Cornucopia of the Commons: How to Get Volunteer Labor,” Dan Bricklin’s Web site, August 7, 2000, available at "$":http://www.bricklin.com/cornucopia.htm or "$":http://www.webcitation.org/5ajkogxRX.
 fn0623. Linked from Bricklin, “Cornucopia of the Commons.”
-fn0624. Dan Bricklin, “Cornucopia of the Commons,” available at link #63.
-fn0625. See “Google Defies US Over Search Data,” BBC News, January 20, 2006, available at link #64; Maryclaire Dale, “Judge Throws Out Internet Blocking Law: Ruling States Parents Must Protect Children Through Less Restrictive Means,” MSNBC, March 22, 2007, available at link #65. Google prevailed in its effort to restrict the government’s search. See _Gonzales v. Google_, 234 F.R.D. 674 (N.D. Cal. 2006).
-fn0626. Phillip Torrone, “Netflix, Open Up or Die ... ,” available at link #66.
-fn0627. Netflix, Netflix Prize, available at link #67 (last visited July 2, 2007).
+fn0624. Dan Bricklin, “Cornucopia of the Commons,” available at "$":http://www.bricklin.com/cornucopia.htm or "$":http://www.webcitation.org/5ajkogxRX.
+fn0625. See “Google Defies US Over Search Data,” BBC News, January 20, 2006, available at "$":http://news.bbc.co.uk/2/hi/technology/4630694.stm or "$":http://www.webcitation.org/5ajkrdQol; Maryclaire Dale, “Judge Throws Out Internet Blocking Law: Ruling States Parents Must Protect Children Through Less Restrictive Means,” MSNBC, March 22, 2007, available at "$":http://www.msnbc.msn.com/id/17736176/ or "$":http://www.webcitation.org/5ajktiy2a. Google prevailed in its effort to restrict the government’s search. See _Gonzales v. Google_, 234 F.R.D. 674 (N.D. Cal. 2006).
+fn0626. Phillip Torrone, “Netflix, Open Up or Die ... ,” available at "$":http://features.engadget.com/2004/07/19/netflix-open-up-or-die/ or "$":http://www.webcitation.org/5ajkw2LOj.
+fn0627. Netflix, Netflix Prize, available at "$":http://www.netflixprize.com/index or "$":http://www.webcitation.org/5ajkxH9LD (last visited July 2, 2007).
 fn0628. Tapscott and Williams, _Wikinomics_, 183.
-fn0629. See Tim O’Reilly, “What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software,” O’Reilly, September 30, 2005, available at link #68. As Mary Madden summarizes the idea, it is “utilizing collective intelligence, providing network–enabled interactive services, giving users control over their own data.” Mary Madden and Susannah Fox, Riding the Waves of Web 2.0 (Washington, D.C.: Pew Internet Project, 2006), 1.
+fn0629. See Tim O’Reilly, “What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software,” O’Reilly, September 30, 2005, available at "$":http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html or "$":http://www.webcitation.org/5ajl0zC68. As Mary Madden summarizes the idea, it is “utilizing collective intelligence, providing network–enabled interactive services, giving users control over their own data.” Mary Madden and Susannah Fox, Riding the Waves of Web 2.0 (Washington, D.C.: Pew Internet Project, 2006), 1.
 fn0630. Ronald H. Coase, “The Nature of the Firm,” Economica 4 (1937): 386–405.
 fn0631. Benkler, _The Wealth of Networks_, 59–60.
 fn0632. Lawrence Lessig, _The Future of Ideas_ (New York: Random House, 2001) 35–36.
@@ -2608,40 +2608,40 @@ fn0643. Ibid., 324; see also at 323, describing the work of Bruno Frey.
 fn0644. Increasingly the concern among record company executives is with social sharing. See Jason Pontin, “A Social–Networking Service with a Velvet Rope,” _New York Times_, July 29, 2007.
 fn0645. See Eric A. von Hippel and Karim Lakhani, “How Open Source Software Works: ‘Free’ User–to–User Assistance,” _Research Policy_ 32 (2003): 923–43.
 bq. Kollock (1999) discusses four possible motivations to contribute public goods online. Given that his focus is incentives to put online something that has already been created, his list does not include any direct benefit from developing the thing itself—either the use value or the joy of creating the work product. His list of motives to contribute does include the beneficial effect of enhancements to one’s reputation. A second potential motivator he sees is expectations of reciprocity. Both specific and generalized reciprocity can reward providing something of value to another. When information providers do not know each other, as is often the case for participants in open source software projects, the kind of reciprocity that is relevant is called “generalized” exchange (Ekeh, 1974)... The third motivator posited by Kollock is that the act of contributing can have a positive effect on contributors’ sense of “efficacy”—a sense that they have some effect on the environment (Bandura, 1995). Fourth and finally, he notes that contributors may be motivated by their attachment or commitment to a particular open source project or group. In other words, the good of the group enters into the utility equation of the individual contributor. (Ibid., 927.)
-fn0646. Or so the terms of service for Skype say. See “Skype End User License Agreement—Article 4 Utilization of Your Computer,” Skype, available at link #69 (last visited July 31, 2007).
-fn0647. Daniel H. Pink, “The Book Stops Here,” Wired, March 2005, available at link #70.
+fn0646. Or so the terms of service for Skype say. See “Skype End User License Agreement—Article 4 Utilization of Your Computer,” Skype, available at "$":http://www.skype.com/legal/eula/ or "$":http://www.webcitation.org/5ajl6UCzG (last visited July 31, 2007).
+fn0647. Daniel H. Pink, “The Book Stops Here,” Wired, March 2005, available at "$":http://www.wired.com/wired/archive/13.03/wiki.html?pg=3 or "$":http://www.webcitation.org/5ajlANfr4.
 fn0648. All quotes from Jimmy Wales taken from an in–person interview conducted May 4, 2007.
-fn0649. Seth Anthony, “Contribution Patterns Among Active Wikipedians: Finding and Keeping Content Creators,” Wikimania Proceedings SA1 (2006), as summarized at link #71 (last visited August 20, 2007).
-fn0650. Aaron Swartz, “Who Writes Wikipedia,” available at link #72 (last visited August 20, 2007).
-fn0651. “Meetings/February 7, 2005,” Wikimedia Foundation, available at link #73 (last visited July 31, 2007).
+fn0649. Seth Anthony, “Contribution Patterns Among Active Wikipedians: Finding and Keeping Content Creators,” Wikimania Proceedings SA1 (2006), as summarized at "$":http://upload.wikimedia.org/wikipedia/wikimania2006/7/71/SA1_slides.pdf or "$":http://www.webcitation.org/5ajlF9cwT (last visited August 20, 2007).
+fn0650. Aaron Swartz, “Who Writes Wikipedia,” available at "$":http://www.aaronsw.com/2002/whowriteswikipedia/ or "$":http://www.webcitation.org/5ajlL4B0Y (last visited August 20, 2007).
+fn0651. “Meetings/February 7, 2005,” Wikimedia Foundation, available at "$":http://wikimediafoundation.org/wiki/Meetings/February_7%2C_2005 or "$":http://www.webcitation.org/5ajlV3666 (last visited July 31, 2007).
 fn0652. Tapscott and Williams, _Wikinomics_, 72.
 fn0653. Ibid.
 fn0654. Noam Cohen, “The Latest on Virginia Tech, from Wikipedia,” _New York Times_, April 23, 2007.
 fn0655. Ibid.
 fn0656. Robert Young and Wendy Goldman Rohm, _Under the Radar: How Red Hat Changed the Software Business—and Took Microsoft by Surprise_ (Scottsdale, Ariz.: Coriolis Group Books, 1999), 110.
-fn0657. Netcraft, “Reports—What Is the Market Share of the Different Servers?” Netcraft—Web Server Survey, available at link #74 (last visited July 31, 2007): follow monthly “Index” link for November 1996–present; follow monthly “ALL” link for August 1995–October 1996.
+fn0657. Netcraft, “Reports—What Is the Market Share of the Different Servers?” Netcraft—Web Server Survey, available at "$":http://survey.netcraft.com/Reports/ or "$":http://www.webcitation.org/5ajlo23nS (last visited July 31, 2007): follow monthly “Index” link for November 1996–present; follow monthly “ALL” link for August 1995–October 1996.
 fn0658. Steven Weber, _The Success of Open Source_ (Cambridge, Mass.: Harvard University Press, 2004), 234.
 fn0659. Scott E. Page, _The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies_ (Princeton, N.J.: Princeton University Press, 2007).
-fn0660. Wikipedia contributors, “Project Gutenberg,” Wikipedia: The Free Encyclopedia, available at link #75 (last visited October 10, 2007).
-fn0661. Ibid., available at link #76 (last visited October 10, 2007).
-fn0662. “Beginning Proofreaders’ Frequently Asked Questions,” Distributed Proofreaders, available at link #77 (last visited July 31, 2007).
-fn0663. Wikpedia contributors, “SETIαhome,” Wikipedia: The Free Encyclopedia, available at link #78 (last visited August 20, 2007). See also Benkler, “Sharing Nicely,” 275.
-fn0664. Wikpedia contributors, “EinsteinαHome,” Wikipedia: The Free Encyclopedia, available at link #79 (last visited August 20, 2007).
-fn0665. “About the Internet Archive,” Internet Archive, available at link #80 (last visited July 31, 2007).
+fn0660. Wikipedia contributors, “Project Gutenberg,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Project_gutenberg or "$":http://www.webcitation.org/5ajm6y3hJ (last visited October 10, 2007).
+fn0661. Ibid., available at "$":http://en.wikipedia.org/wiki/Project_gutenberg or "$":http://www.webcitation.org/5ajm6y3hJ (last visited October 10, 2007).
+fn0662. “Beginning Proofreaders’ Frequently Asked Questions,” Distributed Proofreaders, available at "$":http://www.pgdp.net/c/faq/ProoferFAQ.php or "$":http://www.webcitation.org/5ajmEppgt (last visited July 31, 2007).
+fn0663. Wikpedia contributors, “SETIαhome,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/SETI@home or "$":http://www.webcitation.org/5ajmGaR1K (last visited August 20, 2007). See also Benkler, “Sharing Nicely,” 275.
+fn0664. Wikpedia contributors, “EinsteinαHome,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Einstein%40home or "$":href="http://www.webcitation.org/5ajmJFU5U (last visited August 20, 2007).
+fn0665. “About the Internet Archive,” Internet Archive, available at "$":http://www.archive.org/about/about.php or "$":http://www.webcitation.org/5ajmL1uiH (last visited July 31, 2007).
 fn0666. All quotes from Brewster Kahle taken from an interview conducted January 24, 2007, by telephone.
-fn0667. NASA Ames, “Welcome to the Clickworkers Study,” Clickworkers, available at link #81 (last visited July 31, 2007).
-fn0668. B. Kanefsky, N. G. Barlow, and V. C. Gulick, “Can Distributed Volunteers Accomplish Massive Data Analysis Tasks,” Thirty–second Annual Lunar and Planetary Science Conference 1272 (2001), available at link #82.
-fn0669. Ibid., available at link #83.
-fn0670. Ibid., available at link #84.
+fn0667. NASA Ames, “Welcome to the Clickworkers Study,” Clickworkers, available at "$":http://clickworkers.arc.nasa.gov/top or "$":http://www.webcitation.org/5ajmM9Qfz (last visited July 31, 2007).
+fn0668. B. Kanefsky, N. G. Barlow, and V. C. Gulick, “Can Distributed Volunteers Accomplish Massive Data Analysis Tasks,” Thirty–second Annual Lunar and Planetary Science Conference 1272 (2001), available at "$":http://clickworkers.arc.nasa.gov/documents/abstract.pdf or "$":http://www.webcitation.org/5ajmSA0mB.
+fn0669. Ibid., available at "$":http://clickworkers.arc.nasa.gov/documents/abstract.pdf or "$":http://www.webcitation.org/5ajmSA0mB.
+fn0670. Ibid., available at "$":http://clickworkers.arc.nasa.gov/documents/abstract.pdf or "$":http://www.webcitation.org/5ajmSA0mB.
 fn0671. Benkler, _The Wealth of Networks_, 69.
-fn0672. “Let Data Speak to Data,” _Nature_ 438 (2005), available at link #85 (last visited July 31, 2007), cited in Tapscott and Williams, _Wikinomics_, 159.
-fn0673. Ibid., available at link #86 (last visited July 31, 2007).
-fn0674. Michael W. Vannier and Ronald M. Summers, “Sharing Images,” _Radiology_ 228 (2003), available at link #87.
-fn0675. U.S. National Virtual Observatory, available at link #88 (last visited July 31, 2007).
-fn0676. “About the Open Directory Project,” Open Directory Project, available at link #89 (last visited July 11, 2007).
-fn0677. “About Open Source Food,” Open Source Food, available at link #90 (last visited July 11, 2007).
+fn0672. “Let Data Speak to Data,” _Nature_ 438 (2005), available at "$":http://www.nature.com/nature/journal/v438/n7068/full/438531a.html or "$":http://www.webcitation.org/5ajmUrqQ1 (last visited July 31, 2007), cited in Tapscott and Williams, _Wikinomics_, 159.
+fn0673. Ibid., available at /v438/n7068/full/438531a.html or "$":http://www.webcitation.org/5ajmUrqQ1 (last visited July 31, 2007).
+fn0674. Michael W. Vannier and Ronald M. Summers, “Sharing Images,” _Radiology_ 228 (2003), available at "$":http://radiology.rsnajnls.org/cgi/content/full/228/1/23 or "$":http://www.webcitation.org/5ajmXvBDg.
+fn0675. U.S. National Virtual Observatory, available at "$":http://www.virtualobservatory.org/ or "$":http://www.webcitation.org/5ajmaBZkS (last visited July 31, 2007).
+fn0676. “About the Open Directory Project,” Open Directory Project, available at "$":http://www.dmoz.org/about.html or "$":http://www.webcitation.org/5ajmbQg3p (last visited July 11, 2007).
+fn0677. “About Open Source Food,” Open Source Food, available at "$":http://www.opensourcefood.com/about/ or "$":http://lessig.org/content/columns/pdfs/90.pdf (last visited July 11, 2007).
 fn0678. Benkler, _The Wealth of Networks_, 121.
-fn0679. Bricklin, “The Cornucopia of the Commons,” available at link #91.
+fn0679. Bricklin, “The Cornucopia of the Commons,” available at "$":http://www.bricklin.com/cornucopia.htm or "$":http://www.webcitation.org/5ajkogxRX.
 fn0680. von Hippel, _Democratizing Innovation_, 60–61.
 fn0681. Steven Weber, _The Success of Open Source_ (Cambridge, Mass.: Harvard University Press, 2004), 153.
 fn0682. von Hippel, _Democratizing Innovation_, 60–61.
@@ -2655,17 +2655,17 @@ fn0688. Ibid., 3.
 
 fn0701. I don’t mean to suggest that there weren’t hybrids before the Internet. Think of dog shows, open–mike nights at bars, or country fairs. All of these have a dynamic similar to the one I identify on the Internet. The only difference is the significance of these hybrids. The Internet will enable a much wider range of hybridization, with a much greater economic and social value. I am grateful to Oliver Baker for reminding me of this point.
 fn0702. Benkler, _The Wealth of Networks_, 55.
-fn0703. “GNU Free Documentation License,” Free Software Foundation, available at link #92 (last visited August 20, 2007).
+fn0703. “GNU Free Documentation License,” Free Software Foundation, available at "$":http://www.fsf.org/licensing/licenses/fdl.html or "$":http://www.webcitation.org/5ajn2e4hm (last visited August 20, 2007).
 fn0704. All quotes from Brian Behlendorf taken from an interview conducted May 11, 2007, by telephone.
 fn0705. Red Hat employed 50 percent of Linux’s core team. Telephone interview with Robert Young, April 26, 2007.
-fn0706. Red Hat and VA Linux gave stock options to Torvalds. Wikipedia contributors, “Linus Torvalds,” Wikipedia: The Free Encyclopedia, available at link #93 (Last visited July 31, 2007); Gary Rivlin, “Leader of the Free World,” _Wired_, November 2003, available at link #94.
+fn0706. Red Hat and VA Linux gave stock options to Torvalds. Wikipedia contributors, “Linus Torvalds,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Linus_Torvalds or "$":http://www.webcitation.org/5ajnBHWC8 (Last visited July 31, 2007); Gary Rivlin, “Leader of the Free World,” _Wired_, November 2003, available at "$":http://www.wired.com/wired/archive/11.11/linus_pr.html or "$":http://www.webcitation.org/5ajnbZn47.
 fn0707. All quotes from Mark Shuttleworth taken from an interview conducted March 19, 2007, by telephone.
-fn0708. Ted Rheingold, “Don’t Outsource Your Sales,” Dogster & Catster company Blogster, available at link #95 (last visited April 1, 2008).
+fn0708. Ted Rheingold, “Don’t Outsource Your Sales,” Dogster & Catster company Blogster, available at "$":http://blog.dogster.com/2007/07/19/dont-outsource-your-sales/ or "$":http://www.webcitation.org/5ajnctDGN (last visited April 1, 2008).
 fn0709. All quotes from Internet venture capitalist Joichi Ito taken from an interview conducted January 23, 2007, by telephone.
 fn0710. “New Cyberspace Classified Ad Technologies to Impact Newspaper Revenues in 3 Years,” _PR Newswire_, November 21, 1996.
 fn0711. “Newspaper Advertising Being Challenged by the ’Net,” _E–Commerce Law Report_ 11 (1999), 24.
-fn0712. Wikipedia contributors, “craigslist,” Wikipedia: The Free Encyclopedia, available at link #96 (last visited July 31, 2007).
-fn0713. Ibid., available at link #97 (last visited July 31, 2007).
+fn0712. Wikipedia contributors, “craigslist,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/Craigslist or "$":http://www.webcitation.org/5ajneo5RW (last visited July 31, 2007).
+fn0713. Ibid., available at "$":http://en.wikipedia.org/wiki/Craigslist or "$":http://www.webcitation.org/5ajneo5RW (last visited July 31, 2007).
 fn0714. All quotes from Craig Newmark taken from an interview conducted January 22, 2007, by telephone.
 fn0715. Tapscott and Williams, _Wikinomics_, 190. craigslist charges for job ads.
 fn0716. Ibid.
@@ -2673,21 +2673,21 @@ fn0717. Ibid.
 fn0718. Nick C. Sortal and Ian Katz, “Volunteers Use Internet to Offer Homes to Katrina Victims,” _South Florida Sun–Sentinel_, September 1, 2005.
 fn0719. Kathleen Sullivan, “Hurricane Katrina; Lodging Offers Being Posted on Craigslist; Across Continent, People Opening Homes to Survivors,” San Francisco Chronicle, September 4, 2005.
 fn0720. Tapscott and Williams, _Wikinomics_, 187.
-fn0721. “Flickr Founder: Creativity Is Human Nature,” CNN.com, January 17, 2007, available at link #98; Dan Fost, “Welcoming Startups into Yahoo’s Fold; Web Portal Works to Integrate the Companies It Has Acquired,” San Francisco Chronicle, December 24, 2006, available at link #99.
+fn0721. “Flickr Founder: Creativity Is Human Nature,” CNN.com, January 17, 2007, available at "$":http://www.cnn.com/2007/TECH/01/17/global.office.flickr/ or "$":http://www.webcitation.org/5ajnh6ri5; Dan Fost, “Welcoming Startups into Yahoo’s Fold; Web Portal Works to Integrate the Companies It Has Acquired,” San Francisco Chronicle, December 24, 2006, available at "$":http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/24/YAHOO.TMP or "$":http://www.webcitation.org/5ajnkV8HZ.
 fn0722. All quotes from Stewart Butterfield taken from an interview conducted May 1, 2007, by telephone.
 fn0723. All quotes from Steve Chen taken from an interview conducted January 29, 2007, by telephone.
-fn0724. Wikipedia contributors, “YouTube,” Wikipedia: The Free Encyclopedia, available at link #100 (last visited July 31, 2007); Pete Cashmore, “YouTube Is World’s Fastest Growing Website,” _Mashable—Social Networking News_, July 22, 2006, available at link #101.
-fn0725. Wikipedia contributors, “List of YouTube Celebrities,” Wikipedia: The Free Encyclopedia, available at link #102 (last visited April 1, 2008).
+fn0724. Wikipedia contributors, “YouTube,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/YouTube or "$":http://www.webcitation.org/5ajnnIbDz (last visited July 31, 2007); Pete Cashmore, “YouTube Is World’s Fastest Growing Website,” _Mashable—Social Networking News_, July 22, 2006, available at "$":http://mashable.com/2006/07/22/youtube-is-worlds-fastest-growing-website/ or "$":http://www.webcitation.org/5ajnoa4Qq.
+fn0725. Wikipedia contributors, “List of YouTube Celebrities,” Wikipedia: The Free Encyclopedia, available at "$":http://en.wikipedia.org/wiki/YouTube_celebrities or "$":http://www.webcitation.org/5ajnreGFn (last visited April 1, 2008).
 fn0726. Tim Deal, _User–Generated Video on the Web: A Taxonomy and Market Outlook_ (Silver Spring, Md.: Pike & Fischer, 2007), 4.
 fn0727. All quotes from Declan McCullagh taken from an interview conducted April 4, 2007, by telephone.
-fn0728. Declan McCullagh, “About Declan McCullagh’s Politech,” Politech: Politics & Technology, available at link #103 (last visited July 31, 2007).
-fn0729. “Yahoo! Groups,” Yahoo!, available at link #104 (last visited January 18, 2008).
+fn0728. Declan McCullagh, “About Declan McCullagh’s Politech,” Politech: Politics & Technology, available at "$":http://www.politechbot.com/info/about/ or "$":http://www.webcitation.org/5ajnspJYu (last visited July 31, 2007).
+fn0729. “Yahoo! Groups,” Yahoo!, available at "$":http://dir.groups.yahoo.com/dir/ or "$":http://www.webcitation.org/5ajoWo7vq (last visited January 18, 2008).
 fn0730. Tapscott and Williams, _Wikinomics_, 259.
 fn0731. All quotes from Jerry Yang taken from an interview conducted January 24, 2007, by telephone.
-fn0732. “Yahoo! Answers,” Yahoo!, available at link #105 (last visited April 14, 2008).
-fn0733. “Points and Levels,” Yahoo! Answers Point System, available at link #106 (last visited August 20, 2007).
-fn0734. “Bessemer Venture Partners Funds Jimmy Wales’ Startup Wikia,” Wikia.com, available at link #107 (last visited July 31, 2007).
-fn0735. Michael Arrington, “Wikia Gaming Launches with 250,000 Articles,” TechCrunch, available at link #108 (last visited January 18, 2008).
+fn0732. “Yahoo! Answers,” Yahoo!, available at "$":http://answers.yahoo.com or "$":http://www.webcitation.org/5ajoZPmxL (last visited April 14, 2008).
+fn0733. “Points and Levels,” Yahoo! Answers Point System, available at "$":http://answers.yahoo.com/info/scoring_system or "$":http://www.webcitation.org/5ajpbI2BX (last visited August 20, 2007).
+fn0734. “Bessemer Venture Partners Funds Jimmy Wales’ Startup Wikia,” Wikia.com, available at "$":http://www.wikia.com/wiki/Press_releases/Bessemer_Venture_Partners_Funds_Jimmy_Wales'_Startup_Wikia or "$":http://www.webcitation.org/5ajpfcf6M (last visited July 31, 2007).
+fn0735. Michael Arrington, “Wikia Gaming Launches with 250,000 Articles,” TechCrunch, available at "$":http://www.techcrunch.com/2007/09/11/8846/ or "$":http://www.webcitation.org/5ajphFawo (last visited January 18, 2008).
 fn0736. Jenkins, _Convergence Culture_, 185.
 fn0737. Ibid.
 fn0738. All quotes from Marc Brandon taken from an interview conducted February 13, 2007, by telephone.
@@ -2708,8 +2708,8 @@ fn0752. Ibid.
 fn0753. Ibid.
 fn0754. Tapscott and Williams, _Wikinomics_, 127.
 fn0755. All quotes from Philip Rosedale taken from an interview conducted February 8, 2007, by telephone.
-fn0756. Wagner James Au, “Laying Down the Law: The Notary Public of Thyris, New World Notes,” New World Notes, available at link #109 (last visited July 31, 2007).
-fn0757. “State of Play III—Social Revolutions,” State of Play Architecture Submissions, available at link #110 (last visited August 20, 2007).
+fn0756. Wagner James Au, “Laying Down the Law: The Notary Public of Thyris, New World Notes,” New World Notes, available at "$":http://secondlife.blogs.com/nwn/2005/10/laying_down_the.html or "$":http://www.webcitation.org/5ajpjRXGV (last visited July 31, 2007).
+fn0757. “State of Play III—Social Revolutions,” State of Play Architecture Submissions, available at "$":http://dotank.nyls.edu/SOP/Arch/Neualtenburg.html or "$":http://lessig.org/content/columns/pdfs/110.pdf (last visited August 20, 2007).
 fn0758. Sherry Turkle, _Life on the Screen: Identity in the Age of the Internet_ (New York: Simon & Schuster, 1995), 13.
 fn0759. Tapscott and Williams, _Wikinomics_, 30.
 fn0760. Ibid., 39.
@@ -2718,9 +2718,9 @@ fn0762. All quotes from Tim O’Reilly taken from an interview conducted January
 
 
 fn0801. See Ed Treleven, “Cracking Down of Music Theft; Recording Industry Gets Very Aggressive,” Wisconsin State Journal, February 4, 2007. (“Big Champagne found that in August 2003, when the RIAA began bringing lawsuits against file–sharers, the average number of global peer–to–peer users online at one time was about 3.8 million. Though there were peaks and valleys, that number steadily increased to nearly 10 million in March 2006. The number dipped slightly but remained steady at around 9 million through October, the last month for which Big Champagne has data.”)
-fn0802. “2006 10–Year Music Consumer Trends Chart,” RIAA, available at link #111 (last visited July 31, 2007).
-fn0803. Lydia Pallas Loren, “Building a Reliable Semicommons of Creative Works, Enforcement of Creative Commons Licenses and Limited Abandonment of Copyright,” George Mason Law Review 14 (2007), available at link #112.
-fn0804. Mia Garlick, “Lonely Island,” Creative Commons, available at link #113.
+fn0802. “2006 10–Year Music Consumer Trends Chart,” RIAA, available at "$":http://www.riaa.com/keystatistics.php?content_selector=consumertrends or "$":http://www.webcitation.org/5ajqCEeLN (last visited July 31, 2007).
+fn0803. Lydia Pallas Loren, “Building a Reliable Semicommons of Creative Works, Enforcement of Creative Commons Licenses and Limited Abandonment of Copyright,” George Mason Law Review 14 (2007), available at "$":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=957939 or "$":http://www.webcitation.org/5ajqE6af6.
+fn0804. Mia Garlick, “Lonely Island,” Creative Commons, available at "$":http://creativecommons.org/video/lonelyisland or "$":http://www.webcitation.org/5ajqGOwaL.
 fn0805. von Hippel, _Democratizing Innovation_, 91.
 fn0806. Ibid., 78–79.
 fn0807. Ibid., 86.
@@ -2732,34 +2732,34 @@ fn0811. Baumol, _The Free–Market Innovation Machine_, 120.
 fn0812. von Hippel, _Democratizing Innovation_, 42.
 fn0813. Ibid., 23.
 fn0814. Ibid., 22.
-fn0815. Paul Krill, “Sun: Pay Open–Source Developers,” InfoWorld, May 7, 2007, available at link  #114.
+fn0815. Paul Krill, “Sun: Pay Open–Source Developers,” InfoWorld, May 7, 2007, available at "$":http://www.infoworld.com/article/07/05/07/sunpay-opensource_1.html or "$":http://www.webcitation.org/5ajqJVucy.
 fn0816. Tapscott and Williams, _Wikinomics_, 206–7.
 fn0817. Ibid., 205.
 fn0818. Ibid., 206.
 fn0819. Ibid., 209.
 fn0820. Ibid., 210.
 fn0821. All quotes from David Marglin taken from an interview conducted June 12, 2007, by  telephone.
-fn0822. Robert Lemos, “Companies Fight over CD Listings, Leaving the Public Behind,” CNET  News.com, May 24, 2001, available at link #115.
+fn0822. Robert Lemos, “Companies Fight over CD Listings, Leaving the Public Behind,” CNET  News.com, May 24, 2001, available at "$":http://news.com.com/2009-1023-258109.html or "$":http://www.webcitation.org/5ajqMP0Aj.
 fn0823. Tim Deal, User–Generated Video on the Web: A Taxonomy and Market Outlook (Silver  Spring, Md.: Pike & Fischer, 2007), 11.
-fn0824. See Richard Stallman, “The GNU Manifesto,” GNU Project, available at link #116 (last  visited August 20, 2007). (“I consider that the golden rule requires that if I like a program  I must share it with other people who like it.”)
+fn0824. See Richard Stallman, “The GNU Manifesto,” GNU Project, available at "$":http://www.gnu.org/gnu/manifesto.html or "$":http://www.webcitation.org/5ajqSuICW (last  visited August 20, 2007). (“I consider that the golden rule requires that if I like a program  I must share it with other people who like it.”)
 fn0825. See Lessig, _The Future of Ideas_, 70.
-fn0826. “Official Rules for ACIDplanet.com, David Bowie Remix,” ACIDplanet.com, available  at link #117 (last visited July 31, 2007).
-fn0827. Elizabeth Durack, “fans.starwars.con,” Echo Station, available at link #118 (last visited  July 31, 2007).
+fn0826. “Official Rules for ACIDplanet.com, David Bowie Remix,” ACIDplanet.com, available  at "$":http://www.acidplanet.com/corporate/termsofservice.asp?T=462 or "$":http://www.webcitation.org/5ajqVA7q5 (last visited July 31, 2007).
+fn0827. Elizabeth Durack, “fans.starwars.con,” Echo Station, available at "$":http://www.echostation.com/editorials/confans.htm or "$":http://lessig.org/content/columns/pdfs/118.pdf (last visited  July 31, 2007).
 
 
 fn0901. See 17 U.S.C. §§108, 112, 403, 512, 1201, 1203, 1204, 1309.
 fn0902. See, e.g., 17 U.S.C. §115 (establishing a compulsory license for making and distributing phonorecords).
 fn0903. Lawrence Lessig, “The Regulation of Social Meaning,” _University of Chicago Law Review_ 62 (1995), 943–1045.
 fn0904. “Googling Copyrights,” _Wall Street Journal_, October 3, 2005.
-fn0905. See Brian Lavoie, Lynn Silipigni Connaway, and Lorcan Dempsey, “Anatomy of Aggregate Collections: The Example of Google Print for Libraries,” _D–Lib Magazine_, September 2005, available at link #119.
-fn0906. See the data in Paul J. Heald, “Property Rights and the Efficient Exploitation of Copyrighted Works: An Empirical Analysis of Public Domain and Copyrighted Fiction Best Sellers” (January 9, 2007), UGA Legal Studies Research Paper No. 07–003, available at link #120.
+fn0905. See Brian Lavoie, Lynn Silipigni Connaway, and Lorcan Dempsey, “Anatomy of Aggregate Collections: The Example of Google Print for Libraries,” _D–Lib Magazine_, September 2005, available at "$":http://www.dlib.org/dlib/september05/lavoie/09lavoie.html or "$":http://www.webcitation.org/5ajqdCPok.
+fn0906. See the data in Paul J. Heald, “Property Rights and the Efficient Exploitation of Copyrighted Works: An Empirical Analysis of Public Domain and Copyrighted Fiction Best Sellers” (January 9, 2007), UGA Legal Studies Research Paper No. 07–003, available at "$":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=955954 or "$":http://www.webcitation.org/5ajqkaVK9.
 fn0907. Richard Epstein, _Simple Rules for a Complex World_ (Cambridge, Mass.: Harvard University Press, 1995).
 fn0908. R. Anthony Reese, “Innocent Infringement in U.S. Copyright Law: A History,” _Columbia Journal of Law & the Arts_ 30 (2007), 133–84.
 fn0909. As Patterson explains, before 1909, the law included the word “copies,” but in a section defining the scope of the rights, the law made clear that the exclusive right to “copies” did not apply to a “book.” Instead, the right was intended to protect works, such as statues, that could only be “copied.” L. Ray Patterson, “Free Speech, Copyright, and Fair Use,” _Vanderbilt Law Review_ 40 (1987): 40–43.
 fn0910. Ibid.
 fn0911. Jessica Litman, “The Exclusive Right to Read,” _Cardozo Arts & Entertainment Law_ Journal 13 (1994): 29, 34–35.
 fn0912. There are of course important limits on Congress’s power if it is to live up to the obligations of international law. I don’t address those limits here. The simplest way to avoid inconsistency yet permit significant reform would be to limit the reach of any reform to U.S. law alone. More ambitiously, the United States could take the lead in reforming international law to make it conform better to creative interests. Christopher Sprigman, “Reform(aliz)ing Copyright,” _Stanford Law Review_ 57 (2004): 485.
-fn0913. See William W. Fisher, _Promises to Keep_ (Stanford, Calif.: Stanford University Press, 2004); Neil Weinstock Netanel, “Impose a Non–commercial Use Levy to Allow Free P2P File–sharing,” _Harvard Journal of Law and Technology_ 17 (2003): 1; “A Better Way Forward: Voluntary Collective Licensing of Music File Sharing,” Electronic Frontier Foundation, available at link #121 (last visited January 18, 2008).
+fn0913. See William W. Fisher, _Promises to Keep_ (Stanford, Calif.: Stanford University Press, 2004); Neil Weinstock Netanel, “Impose a Non–commercial Use Levy to Allow Free P2P File–sharing,” _Harvard Journal of Law and Technology_ 17 (2003): 1; “A Better Way Forward: Voluntary Collective Licensing of Music File Sharing,” Electronic Frontier Foundation, available at "$":http://www.eff.org/wp/better-way-forward-voluntary-collective-licensing-music-file-sharing or "$":http://www.webcitation.org/5ajqn8HT4 (last visited January 18, 2008).
 
 
 
@@ -2780,7 +2780,7 @@ fn1009. Anonymous, “Who Passes Up the Free Lunch” (unpublished, 2007) (on fi
 fn1101. See Carl J. Dahlman, “The Problem of Externality,” _Journal of Law and Economics_ 22 (1979): 141.
 fn1102. Thomas Jefferson letter to Isaac Mcpherson, August 13, 1813, reprinted in H. A. Washington, ed., _Writings of Thomas Jefferson 1790–1826_, vol. 6 (Washington, D. C: Taylor & Maury, 1854), 180–81; quoted in _Graham v. John Deere Company of Kansas_, 383 U. S. 1, 8–9n.2 (1966).
 fn1103. See Mark Stefik, ed., “Epilogue: Choices and Dreams,” _Internet Dreams: Archetypes, Myths, and Metaphors_ (Cambridge, Mass.: MIT Press, 1996), 391.
-fn1104. Rick E. Bruner, “Blogging Is Booming,” _iMedia Connection_, April 5, 2004, available at link #122 (last visited January 18, 2008).
+fn1104. Rick E. Bruner, “Blogging Is Booming,” _iMedia Connection_, April 5, 2004, available at "$":http://www.imediaconnection.com/content/3162.asp or "$":http://www.webcitation.org/5ajqox8oV (last visited January 18, 2008).
 fn1105. Stephen Breyer, “The Uneasy Case for Copyright: A Study of Copyright in Books, Photocopies, and Computer Programs,” _Harvard Law Review_ 84 (1970): 281.
 fn1106. See Lessig, _Code 2.0_, 409 note 8.
 fn1107. Al Gore, _The Assault on Reason_ (New York: Penguin Press, 2007), 194.
