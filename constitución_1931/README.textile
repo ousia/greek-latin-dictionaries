@@ -1,9 +1,0 @@
-h1. Constitución Española 1931
-
-bq[en]. Sorry, no English information available, since the text is in Spanish.
-
-Es la Constitución Española de 1931, tomada de "Wikisource":https://es.wikisource.org/wiki/Constituci%C3%B3n_de_la_Rep%C3%BAblica_Espa%C3%B1ola_de_1931_%28versi%C3%B3n_para_imprimir%29.
-
-Tengo la impresión de que pueda tener alguna errata y las listas con letras (debido a las posibilidades extremadamente simples de @textile@) pues no salen bien.
-
-En caso de estar interesado en la Constitución española vigente, está "en formato ePub":https://www.boe.es/publicaciones/editorial/libros_electronicos.php (junto con otros libros electrónicos) y en la "base de datos del Boletín Oficial del Estado":https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229.
